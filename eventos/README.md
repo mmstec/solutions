@@ -1,4 +1,4 @@
-# Solutions
+# Solutions Eventos
 Este repositório agrega soluções diversas para atendimento de diversas demandas
 
 ## 🚀 Citação
