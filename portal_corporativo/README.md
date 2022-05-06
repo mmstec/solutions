@@ -9,7 +9,7 @@ Faculdade de Tecnologia e Ciências de Jequié – UniFTC.
 * Co-orientador: Prof.º Esp. Saulo Correa Peixoto
 
 ## 📄 Definição
-Um Portal Corporativo pode proporcionar, de forma transparente para o usuário, diversas vantagens como a interligação entre departamentos ou filiais, ainda que separados fisicamente, melhoria da comunicação diminuindo os custos de telefonia, facilidades para imprimir documentos, aumento da produtividade dos funcionários, melhoria da eficiência administrativa, diminuindo as tarefas e erros operacionais. 
+O portal corporativo é uma página voltada para os funcionários e que fornece informações importantes sobre a própria empresa. Um Portal Corporativo pode proporcionar, de forma transparente para o usuário, diversas vantagens como a interligação entre departamentos ou filiais, ainda que separados fisicamente, melhoria da comunicação diminuindo os custos de telefonia, facilidades para imprimir documentos, aumento da produtividade dos funcionários, melhoria da eficiência administrativa, diminuindo as tarefas e erros operacionais. 
 
 ## Considerações
 * A linguagem de programação utilizada neste projeto foi Microsoft Visual C#.  
