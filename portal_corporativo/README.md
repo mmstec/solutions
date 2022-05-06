@@ -11,7 +11,7 @@ Faculdade de Tecnologia e Ciências de Jequié – UniFTC.
 ## 📄 Definição
 O portal corporativo é uma página voltada para os funcionários e que fornece informações importantes sobre a própria empresa. Um Portal Corporativo pode proporcionar, de forma transparente para o usuário, diversas vantagens como a interligação entre departamentos ou filiais, ainda que separados fisicamente, melhoria da comunicação diminuindo os custos de telefonia, facilidades para imprimir documentos, aumento da produtividade dos funcionários, melhoria da eficiência administrativa, diminuindo as tarefas e erros operacionais. 
 
-## Considerações
+## 📄 Considerações
 * A linguagem de programação utilizada neste projeto foi Microsoft Visual C#.  
 * Entre inúmeras ferramentas RAD, a ferramenta Microsoft Visual Studio 2008.
 * Quanto ao armazenamento de dados, foi escolhido o Microsoft SQL Server.
