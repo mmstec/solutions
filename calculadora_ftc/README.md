@@ -1,4 +1,4 @@
-# Solutions
+# Solutions Calculadora de Notas da UniFTC
 Esta solução atendeu a uma demanda específica.
 
 ## 📄 Licença
