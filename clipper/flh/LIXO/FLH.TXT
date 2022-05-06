@@ -1,0 +1,820 @@
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 17/02/1999
+Inicio : 16:42:05
+Termino: 16:42:14
+Total  : 00:00:09
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 17/02/1999
+Inicio : 16:43:59
+Termino: 16:44:04
+Total  : 00:00:05
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY OLIVEIRA
+Data   : 19/02/1999
+Inicio : 09:41:20
+Termino: 09:48:55
+Total  : 00:07:35
+==================================================
+Estacao: PESSOAL
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 10:37:22
+Termino: 10:37:56
+Total  : 00:00:34
+==================================================
+Estacao: PESSOAL
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 10:40:29
+Termino: 10:40:35
+Total  : 00:00:06
+==================================================
+Estacao: PESSOAL
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 10:40:46
+Termino: 10:41:16
+Total  : 00:00:30
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 10:57:09
+Termino: 10:58:39
+Total  : 00:01:30
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:08:31
+Termino: 11:09:09
+Total  : 00:00:38
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:24:13
+Termino: 11:25:08
+Total  : 00:00:55
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:27:59
+Termino: 11:29:01
+Total  : 00:01:02
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:31:32
+Termino: 11:33:37
+Total  : 00:02:05
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:38:49
+Termino: 11:39:49
+Total  : 00:01:00
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:41:03
+Termino: 11:43:49
+Total  : 00:02:46
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:44:51
+Termino: 11:46:18
+Total  : 00:01:27
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:48:34
+Termino: 11:49:40
+Total  : 00:01:06
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:50:53
+Termino: 11:52:09
+Total  : 00:01:16
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 11:52:51
+Termino: 11:54:14
+Total  : 00:01:23
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCSO
+Data   : 19/02/1999
+Inicio : 11:57:36
+Termino: 11:58:24
+Total  : 00:00:48
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 13:34:04
+Termino: 13:36:04
+Total  : 00:02:00
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 13:36:20
+Termino: 13:36:55
+Total  : 00:00:35
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 13:38:50
+Termino: 13:39:44
+Total  : 00:00:54
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 13:43:25
+Termino: 13:43:49
+Total  : 00:00:24
+==================================================
+Estacao: SUPERVISOR
+Usuario: 593210
+Data   : 19/02/1999
+Inicio : 13:44:22
+Termino: 13:44:34
+Total  : 00:00:12
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 13:45:22
+Termino: 13:46:48
+Total  : 00:01:26
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 13:48:56
+Termino: 13:49:09
+Total  : 00:00:13
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 13:49:33
+Termino: 13:51:17
+Total  : 00:01:44
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 13:53:53
+Termino: 13:54:43
+Total  : 00:00:50
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 13:55:28
+Termino: 13:55:49
+Total  : 00:00:21
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:03:01
+Termino: 14:04:24
+Total  : 00:01:23
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:12:20
+Termino: 14:13:57
+Total  : 00:01:37
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:16:27
+Termino: 14:18:39
+Total  : 00:02:12
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:21:51
+Termino: 14:23:06
+Total  : 00:01:15
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:23:56
+Termino: 14:24:21
+Total  : 00:00:25
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:26:12
+Termino: 14:27:00
+Total  : 00:00:48
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:27:54
+Termino: 14:34:02
+Total  : 00:06:08
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:34:51
+Termino: 14:35:14
+Total  : 00:00:23
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:40:43
+Termino: 14:41:12
+Total  : 00:00:29
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 14:45:49
+Termino: 14:46:02
+Total  : 00:00:13
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:07:39
+Termino: 15:08:11
+Total  : 00:00:32
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:11:03
+Termino: 15:11:37
+Total  : 00:00:34
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:17:58
+Termino: 15:18:19
+Total  : 00:00:21
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:19:06
+Termino: 15:20:35
+Total  : 00:01:29
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:21:44
+Termino: 15:24:17
+Total  : 00:02:33
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:24:49
+Termino: 15:25:12
+Total  : 00:00:23
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:29:05
+Termino: 15:29:34
+Total  : 00:00:29
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:32:24
+Termino: 15:32:33
+Total  : 00:00:09
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:34:56
+Termino: 15:35:24
+Total  : 00:00:28
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:38:57
+Termino: 15:39:58
+Total  : 00:01:01
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOPS
+Data   : 19/02/1999
+Inicio : 15:53:19
+Termino: 15:53:32
+Total  : 00:00:13
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:53:54
+Termino: 15:54:02
+Total  : 00:00:08
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:54:42
+Termino: 15:56:20
+Total  : 00:01:38
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 16:06:59
+Termino: 16:15:50
+Total  : 00:08:51
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 16:16:00
+Termino: 16:16:03
+Total  : 00:00:03
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 17:10:07
+Termino: 17:10:14
+Total  : 00:00:07
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 17:19:49
+Termino: 17:19:55
+Total  : 00:00:06
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 20/02/1999
+Inicio : 07:58:38
+Termino: 07:59:00
+Total  : 00:00:22
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 20/02/1999
+Inicio : 08:01:22
+Termino: 08:01:41
+Total  : 00:00:19
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 20/02/1999
+Inicio : 08:01:56
+Termino: 08:02:21
+Total  : 00:00:25
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 20/02/1999
+Inicio : 08:03:00
+Termino: 08:04:10
+Total  : 00:01:10
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 20/02/1999
+Inicio : 08:08:44
+Termino: 08:08:53
+Total  : 00:00:09
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 20/02/1999
+Inicio : 08:09:59
+Termino: 08:11:12
+Total  : 00:01:13
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 20/02/1999
+Inicio : 08:14:03
+Termino: 08:14:42
+Total  : 00:00:39
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 20/02/1999
+Inicio : 08:17:13
+Termino: 08:17:19
+Total  : 00:00:06
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 26/02/1999
+Inicio : 12:05:14
+Termino: 12:12:04
+Total  : 00:06:50
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 05/03/1999
+Inicio : 09:12:49
+Termino: 09:17:04
+Total  : 00:04:15
+==================================================
+Estacao: PESSOAL
+Usuario: ROSE
+Data   : 19/03/1999
+Inicio : 16:39:49
+Termino: 16:40:07
+Total  : 00:00:18
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 19/03/1999
+Inicio : 16:41:08
+Termino: 16:41:36
+Total  : 00:00:28
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 19/03/1999
+Inicio : 16:42:17
+Termino: 16:42:49
+Total  : 00:00:32
+==================================================
+Estacao: PESSOAL
+Usuario: MARCOS
+Data   : 19/03/1999
+Inicio : 16:43:39
+Termino: 16:44:02
+Total  : 00:00:23
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 26/03/1999
+Inicio : 15:17:31
+Termino: 15:19:51
+Total  : 00:02:20
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 01/04/1999
+Inicio : 15:05:28
+Termino: 15:12:24
+Total  : 00:06:56
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 09/04/1999
+Inicio : 10:19:53
+Termino: 10:20:39
+Total  : 00:00:46
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 09/04/1999
+Inicio : 10:20:42
+Termino: 10:22:14
+Total  : 00:01:32
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 16/04/1999
+Inicio : 09:03:09
+Termino: 09:06:04
+Total  : 00:02:55
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 23/04/1999
+Inicio : 14:16:36
+Termino: 14:20:19
+Total  : 00:03:43
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 30/04/1999
+Inicio : 08:14:56
+Termino: 08:16:53
+Total  : 00:01:57
+==================================================
+Estacao: PESSOAL
+Usuario: MARCOS
+Data   : 07/05/1999
+Inicio : 10:43:23
+Termino: 10:43:32
+Total  : 00:00:09
+==================================================
+Estacao: PESSOAL
+Usuario: MARCOS
+Data   : 07/05/1999
+Inicio : 10:44:45
+Termino: 10:44:59
+Total  : 00:00:14
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 07/05/1999
+Inicio : 10:46:33
+Termino: 10:47:21
+Total  : 00:00:48
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 07/05/1999
+Inicio : 10:52:08
+Termino: 10:52:35
+Total  : 00:00:27
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 07/05/1999
+Inicio : 10:57:24
+Termino: 11:05:29
+Total  : 00:08:05
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 07/05/1999
+Inicio : 11:08:52
+Termino: 11:09:42
+Total  : 00:00:50
+==================================================
+Estacao: PESSOAL
+Usuario: BBBB
+Data   : 07/05/1999
+Inicio : 10:56:57
+Termino: 11:11:22
+Total  : 00:14:25
+==================================================
+Estacao: PESSOAL
+Usuario: MARCOS
+Data   : 07/05/1999
+Inicio : 11:11:49
+Termino: 11:12:37
+Total  : 00:00:48
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 10/05/1999
+Inicio : 16:55:18
+Termino: 16:58:09
+Total  : 00:02:51
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 14/05/1999
+Inicio : 08:06:09
+Termino: 08:06:50
+Total  : 00:00:41
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 21/05/1999
+Inicio : 08:02:52
+Termino: 08:03:38
+Total  : 00:00:46
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 21/05/1999
+Inicio : 08:07:18
+Termino: 08:08:39
+Total  : 00:01:21
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 21/05/1999
+Inicio : 08:10:28
+Termino: 08:12:35
+Total  : 00:02:07
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 21/05/1999
+Inicio : 08:44:03
+Termino: 08:44:20
+Total  : 00:00:17
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 24/05/1999
+Inicio : 14:37:02
+Termino: 14:38:17
+Total  : 00:01:15
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 24/05/1999
+Inicio : 14:58:38
+Termino: 14:59:30
+Total  : 00:00:52
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 09:45:30
+Termino: 09:47:42
+Total  : 00:02:12
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 09:52:31
+Termino: 09:53:05
+Total  : 00:00:34
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 09:56:35
+Termino: 09:59:06
+Total  : 00:02:31
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:06:56
+Termino: 10:07:52
+Total  : 00:00:56
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:15:53
+Termino: 10:17:25
+Total  : 00:01:32
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:21:30
+Termino: 10:22:12
+Total  : 00:00:42
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:23:53
+Termino: 10:25:05
+Total  : 00:01:12
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:26:09
+Termino: 10:27:33
+Total  : 00:01:24
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:30:05
+Termino: 10:30:48
+Total  : 00:00:43
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:32:27
+Termino: 10:33:22
+Total  : 00:00:55
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:36:23
+Termino: 10:36:56
+Total  : 00:00:33
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:37:57
+Termino: 10:38:58
+Total  : 00:01:01
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 26/05/1999
+Inicio : 10:39:16
+Termino: 10:39:26
+Total  : 00:00:10
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 28/05/1999
+Inicio : 08:11:14
+Termino: 08:12:05
+Total  : 00:00:51
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 28/05/1999
+Inicio : 08:14:41
+Termino: 08:15:11
+Total  : 00:00:30
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 28/05/1999
+Inicio : 08:18:12
+Termino: 08:18:34
+Total  : 00:00:22
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 28/05/1999
+Inicio : 08:19:01
+Termino: 08:20:13
+Total  : 00:01:12
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 28/05/1999
+Inicio : 13:28:02
+Termino: 13:29:30
+Total  : 00:01:28
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 28/05/1999
+Inicio : 13:32:10
+Termino: 13:33:32
+Total  : 00:01:22
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 31/05/1999
+Inicio : 16:49:17
+Termino: 16:49:59
+Total  : 00:00:42
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 31/05/1999
+Inicio : 16:52:52
+Termino: 16:53:14
+Total  : 00:00:22
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 02/06/1999
+Inicio : 09:54:41
+Termino: 09:55:14
+Total  : 00:00:33
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 02/06/1999
+Inicio : 11:25:51
+Termino: 11:26:07
+Total  : 00:00:16
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 02/06/1999
+Inicio : 13:52:14
+Termino: 13:52:34
+Total  : 00:00:20
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 02/06/1999
+Inicio : 13:56:30
+Termino: 13:56:55
+Total  : 00:00:25
+==================================================
+

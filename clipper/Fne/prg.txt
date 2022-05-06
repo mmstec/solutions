@@ -1,0 +1,22 @@
+ O volume na unidade Y nÆo tem nome.
+ O n£mero de s‚rie do volume ‚ 583F-1234
+
+ Pasta de Y:\MMStec\MFB\Fne
+
+03/11/99  12:05                  7.407 FNE.prg
+01/11/99  11:55                  1.807 FNEalt.prg
+01/11/99  12:16                  4.586 FNEarq.prg
+01/11/99  11:56                  1.332 FNEexc.prg
+03/11/99  10:11                 20.784 FNEfun.prg
+01/11/99  11:53                  3.672 FNEinc.prg
+01/07/99  14:26                  4.701 FNEloc.prg
+01/11/99  12:06                  5.828 FNEman.prg
+03/11/99  12:04                  3.561 FNEREG.PRG
+22/04/99  16:19                  8.913 FNErel.prg
+01/11/99  15:08                  9.279 FNEsnh.prg
+26/02/99  15:53                  1.343 FNEutl.prg
+01/11/99  18:59                  1.363 GERADOR.PRG
+03/11/99  10:09                  1.246 REGISTRE.PRG
+27/02/99  11:40                  2.227 t1.prg
+          15 arquivo(s)         78.049 bytes
+                           565.284.864 bytes dispon¡veis

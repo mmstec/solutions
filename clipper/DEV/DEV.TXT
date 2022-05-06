@@ -1,0 +1,321 @@
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 27/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-11:29:26
+TERMINO  : 29/06/1998-11:31:22
+USO TOTAL: 00:01:56
+*** HISTORICO ***
+11:29:26-Entrada normal
+11:30:53-Relatorio 
+11:31:10-Impressao deGILSON BRITO ate GILSON BRITO
+11:31:10-Relatorio 
+11:31:14-Pesquisou registro 'GILSON'.
+         Localizou 'GILSON BRITO'
+11:31:22-Saida normal 
+11:31:40-Renovado DEV.TXT por excesso de tamanho
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 27/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-11:33:12
+TERMINO  : 29/06/1998-11:33:15
+USO TOTAL: 00:00:03
+*** HISTORICO ***
+11:33:12-Entrada normal
+11:33:15-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 27/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-11:33:40
+TERMINO  : 29/06/1998-11:33:55
+USO TOTAL: 00:00:15
+*** HISTORICO ***
+11:33:40-Entrada normal
+11:33:53-Impressao deGILSON BRITO ate GILSON BRITO
+11:33:54-Relatorio 
+11:33:55-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-11:36:25
+TERMINO  : 29/06/1998-11:36:36
+USO TOTAL: 00:00:11
+*** HISTORICO ***
+11:36:25-Entrada normal
+11:36:35-Impressao deGILSON BRITO ate GILSON BRITO
+11:36:35-Relatorio 
+11:36:36-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-11:42:32
+TERMINO  : 29/06/1998-11:42:45
+USO TOTAL: 00:00:13
+*** HISTORICO ***
+11:42:32-Entrada normal
+11:42:44-Impressao deGILSON BRITO ate GILSON BRITO
+11:42:45-Relatorio 
+11:42:45-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-11:45:44
+TERMINO  : 29/06/1998-11:45:57
+USO TOTAL: 00:00:13
+*** HISTORICO ***
+11:45:44-Entrada normal
+11:45:55-Impressao deGILSON BRITO ate GILSON BRITO
+11:45:56-Relatorio 
+11:45:57-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-11:57:05
+TERMINO  : 29/06/1998-11:57:17
+USO TOTAL: 00:00:12
+*** HISTORICO ***
+11:57:05-Entrada normal
+11:57:16-Impressao deGILSON BRITO ate GILSON BRITO
+11:57:17-Relatorio 
+11:57:17-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-12:00:15
+TERMINO  : 29/06/1998-12:00:28
+USO TOTAL: 00:00:13
+*** HISTORICO ***
+12:00:15-Entrada normal
+12:00:26-Impressao deGILSON BRITO ate GILSON BRITO
+12:00:27-Relatorio 
+12:00:28-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-13:59:02
+TERMINO  : 29/06/1998-13:59:17
+USO TOTAL: 00:00:15
+*** HISTORICO ***
+13:59:02-Entrada normal
+13:59:17-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-13:59:50
+TERMINO  : 29/06/1998-13:59:56
+USO TOTAL: 00:00:06
+*** HISTORICO ***
+13:59:50-Entrada normal
+13:59:56-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-14:01:05
+TERMINO  : 29/06/1998-14:01:17
+USO TOTAL: 00:00:12
+*** HISTORICO ***
+14:01:05-Entrada normal
+14:01:17-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-14:03:38
+TERMINO  : 29/06/1998-14:03:54
+USO TOTAL: 00:00:16
+*** HISTORICO ***
+14:03:38-Entrada normal
+14:03:54-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-14:04:18
+TERMINO  : 29/06/1998-14:04:41
+USO TOTAL: 00:00:23
+*** HISTORICO ***
+14:04:18-Entrada normal
+14:04:41-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-14:08:43
+TERMINO  : 29/06/1998-14:08:55
+USO TOTAL: 00:00:12
+*** HISTORICO ***
+14:08:43-Entrada normal
+14:08:55-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-14:30:57
+TERMINO  : 29/06/1998-14:31:03
+USO TOTAL: 00:00:06
+*** HISTORICO ***
+14:30:57-Entrada normal
+14:31:03-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-15:16:30
+TERMINO  : 29/06/1998-15:16:35
+USO TOTAL: 00:00:05
+*** HISTORICO ***
+15:16:30-Entrada normal
+15:16:35-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-15:16:47
+TERMINO  : 29/06/1998-15:18:15
+USO TOTAL: 00:01:28
+*** HISTORICO ***
+15:16:47-Entrada normal
+15:18:15-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-15:23:44
+TERMINO  : 29/06/1998-15:25:22
+USO TOTAL: 00:01:38
+*** HISTORICO ***
+15:23:44-Entrada normal
+15:25:22-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-15:25:25
+TERMINO  : 29/06/1998-15:25:55
+USO TOTAL: 00:00:30
+*** HISTORICO ***
+15:25:25-Entrada normal
+15:25:55-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-15:38:35
+TERMINO  : 29/06/1998-15:39:29
+USO TOTAL: 00:00:54
+*** HISTORICO ***
+15:38:35-Entrada normal
+15:39:29-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-16:42:44
+TERMINO  : 29/06/1998-16:44:09
+USO TOTAL: 00:01:25
+*** HISTORICO ***
+16:42:44-Entrada normal
+16:44:00-Inclusao de registro                               
+16:44:09-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/06/1998-16:54:44
+TERMINO  : 29/06/1998-16:55:25
+USO TOTAL: 00:00:41
+*** HISTORICO ***
+16:54:44-Entrada normal
+16:55:25-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 01/07/1998-08:31:38
+TERMINO  : 01/07/1998-08:35:34
+USO TOTAL: 00:03:56
+*** HISTORICO ***
+08:31:38-Entrada normal
+08:32:48-Inclusao de registro                               
+08:35:34-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 01/07/1998-08:36:21
+TERMINO  : 01/07/1998-08:36:28
+USO TOTAL: 00:00:07
+*** HISTORICO ***
+08:36:21-Entrada normal
+08:36:28-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DEV.EXE
+VERSAO   : 29/06/1998
+USUARIO  : MARCOS
+ENTRADA  : 08/02/1999-16:31:40
+TERMINO  : 08/02/1999-16:31:48
+USO TOTAL: 00:00:08
+*** HISTORICO ***
+16:31:40-Entrada normal
+16:31:48-Saida normal 
+
+==================================================
+

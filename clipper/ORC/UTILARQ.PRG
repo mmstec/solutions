@@ -1,0 +1,180 @@
+
+* TITULO     :  MFB Materiais de Construcao Ltda ( MMStec - Orcamento )
+* DATA       : 06/03/97
+* PROGRAMA   : UTILARQ.PRG
+* COMENTARIO : CRIACAO DE ARQUIVOS
+ 
+FUNCTION CRIARQ
+**
+** Bloco de inser‡„o ARQ.B01
+**
+IF .NOT. FILE("ICMS.DBF")
+   CREATE ARQ_STRU
+   IF .NOT. USEREDE("ARQ_STRU",.T.,10)
+      @ 0,0 SAY "" 
+      ? CHR(7)
+      MENSAGEM("Nao foi possivel criar os arquivos",5)
+      SET COLOR TO W
+      CLEAR
+      SET CURSOR ON
+      CLOSE ALL
+      QUIT
+   ENDIF
+   REPARQ("PRODUTO","C", 30,  0)
+   REPARQ("UNIDADE","N",  5,  2)
+   REPARQ("VALOR_UNI","N", 10,  2)
+   REPARQ("DESCONTO","N", 10,  2)
+   REPARQ("FINACEIRO","N", 10,  2)
+   REPARQ("TOTALFINAC","N", 10,  2)
+   REPARQ("BASE_ICMS","N", 10,  2)
+   REPARQ("ICMS_7","N", 10,  2)
+   REPARQ("CREDT_ICMS","N", 10,  2)
+   REPARQ("BASE_135","N", 10,  2)
+   REPARQ("BASE_C_SUB","N", 10,  2)
+   REPARQ("V_ICMS_17","N", 10,  2)
+   REPARQ("V_ICMS_SUB","N", 10,  2)
+   REPARQ("VT_PRODUTO","N", 10,  2)
+   REPARQ("SUB_RETIDA","N", 10,  2)
+   REPARQ("TOTALGERAL","N", 10,  2)
+   CREATE ICMS FROM ARQ_STRU
+ENDIF
+USE
+ERASE ARQ_STRU.DBF
+IF .NOT. FILE("PRECO.DBF")
+   CREATE ARQ_STRU
+   IF .NOT. USEREDE("ARQ_STRU",.T.,10)
+      @ 0,0 SAY "" 
+      ? CHR(7)
+      MENSAGEM("Nao foi possivel criar os arquivos",5)
+      SET COLOR TO W
+      CLEAR
+      SET CURSOR ON
+      CLOSE ALL
+      QUIT
+   ENDIF
+   REPARQ("IDENTIFIC","C", 30,  0)
+   REPARQ("CODIGO01","C", 30,  0)
+   REPARQ("CODIGO02","C", 30,  0)
+   REPARQ("CODIGO03","C", 30,  0)
+   REPARQ("CODIGO04","C", 30,  0)
+   REPARQ("DESTINATAR","C", 30,  0)
+   REPARQ("DESCRICAO","C", 30,  0)
+   REPARQ("QUANTID","N", 12,  2)
+   REPARQ("UNIDADE","C",  2,  0)
+   REPARQ("VALOR_UNIT","N", 10,  2)
+   REPARQ("VALOR_TOTA","N", 10,  2)
+   REPARQ("OBSERVACAO","C", 30,  0)
+   CREATE PRECO FROM ARQ_STRU
+ENDIF
+USE
+ERASE ARQ_STRU.DBF
+IF .NOT. FILE("LISTA.DBF")
+   CREATE ARQ_STRU
+   IF .NOT. USEREDE("ARQ_STRU",.T.,10)
+      @ 0,0 SAY "" 
+      ? CHR(7)
+      MENSAGEM("Nao foi possivel criar os arquivos",5)
+      SET COLOR TO W
+      CLEAR
+      SET CURSOR ON
+      CLOSE ALL
+      QUIT
+   ENDIF
+   REPARQ("DESCRICAO","C", 50,  0)
+   REPARQ("VALOR","N", 10,  2)
+   REPARQ("DATA","D",  8,  0)
+   CREATE LISTA FROM ARQ_STRU
+ENDIF
+USE
+ERASE ARQ_STRU.DBF
+IF .NOT. FILE("HEPPYDAY.DBF")
+   CREATE ARQ_STRU
+   IF .NOT. USEREDE("ARQ_STRU",.T.,10)
+      @ 0,0 SAY "" 
+      ? CHR(7)
+      MENSAGEM("Nao foi possivel criar os arquivos",5)
+      SET COLOR TO W
+      CLEAR
+      SET CURSOR ON
+      CLOSE ALL
+      QUIT
+   ENDIF
+   REPARQ("ANIVER","C", 30,  0)
+   REPARQ("ENDERECO","C", 30,  0)
+   REPARQ("BAIRRO","C", 30,  0)
+   REPARQ("CIDADE","C", 24,  0)
+   REPARQ("ESTADO","C",  2,  0)
+   REPARQ("FONE_1","C", 13,  0)
+   REPARQ("FONE_2","C", 13,  0)
+   REPARQ("FONE_3","C", 13,  0)
+   REPARQ("DATA_ANI","D",  8,  0)
+   REPARQ("DATA_INC","D",  8,  0)
+   CREATE HEPPYDAY FROM ARQ_STRU
+ENDIF
+USE
+ERASE ARQ_STRU.DBF
+IF .NOT. FILE("FOLHA_PA.DBF")
+   CREATE ARQ_STRU
+   IF .NOT. USEREDE("ARQ_STRU",.T.,10)
+      @ 0,0 SAY "" 
+      ? CHR(7)
+      MENSAGEM("Nao foi possivel criar os arquivos",5)
+      SET COLOR TO W
+      CLEAR
+      SET CURSOR ON
+      CLOSE ALL
+      QUIT
+   ENDIF
+   REPARQ("CODIGO","C",  5,  0)
+   REPARQ("NOME","C", 30,  0)
+   REPARQ("VALOR","N", 10,  2)
+   REPARQ("ASSINA","C", 30,  0)
+   REPARQ("SALAR_BASE","N", 10,  2)
+   REPARQ("DATA","D",  8,  0)
+   CREATE FOLHA_PA FROM ARQ_STRU
+ENDIF
+USE
+ERASE ARQ_STRU.DBF
+IF .NOT. FILE("REPRESET.DBF")
+   CREATE ARQ_STRU
+   IF .NOT. USEREDE("ARQ_STRU",.T.,10)
+      @ 0,0 SAY "" 
+      ? CHR(7)
+      MENSAGEM("Nao foi possivel criar os arquivos",5)
+      SET COLOR TO W
+      CLEAR
+      SET CURSOR ON
+      CLOSE ALL
+      QUIT
+   ENDIF
+   REPARQ("NOME","C", 30,  0)
+   REPARQ("FONE01","C", 14,  0)
+   REPARQ("EMPRESA","C", 30,  0)
+   REPARQ("FONE02","C", 14,  0)
+   REPARQ("FAX","C", 14,  0)
+   REPARQ("INTERNET","C", 30,  0)
+   CREATE REPRESET FROM ARQ_STRU
+ENDIF
+USE
+ERASE ARQ_STRU.DBF
+ 
+FUNCTION REPARQ
+PARA REP1,REP2,REP3,REP4
+IF .NOT. ADIREG(0)
+   @ 0,0 SAY ""
+   ? CHR(7)
+   MENSAGEM("Nao foi possivel criar os arquivos",5)
+   SET COLOR TO W
+   CLEAR
+   SET CURSOR ON
+   CLOSE ALL
+   QUIT
+ENDIF
+REPLACE FIELD_NAME WITH M->REP1,FIELD_TYPE WITH M->REP2
+REPLACE FIELD_LEN  WITH M->REP3,FIELD_DEC  WITH M->REP4
+UNLOCK
+**
+** Bloco de inser‡„o ARQ.B02
+**
+ 
+* Final do programa UTILARQ.PRG

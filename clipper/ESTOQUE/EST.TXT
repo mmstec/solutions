@@ -1,0 +1,1009 @@
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 24/01/2001
+Inicio : 10:00:09
+Termino: 10:00:56
+Total  : 00:00:47
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 25/01/2001
+Inicio : 16:41:01
+Termino: 16:41:54
+Total  : 00:00:53
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 26/01/2001
+Inicio : 15:47:01
+Termino: 16:06:16
+Total  : 00:19:15
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 26/01/2001
+Inicio : 16:06:30
+Termino: 16:09:37
+Total  : 00:03:07
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 26/01/2001
+Inicio : 16:10:09
+Termino: 16:10:28
+Total  : 00:00:19
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 29/01/2001
+Inicio : 09:16:41
+Termino: 09:17:36
+Total  : 00:00:55
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 30/01/2001
+Inicio : 13:59:54
+Termino: 14:00:24
+Total  : 00:00:30
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 01/02/2001
+Inicio : 10:35:30
+Termino: 10:36:16
+Total  : 00:00:46
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 05/02/2001
+Inicio : 13:36:44
+Termino: 13:38:35
+Total  : 00:01:51
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 09/02/2001
+Inicio : 10:07:43
+Termino: 10:09:04
+Total  : 00:01:21
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 14/02/2001
+Inicio : 17:27:45
+Termino: 17:29:20
+Total  : 00:01:35
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 20/02/2001
+Inicio : 09:03:06
+Termino: 09:04:38
+Total  : 00:01:32
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 23/02/2001
+Inicio : 11:37:26
+Termino: 11:38:48
+Total  : 00:01:22
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 28/02/2001
+Inicio : 13:55:31
+Termino: 13:56:09
+Total  : 00:00:38
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 12/03/2001
+Inicio : 08:35:56
+Termino: 08:37:57
+Total  : 00:02:01
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 19/03/2001
+Inicio : 07:34:52
+Termino: 07:37:55
+Total  : 00:03:03
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 20/03/2001
+Inicio : 09:06:18
+Termino: 09:06:46
+Total  : 00:00:28
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 20/03/2001
+Inicio : 09:07:05
+Termino: 09:07:51
+Total  : 00:00:46
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 22/03/2001
+Inicio : 15:06:18
+Termino: 15:06:40
+Total  : 00:00:22
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 29/03/2001
+Inicio : 09:27:00
+Termino: 09:31:40
+Total  : 00:04:40
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 02/04/2001
+Inicio : 13:31:05
+Termino: 13:32:01
+Total  : 00:00:56
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 07/04/2001
+Inicio : 08:30:30
+Termino: 08:31:27
+Total  : 00:00:57
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 10/04/2001
+Inicio : 08:21:24
+Termino: 08:22:13
+Total  : 00:00:49
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 10/04/2001
+Inicio : 08:58:00
+Termino: 08:58:39
+Total  : 00:00:39
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 16/04/2001
+Inicio : 09:46:38
+Termino: 09:48:04
+Total  : 00:01:26
+==================================================
+Estacao: BMC-02
+Usuario: MARCOIS
+Data   : 18/04/2001
+Inicio : 14:32:37
+Termino: 14:51:07
+Total  : 00:18:30
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 20/04/2001
+Inicio : 13:48:19
+Termino: 13:50:36
+Total  : 00:02:17
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 25/04/2001
+Inicio : 08:53:00
+Termino: 08:53:41
+Total  : 00:00:41
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 02/05/2001
+Inicio : 15:57:28
+Termino: 15:59:07
+Total  : 00:01:39
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 07/05/2001
+Inicio : 13:45:53
+Termino: 13:46:12
+Total  : 00:00:19
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 07/05/2001
+Inicio : 13:59:05
+Termino: 14:02:29
+Total  : 00:03:24
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 12/05/2001
+Inicio : 10:21:14
+Termino: 10:23:57
+Total  : 00:02:43
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 15/05/2001
+Inicio : 13:23:00
+Termino: 13:23:20
+Total  : 00:00:20
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 16/05/2001
+Inicio : 10:14:38
+Termino: 10:14:54
+Total  : 00:00:16
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 17/05/2001
+Inicio : 13:41:17
+Termino: 13:46:09
+Total  : 00:04:52
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 18/05/2001
+Inicio : 14:15:41
+Termino: 14:16:01
+Total  : 00:00:20
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 23/05/2001
+Inicio : 14:28:44
+Termino: 14:30:11
+Total  : 00:01:27
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 28/05/2001
+Inicio : 10:52:07
+Termino: 10:52:55
+Total  : 00:00:48
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 01/06/2001
+Inicio : 08:27:21
+Termino: 08:29:26
+Total  : 00:02:05
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 07/06/2001
+Inicio : 07:55:05
+Termino: 07:56:23
+Total  : 00:01:18
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 12/06/2001
+Inicio : 09:09:52
+Termino: 09:10:35
+Total  : 00:00:43
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 12/06/2001
+Inicio : 10:05:37
+Termino: 10:06:25
+Total  : 00:00:48
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 12/06/2001
+Inicio : 10:07:40
+Termino: 10:08:17
+Total  : 00:00:37
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 19/06/2001
+Inicio : 08:39:43
+Termino: 08:41:09
+Total  : 00:01:26
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 27/06/2001
+Inicio : 10:52:07
+Termino: 10:57:17
+Total  : 00:05:10
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 29/06/2001
+Inicio : 13:59:12
+Termino: 14:11:10
+Total  : 00:11:58
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 05/07/2001
+Inicio : 13:26:50
+Termino: 13:29:09
+Total  : 00:02:19
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 09/07/2001
+Inicio : 09:07:23
+Termino: 09:07:44
+Total  : 00:00:21
+==================================================
+Estacao: BMC-02
+Usuario: TALIBA
+Data   : 14/07/2001
+Inicio : 09:00:28
+Termino: 09:02:05
+Total  : 00:01:37
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 14/07/2001
+Inicio : 09:18:22
+Termino: 09:39:58
+Total  : 00:21:36
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 19/07/2001
+Inicio : 14:28:46
+Termino: 14:42:56
+Total  : 00:14:10
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 23/07/2001
+Inicio : 14:49:56
+Termino: 14:55:59
+Total  : 00:06:03
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 23/07/2001
+Inicio : 14:57:15
+Termino: 14:57:57
+Total  : 00:00:42
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 28/07/2001
+Inicio : 09:54:34
+Termino: 10:06:53
+Total  : 00:12:19
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 28/07/2001
+Inicio : 10:31:28
+Termino: 10:34:49
+Total  : 00:03:21
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 04/08/2001
+Inicio : 10:52:59
+Termino: 11:03:03
+Total  : 00:10:04
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 10/08/2001
+Inicio : 15:05:49
+Termino: 15:11:11
+Total  : 00:05:22
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 11/08/2001
+Inicio : 12:02:58
+Termino: 12:05:15
+Total  : 00:02:17
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 14/08/2001
+Inicio : 09:48:33
+Termino: 09:52:10
+Total  : 00:03:37
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 18/08/2001
+Inicio : 09:19:18
+Termino: 09:20:54
+Total  : 00:01:36
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 18/08/2001
+Inicio : 09:47:05
+Termino: 10:02:06
+Total  : 00:15:01
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 23/08/2001
+Inicio : 10:01:58
+Termino: 10:16:13
+Total  : 00:14:15
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 24/08/2001
+Inicio : 10:47:22
+Termino: 10:50:11
+Total  : 00:02:49
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 29/08/2001
+Inicio : 10:08:13
+Termino: 10:08:42
+Total  : 00:00:29
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 30/08/2001
+Inicio : 10:02:27
+Termino: 10:02:51
+Total  : 00:00:24
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 31/08/2001
+Inicio : 09:05:48
+Termino: 09:06:12
+Total  : 00:00:24
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 04/09/2001
+Inicio : 16:24:15
+Termino: 16:31:29
+Total  : 00:07:14
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 08/09/2001
+Inicio : 11:15:20
+Termino: 11:19:14
+Total  : 00:03:54
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 11/09/2001
+Inicio : 10:35:15
+Termino: 10:38:31
+Total  : 00:03:16
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 13/09/2001
+Inicio : 17:19:06
+Termino: 17:23:02
+Total  : 00:03:56
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 14/09/2001
+Inicio : 10:27:31
+Termino: 10:30:01
+Total  : 00:02:30
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 17/09/2001
+Inicio : 15:44:55
+Termino: 15:46:29
+Total  : 00:01:34
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 19/09/2001
+Inicio : 14:48:31
+Termino: 14:55:49
+Total  : 00:07:18
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 22/09/2001
+Inicio : 10:24:55
+Termino: 10:28:02
+Total  : 00:03:07
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 24/09/2001
+Inicio : 17:41:22
+Termino: 17:42:38
+Total  : 00:01:16
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 28/09/2001
+Inicio : 17:05:20
+Termino: 17:17:44
+Total  : 00:12:24
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 04/10/2001
+Inicio : 17:17:13
+Termino: 17:24:09
+Total  : 00:06:56
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 06/10/2001
+Inicio : 12:20:10
+Termino: 12:27:18
+Total  : 00:07:08
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 10/10/2001
+Inicio : 15:29:04
+Termino: 15:33:00
+Total  : 00:03:56
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 18/10/2001
+Inicio : 09:05:33
+Termino: 09:11:26
+Total  : 00:05:53
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 23/10/2001
+Inicio : 08:18:02
+Termino: 08:29:13
+Total  : 00:11:11
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 24/10/2001
+Inicio : 14:29:41
+Termino: 14:32:17
+Total  : 00:02:36
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 29/10/2001
+Inicio : 13:45:06
+Termino: 13:53:45
+Total  : 00:08:39
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 29/10/2001
+Inicio : 13:55:11
+Termino: 13:57:22
+Total  : 00:02:11
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 31/10/2001
+Inicio : 14:03:59
+Termino: 14:08:40
+Total  : 00:04:41
+==================================================
+Estacao: BMC-04
+Usuario: MARCOS
+Data   : 01/11/2001
+Inicio : 08:40:34
+Termino: 08:41:17
+Total  : 00:00:43
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 01/11/2001
+Inicio : 09:01:34
+Termino: 09:03:56
+Total  : 00:02:22
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 01/11/2001
+Inicio : 09:53:20
+Termino: 09:53:40
+Total  : 00:00:20
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 10/11/2001
+Inicio : 09:39:12
+Termino: 09:41:24
+Total  : 00:02:12
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 14/11/2001
+Inicio : 09:05:18
+Termino: 09:06:46
+Total  : 00:01:28
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 17/11/2001
+Inicio : 09:58:01
+Termino: 10:01:40
+Total  : 00:03:39
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 21/11/2001
+Inicio : 10:18:13
+Termino: 10:23:51
+Total  : 00:05:38
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 21/11/2001
+Inicio : 11:23:14
+Termino: 11:25:41
+Total  : 00:02:27
+==================================================
+Estacao: BMC-01
+Usuario: MARCOS
+Data   : 21/11/2001
+Inicio : 17:59:18
+Termino: 17:59:25
+Total  : 00:00:07
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 23/11/2001
+Inicio : 08:19:28
+Termino: 08:20:11
+Total  : 00:00:43
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 23/11/2001
+Inicio : 08:19:28
+Termino: 08:22:21
+Total  : 00:02:53
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 27/11/2001
+Inicio : 08:21:40
+Termino: 08:26:28
+Total  : 00:04:48
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 28/11/2001
+Inicio : 15:08:32
+Termino: 15:22:21
+Total  : 00:13:49
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 29/11/2001
+Inicio : 10:54:53
+Termino: 11:04:48
+Total  : 00:09:55
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 01/12/2001
+Inicio : 09:35:18
+Termino: 09:41:04
+Total  : 00:05:46
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 07/12/2001
+Inicio : 16:22:14
+Termino: 16:25:54
+Total  : 00:03:40
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 10/12/2001
+Inicio : 08:42:37
+Termino: 08:44:17
+Total  : 00:01:40
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 12/12/2001
+Inicio : 09:25:01
+Termino: 09:30:54
+Total  : 00:05:53
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 15/12/2001
+Inicio : 08:23:44
+Termino: 08:34:13
+Total  : 00:10:29
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 19/12/2001
+Inicio : 19:03:27
+Termino: 19:12:56
+Total  : 00:09:29
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 22/12/2001
+Inicio : 11:27:23
+Termino: 11:30:46
+Total  : 00:03:23
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 26/12/2001
+Inicio : 09:19:01
+Termino: 09:23:15
+Total  : 00:04:14
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 26/12/2001
+Inicio : 15:06:41
+Termino: 15:13:51
+Total  : 00:07:10
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 31/12/2001
+Inicio : 09:02:48
+Termino: 09:11:25
+Total  : 00:08:37
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/01/2002
+Inicio : 09:55:07
+Termino: 09:55:56
+Total  : 00:00:49
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/01/2002
+Inicio : 09:59:19
+Termino: 09:59:26
+Total  : 00:00:07
+==================================================
+Estacao: BMC-02
+Usuario: MACROS
+Data   : 03/05/2001
+Inicio : 10:00:11
+Termino: 10:00:17
+Total  : 00:00:06
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/06/2001
+Inicio : 10:02:56
+Termino: 10:03:00
+Total  : 00:00:04
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/07/2001
+Inicio : 10:04:44
+Termino: 10:04:48
+Total  : 00:00:04
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/08/2001
+Inicio : 10:06:56
+Termino: 10:07:02
+Total  : 00:00:06
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/09/2001
+Inicio : 10:09:09
+Termino: 10:09:13
+Total  : 00:00:04
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/10/2001
+Inicio : 10:11:08
+Termino: 10:11:11
+Total  : 00:00:03
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/11/2001
+Inicio : 10:13:43
+Termino: 10:13:47
+Total  : 00:00:04
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/11/2001
+Inicio : 10:16:29
+Termino: 10:16:58
+Total  : 00:00:29
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 03/12/2001
+Inicio : 10:17:46
+Termino: 10:17:57
+Total  : 00:00:11
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 05/01/2002
+Inicio : 08:02:59
+Termino: 08:12:10
+Total  : 00:09:11
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 19/01/2002
+Inicio : 10:53:41
+Termino: 11:00:19
+Total  : 00:06:38
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 19/01/2002
+Inicio : 11:06:35
+Termino: 11:08:32
+Total  : 00:01:57
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 22/01/2002
+Inicio : 13:30:37
+Termino: 13:30:50
+Total  : 00:00:13
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 25/01/2002
+Inicio : 11:21:54
+Termino: 11:26:48
+Total  : 00:04:54
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 28/01/2002
+Inicio : 08:40:49
+Termino: 08:43:20
+Total  : 00:02:31
+==================================================
+Estacao: BMC-04
+Usuario: TALIOBA
+Data   : 30/01/2002
+Inicio : 11:03:10
+Termino: 11:16:56
+Total  : 00:13:46
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 31/01/2002
+Inicio : 09:06:52
+Termino: 09:10:46
+Total  : 00:03:54
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 01/02/2002
+Inicio : 15:57:56
+Termino: 15:59:36
+Total  : 00:01:40
+==================================================
+Estacao: BMC-04
+Usuario: KARLA
+Data   : 02/02/2002
+Inicio : 11:34:07
+Termino: 11:37:46
+Total  : 00:03:39
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 04/02/2002
+Inicio : 14:42:53
+Termino: 14:43:20
+Total  : 00:00:27
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 19/02/2002
+Inicio : 15:06:02
+Termino: 15:08:58
+Total  : 00:02:56
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 22/02/2002
+Inicio : 10:05:32
+Termino: 10:09:13
+Total  : 00:03:41
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 25/02/2002
+Inicio : 09:00:14
+Termino: 09:02:21
+Total  : 00:02:07
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 27/02/2002
+Inicio : 11:35:14
+Termino: 11:38:45
+Total  : 00:03:31
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 01/03/2002
+Inicio : 09:56:09
+Termino: 10:07:10
+Total  : 00:11:01
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 04/03/2002
+Inicio : 08:16:30
+Termino: 08:17:01
+Total  : 00:00:31
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 07/03/2002
+Inicio : 13:55:23
+Termino: 13:59:13
+Total  : 00:03:50
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 09/03/2002
+Inicio : 13:29:47
+Termino: 13:35:24
+Total  : 00:05:37
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 14/03/2002
+Inicio : 17:40:43
+Termino: 17:44:04
+Total  : 00:03:21
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 16/03/2002
+Inicio : 12:26:03
+Termino: 12:28:06
+Total  : 00:02:03
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 21/03/2002
+Inicio : 09:37:34
+Termino: 09:42:42
+Total  : 00:05:08
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 22/03/2002
+Inicio : 17:38:58
+Termino: 17:39:38
+Total  : 00:00:40
+==================================================
+Estacao: BMC-04
+Usuario: TALIBA
+Data   : 23/03/2002
+Inicio : 11:00:32
+Termino: 11:04:50
+Total  : 00:04:18
+==================================================
+

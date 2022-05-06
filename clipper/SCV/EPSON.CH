@@ -1,0 +1,20 @@
+   impress   := 1
+   ini_italic:= "4"
+   fin_italic:= "5"
+   mod_carta := "x"
+   draft     := "x" + Chr(0)
+   roman     := "k" + Chr(0)
+   sserif    := "k"
+   ini_garraf:= ""
+   fin_garraf:= ""
+   ini_conden:= "!"     
+   fin_conden:= ""
+   dez_cpi   := "!" + Chr(0)
+   doze_cpi  := "!"
+   ps        := "!"
+   ini_negrit:= "E"
+   fin_negrit:= "F"
+   ini_lpp   := "0"
+   ini_lpp1  := "1"
+   fin_lpp   := "2"
+

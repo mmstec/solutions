@@ -1,0 +1,24 @@
+FUNCTION FUN_IMP
+IF LASTKEY()=27
+   *
+   * -> Finaliza edi‡„o
+   RETURN 0
+ELSEIF LASTKEY()=1
+   *
+   * Vai para o comeco do arquivo
+   GOTO TOP
+ELSEIF LASTKEY()=6
+   *
+   * -> Vai para o final do arquivo
+   GOTO BOTT
+ENDIF
+COR("JANELA DE DIALOGO")
+@ M->ULT_POS,77 SAY "Û"      COLOR("N+/"+ALLTRIM(SUBS(CONTECOR[4],4)))
+M->ULT_POS=LIN_MENU+5+(((RECN()*100)/M->QUAN_REG)/(100/(19-(LIN_MENU+5))))
+IF RECN()=1
+   M->ULT_POS=LIN_MENU+5
+ENDIF
+@ M->ULT_POS,77 SAY CHR(4)  COLOR("R+*/"+ALLTRIM(SUBS(CONTECOR[5],4)))
+@ M->ULT_POS,76 SAY "ú"     COLOR("N+*/n")
+SETCOLOR(CONTECOR[4]+","+CONTECOR[7])
+RETURN 1

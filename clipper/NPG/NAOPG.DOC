@@ -1,0 +1,161 @@
+
+ 
+     MIRO 2.2 - DOCUMENTA─▌O DO SISTEMA
+     дддддддддддддддддддддддддддддддддд
+ 
+     SISTEMA : NAOPG
+     TITULO  :  Recupera┤└o de Inadiplencia                                                    
+ 
+ 
+     ARQUIVOS
+     мммммммм
+ 
+     AREA      : 1
+     ARQUIVO   : VEND_NPG.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     VENDEDOR     CARACTER         1          0
+     DOCUMENTO    CARACTER        10          0
+     CLIENTE      CARACTER        30          0
+     VALORSJURO   NUMERICO        10          2
+     VALORCJURO   NUMERICO        10          2
+     CIMENTO      NUMERICO        10          2
+     PAGO_NAOPG   DATA             8          0
+     OBSERVACAO   CARACTER        30          0
+ 
+     INDICE    : VEND_001.NTX
+     EXPRESSAO : CLIENTE
+     ORDEM     : 1
+ 
+     INDICE    : VEND_002.NTX
+     EXPRESSAO : VENDEDOR+CLIENTE+DOCUMENTO+STR(VALORSJURO,10,2)+STR(VALORCJURO,10,2)
+     ORDEM     : 2
+ 
+     INDICE    : VEND_003.NTX
+     EXPRESSAO : VENDEDOR+DTOS(PAGO_NAOPG)+DTOS(PAGO_NAOPG)+CLIENTE+STR(VALORSJURO,10,2)
+     ORDEM     : 3
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+ 
+     SISTEMA NAOPG - MODULOS (PRG)
+     ммммммммммммммммммммммммммммм
+ 
+     зддддддддддддддддбддддддддддддддддддддддддддддддд©
+     Ё     Modulo     Ё           Descricao           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPG.PRG      Ё Modulo principal              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGfun.PRG   Ё Modulo de funcoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGsos.PRG   Ё Rotinas de help               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGInc.PRG   Ё Menu de inclusoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGI01.PRG   Ё 1.Inadiplentes                Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGI02.PRG   Ё 2.Pagamentos                  Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGCon.PRG   Ё Menu de consultas             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGC01.PRG   Ё 1.Inadiplentes                Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGC02.PRG   Ё 2.Pagamentos                  Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGRel.PRG   Ё Menu de relatorios            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGR01.PRG   Ё 1.Inadiplentes                Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё NAOPGR02.PRG   Ё 2.Pagamentos                  Ё
+     юддддддддддддддддаддддддддддддддддддддддддддддддды
+ 
+ 
+ 
+     CONFIGURACAO DO SISTEMA
+     ммммммммммммммммммммммм
+ 
+   - Linguagem
+ 
+     здддбддддддддд©  здддбдддддддд©
+     Ё Ш Ё Clipper Ё  Ё   Ё Joiner Ё
+     юдддаддддддддды  юдддадддддддды
+ 
+ 
+   - Tratamento de arquivos
+ 
+     здддбддддддддддддд©  здддбдддддддддддддд©
+     Ё   Ё Monousuario Ё  Ё Ш Ё Multiusuario Ё
+     юдддаддддддддддддды  юдддадддддддддддддды
+ 
+ 
+   - Endentacao 
+ 
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё   Ё 00 Coluna  Ё   Ё   Ё 01 Coluna  Ё   Ё   Ё 02 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё Ш Ё 03 Coluna  Ё   Ё   Ё 04 Coluna  Ё   Ё   Ё 05 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+ 
+ 
+   - Visualizar blocos
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Comentarios
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Rotinas
+ 
+     здддбддддддддддддддддддддддддддддддд©
+     Ё Ш Ё Calendario                    Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Calculadora                   Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Senhas de acesso              Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Help                          Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Back-up                       Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Dos shell                     Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Atualizacao de data           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Criacao de arquivos           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Sombras                       Ё
+     юдддаддддддддддддддддддддддддддддддды
+ 
+ 
+   - Cores do sistema
+ 
+     здддддддддддддддддддддддбддддддддддбдддддддддддддддддддддддддддддддд©
+     Ё     Especificacao     Ё Setcolor Ё      Descricao das cores       Ё
+     цдддддддддддддддддддддддеддддддддддедддддддддддддддддддддддддддддддд╢
+     Ё  Fundo da tela        Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Menu                 Ё    B/BG  Ё  Azul / Cyan                   Ё
+     Ё  Destaque do menu     Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Janela de dialogo    Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Box janela de dialogoЁ    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Botoes               Ё     W/R  Ё  Branco / Vermelho             Ё
+     Ё  Botao em destaque    Ё   GR+/R  Ё  Amarelo / Vermelho            Ё
+     Ё  Gets                 Ё     W/B  Ё  Branco / Azul                 Ё
+     Ё  Get em destaque      Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Tela de apresenta┤└o Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Caracteres avulsos   Ё     W/B  Ё  Branco / Azul                 Ё
+     Ё  Cercaduras           Ё    BG/B  Ё  Cyan / Azul                   Ё
+     Ё  T║tulo               Ё   GR+/B  Ё  Amarelo / Azul                Ё
+     юдддддддддддддддддддддддаддддддддддадддддддддддддддддддддддддддддддды
+ 
+ 
+* Final NAOPG.DOC

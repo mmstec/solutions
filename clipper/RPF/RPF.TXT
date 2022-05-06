@@ -1,0 +1,2472 @@
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 16:52:59
+Termino: 16:53:02
+Total  : 00:00:03
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 16:53:40
+Termino: 16:53:45
+Total  : 00:00:05
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 16:54:59
+Termino: 16:55:06
+Total  : 00:00:07
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 10/02/1999
+Inicio : 09:20:26
+Termino: 09:20:57
+Total  : 00:00:31
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 10/02/1999
+Inicio : 14:09:54
+Termino: 14:10:00
+Total  : 00:00:06
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 12/02/1999
+Inicio : 10:15:17
+Termino: 10:16:46
+Total  : 00:01:29
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 13/02/1999
+Inicio : 08:24:10
+Termino: 08:24:15
+Total  : 00:00:05
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 13/02/1999
+Inicio : 08:24:33
+Termino: 08:25:09
+Total  : 00:00:36
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 13/02/1999
+Inicio : 08:39:29
+Termino: 08:39:43
+Total  : 00:00:14
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 17/02/1999
+Inicio : 15:57:32
+Termino: 15:57:59
+Total  : 00:00:27
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 18/02/1999
+Inicio : 10:52:45
+Termino: 10:55:02
+Total  : 00:02:17
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 18/02/1999
+Inicio : 10:55:47
+Termino: 10:56:04
+Total  : 00:00:17
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 19/02/1999
+Inicio : 08:34:09
+Termino: 08:40:01
+Total  : 00:05:52
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 19/02/1999
+Inicio : 08:41:55
+Termino: 08:42:09
+Total  : 00:00:14
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 19/02/1999
+Inicio : 09:25:40
+Termino: 09:26:29
+Total  : 00:00:49
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 19/02/1999
+Inicio : 10:53:51
+Termino: 10:53:59
+Total  : 00:00:08
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 19/02/1999
+Inicio : 14:49:54
+Termino: 14:50:03
+Total  : 00:00:09
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 19/02/1999
+Inicio : 15:00:04
+Termino: 15:00:22
+Total  : 00:00:18
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 19/02/1999
+Inicio : 15:35:48
+Termino: 15:37:55
+Total  : 00:02:07
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 20/02/1999
+Inicio : 09:00:36
+Termino: 09:01:31
+Total  : 00:00:55
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 20/02/1999
+Inicio : 09:43:30
+Termino: 09:58:50
+Total  : 00:15:20
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 20/02/1999
+Inicio : 10:35:39
+Termino: 10:36:06
+Total  : 00:00:27
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 20/02/1999
+Inicio : 10:36:44
+Termino: 10:36:55
+Total  : 00:00:11
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 20/02/1999
+Inicio : 11:07:08
+Termino: 11:07:37
+Total  : 00:00:29
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 20/02/1999
+Inicio : 11:56:34
+Termino: 11:57:39
+Total  : 00:01:05
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI JSEFA DE OLIVEIRA
+Data   : 20/02/1999
+Inicio : 12:02:07
+Termino: 12:03:59
+Total  : 00:01:52
+==================================================
+Estacao: CREDIARIO3
+Usuario: MAR;LI
+Data   : 23/02/1999
+Inicio : 10:44:40
+Termino: 11:21:15
+Total  : 00:36:35
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 24/02/1999
+Inicio : 08:13:40
+Termino: 08:15:35
+Total  : 00:01:55
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 02/03/1999
+Inicio : 14:53:36
+Termino: 14:56:18
+Total  : 00:02:42
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 02/03/1999
+Inicio : 14:57:01
+Termino: 14:57:14
+Total  : 00:00:13
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 02/03/1999
+Inicio : 14:58:43
+Termino: 14:59:02
+Total  : 00:00:19
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 02/03/1999
+Inicio : 16:36:52
+Termino: 16:36:58
+Total  : 00:00:06
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 03/03/1999
+Inicio : 16:12:18
+Termino: 16:12:24
+Total  : 00:00:06
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 05/03/1999
+Inicio : 11:23:30
+Termino: 11:27:05
+Total  : 00:03:35
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 06/03/1999
+Inicio : 09:50:39
+Termino: 09:52:57
+Total  : 00:02:18
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 10/03/1999
+Inicio : 15:58:10
+Termino: 16:05:23
+Total  : 00:07:13
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 13/03/1999
+Inicio : 08:58:56
+Termino: 09:12:15
+Total  : 00:13:19
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 13/03/1999
+Inicio : 09:14:51
+Termino: 09:53:02
+Total  : 00:38:11
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 13/03/1999
+Inicio : 10:30:19
+Termino: 10:30:55
+Total  : 00:00:36
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 13/03/1999
+Inicio : 10:33:21
+Termino: 10:36:54
+Total  : 00:03:33
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 15/03/1999
+Inicio : 07:58:15
+Termino: 07:59:01
+Total  : 00:00:46
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 15/03/1999
+Inicio : 07:59:09
+Termino: 07:59:21
+Total  : 00:00:12
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 17/03/1999
+Inicio : 15:17:30
+Termino: 15:17:57
+Total  : 00:00:27
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 18/03/1999
+Inicio : 09:46:33
+Termino: 09:47:51
+Total  : 00:01:18
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 18/03/1999
+Inicio : 11:23:45
+Termino: 11:24:07
+Total  : 00:00:22
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 18/03/1999
+Inicio : 11:27:30
+Termino: 11:27:49
+Total  : 00:00:19
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 22/03/1999
+Inicio : 14:39:03
+Termino: 14:40:46
+Total  : 00:01:43
+==================================================
+Estacao: CREDIARIO3
+Usuario: MAR;I
+Data   : 23/03/1999
+Inicio : 11:36:59
+Termino: 11:46:27
+Total  : 00:09:28
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 23/03/1999
+Inicio : 17:19:09
+Termino: 17:19:33
+Total  : 00:00:24
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 24/03/1999
+Inicio : 15:29:23
+Termino: 15:30:59
+Total  : 00:01:36
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 25/03/1999
+Inicio : 15:07:23
+Termino: 15:07:30
+Total  : 00:00:07
+==================================================
+Estacao: CREDIARIO2
+Usuario: MARCOS
+Data   : 27/03/1999
+Inicio : 12:24:35
+Termino: 12:25:23
+Total  : 00:00:48
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 29/03/1999
+Inicio : 16:33:37
+Termino: 16:35:01
+Total  : 00:01:24
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 01/04/1999
+Inicio : 09:16:33
+Termino: 09:19:31
+Total  : 00:02:58
+==================================================
+Estacao: CREDIARIO2
+Usuario: MARLI
+Data   : 01/04/1999
+Inicio : 09:19:37
+Termino: 09:23:02
+Total  : 00:03:25
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 03/04/1999
+Inicio : 08:09:46
+Termino: 08:11:12
+Total  : 00:01:26
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 03/04/1999
+Inicio : 08:22:26
+Termino: 08:26:26
+Total  : 00:04:00
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 05/04/1999
+Inicio : 08:14:32
+Termino: 08:26:57
+Total  : 00:12:25
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 06/04/1999
+Inicio : 17:18:07
+Termino: 17:18:42
+Total  : 00:00:35
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS3
+Data   : 08/04/1999
+Inicio : 11:17:00
+Termino: 11:17:07
+Total  : 00:00:07
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 09/04/1999
+Inicio : 10:27:43
+Termino: 10:30:55
+Total  : 00:03:12
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA RHOSE SOUZA DOURADO
+Data   : 10/04/1999
+Inicio : 12:17:17
+Termino: 12:17:35
+Total  : 00:00:18
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 12/04/1999
+Inicio : 16:52:43
+Termino: 16:56:34
+Total  : 00:03:51
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 14/04/1999
+Inicio : 08:31:59
+Termino: 08:32:13
+Total  : 00:00:14
+==================================================
+Estacao: CREDIARIO2
+Usuario: MARLI
+Data   : 15/04/1999
+Inicio : 10:18:12
+Termino: 10:22:32
+Total  : 00:04:20
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 15/04/1999
+Inicio : 14:27:24
+Termino: 14:28:49
+Total  : 00:01:25
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 15/04/1999
+Inicio : 14:29:08
+Termino: 14:30:09
+Total  : 00:01:01
+==================================================
+Estacao: CREDIARIO2
+Usuario: NARLI
+Data   : 19/04/1999
+Inicio : 08:19:23
+Termino: 08:19:37
+Total  : 00:00:14
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 19/04/1999
+Inicio : 15:46:52
+Termino: 15:47:00
+Total  : 00:00:08
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 19/04/1999
+Inicio : 15:47:03
+Termino: 15:51:44
+Total  : 00:04:41
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 22/04/1999
+Inicio : 08:15:47
+Termino: 08:16:05
+Total  : 00:00:18
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 24/04/1999
+Inicio : 08:55:57
+Termino: 09:21:14
+Total  : 00:25:17
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 28/04/1999
+Inicio : 11:13:04
+Termino: 11:13:10
+Total  : 00:00:06
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 28/04/1999
+Inicio : 11:16:24
+Termino: 11:16:30
+Total  : 00:00:06
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 28/04/1999
+Inicio : 11:17:51
+Termino: 11:18:02
+Total  : 00:00:11
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 28/04/1999
+Inicio : 11:18:30
+Termino: 11:25:30
+Total  : 00:07:00
+==================================================
+Estacao: PESSOAL
+Usuario: MARCOS
+Data   : 30/04/1999
+Inicio : 17:26:53
+Termino: 17:27:05
+Total  : 00:00:12
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 03/05/1999
+Inicio : 08:25:09
+Termino: 08:47:43
+Total  : 00:22:34
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 03/05/1999
+Inicio : 15:32:15
+Termino: 15:32:32
+Total  : 00:00:17
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 03/05/1999
+Inicio : 15:32:54
+Termino: 15:33:04
+Total  : 00:00:10
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 03/05/1999
+Inicio : 16:17:48
+Termino: 16:24:20
+Total  : 00:06:32
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 03/05/1999
+Inicio : 16:31:55
+Termino: 16:32:29
+Total  : 00:00:34
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 03/05/1999
+Inicio : 16:39:54
+Termino: 16:40:04
+Total  : 00:00:10
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 03/05/1999
+Inicio : 16:58:36
+Termino: 16:59:17
+Total  : 00:00:41
+==================================================
+Estacao: CREDIARIO2
+Usuario: NARCOS
+Data   : 03/05/1999
+Inicio : 17:05:45
+Termino: 17:07:08
+Total  : 00:01:23
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 04/05/1999
+Inicio : 16:38:39
+Termino: 16:42:34
+Total  : 00:03:55
+==================================================
+Estacao: PESSOAL
+Usuario: ROSEMERY
+Data   : 05/05/1999
+Inicio : 11:33:30
+Termino: 11:33:55
+Total  : 00:00:25
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 05/05/1999
+Inicio : 14:56:35
+Termino: 14:59:02
+Total  : 00:02:27
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 06/05/1999
+Inicio : 09:43:24
+Termino: 09:47:17
+Total  : 00:03:53
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 06/05/1999
+Inicio : 09:52:38
+Termino: 09:52:58
+Total  : 00:00:20
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 06/05/1999
+Inicio : 10:03:16
+Termino: 10:03:33
+Total  : 00:00:17
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 06/05/1999
+Inicio : 10:03:41
+Termino: 10:04:05
+Total  : 00:00:24
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 06/05/1999
+Inicio : 10:58:12
+Termino: 10:58:31
+Total  : 00:00:19
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 07/05/1999
+Inicio : 15:58:48
+Termino: 15:59:45
+Total  : 00:00:57
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI JOSEFA DE OLIVEIRA
+Data   : 07/05/1999
+Inicio : 16:00:57
+Termino: 16:02:43
+Total  : 00:01:46
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 08/05/1999
+Inicio : 09:46:43
+Termino: 09:47:31
+Total  : 00:00:48
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 08/05/1999
+Inicio : 09:47:38
+Termino: 09:53:23
+Total  : 00:05:45
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 08/05/1999
+Inicio : 09:53:30
+Termino: 09:55:01
+Total  : 00:01:31
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 08/05/1999
+Inicio : 09:55:37
+Termino: 10:33:45
+Total  : 00:38:08
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 08/05/1999
+Inicio : 11:13:14
+Termino: 11:14:17
+Total  : 00:01:03
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 08/05/1999
+Inicio : 11:25:53
+Termino: 11:26:13
+Total  : 00:00:20
+==================================================
+Estacao: CREDIARIO3
+Usuario: 1111
+Data   : 10/05/1999
+Inicio : 14:32:43
+Termino: 14:32:52
+Total  : 00:00:09
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 10/05/1999
+Inicio : 15:38:24
+Termino: 15:39:12
+Total  : 00:00:48
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 11/05/1999
+Inicio : 10:19:09
+Termino: 11:50:19
+Total  : 01:31:10
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 11/05/1999
+Inicio : 13:52:01
+Termino: 13:53:24
+Total  : 00:01:23
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 11/05/1999
+Inicio : 13:53:31
+Termino: 14:10:47
+Total  : 00:17:16
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 11/05/1999
+Inicio : 14:32:16
+Termino: 14:44:32
+Total  : 00:12:16
+==================================================
+Estacao: CREDIARIO2
+Usuario: MARLI
+Data   : 11/05/1999
+Inicio : 17:43:17
+Termino: 17:47:40
+Total  : 00:04:23
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 12/05/1999
+Inicio : 08:19:27
+Termino: 09:18:16
+Total  : 00:58:49
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 12/05/1999
+Inicio : 09:18:48
+Termino: 09:20:57
+Total  : 00:02:09
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 13/05/1999
+Inicio : 09:18:58
+Termino: 09:19:11
+Total  : 00:00:13
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 13/05/1999
+Inicio : 10:22:34
+Termino: 10:31:50
+Total  : 00:09:16
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 13/05/1999
+Inicio : 14:32:49
+Termino: 14:33:57
+Total  : 00:01:08
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 14/05/1999
+Inicio : 15:01:27
+Termino: 15:32:46
+Total  : 00:31:19
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 14/05/1999
+Inicio : 16:06:03
+Termino: 16:06:29
+Total  : 00:00:26
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 14/05/1999
+Inicio : 16:45:47
+Termino: 16:50:15
+Total  : 00:04:28
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARLI
+Data   : 15/05/1999
+Inicio : 09:24:20
+Termino: 09:32:55
+Total  : 00:08:35
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 17/05/1999
+Inicio : 10:20:01
+Termino: 10:23:28
+Total  : 00:03:27
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 20/05/1999
+Inicio : 10:29:05
+Termino: 10:36:37
+Total  : 00:07:32
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 20/05/1999
+Inicio : 16:38:33
+Termino: 16:42:48
+Total  : 00:04:15
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 22/05/1999
+Inicio : 11:33:14
+Termino: 11:44:58
+Total  : 00:11:44
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: ,ARCOS
+Data   : 24/05/1999
+Inicio : 14:32:05
+Termino: 14:32:14
+Total  : 00:00:09
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 24/05/1999
+Inicio : 15:05:00
+Termino: 15:06:09
+Total  : 00:01:09
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 25/05/1999
+Inicio : 08:47:16
+Termino: 08:55:42
+Total  : 00:08:26
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 25/05/1999
+Inicio : 17:13:35
+Termino: 17:14:30
+Total  : 00:00:55
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 27/05/1999
+Inicio : 13:46:41
+Termino: 13:49:04
+Total  : 00:02:23
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 28/05/1999
+Inicio : 10:32:16
+Termino: 10:33:25
+Total  : 00:01:09
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 31/05/1999
+Inicio : 08:22:32
+Termino: 08:23:06
+Total  : 00:00:34
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 01/06/1999
+Inicio : 13:51:32
+Termino: 13:53:50
+Total  : 00:02:18
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 01/06/1999
+Inicio : 14:58:37
+Termino: 14:59:09
+Total  : 00:00:32
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 01/06/1999
+Inicio : 14:59:14
+Termino: 15:02:00
+Total  : 00:02:46
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 01/06/1999
+Inicio : 14:56:21
+Termino: 14:56:55
+Total  : 00:00:34
+==================================================
+Estacao: CREDIARIO2
+Usuario: CARLA
+Data   : 01/06/1999
+Inicio : 14:57:56
+Termino: 14:59:02
+Total  : 00:01:06
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 02/06/1999
+Inicio : 08:13:15
+Termino: 08:15:24
+Total  : 00:02:09
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 02/06/1999
+Inicio : 08:12:46
+Termino: 08:13:19
+Total  : 00:00:33
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 02/06/1999
+Inicio : 08:13:25
+Termino: 08:15:09
+Total  : 00:01:44
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 02/06/1999
+Inicio : 08:16:45
+Termino: 08:17:27
+Total  : 00:00:42
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 04/06/1999
+Inicio : 10:21:05
+Termino: 10:27:52
+Total  : 00:06:47
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 09/06/1999
+Inicio : 14:25:04
+Termino: 14:29:37
+Total  : 00:04:33
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 14/06/1999
+Inicio : 15:09:25
+Termino: 15:12:06
+Total  : 00:02:41
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 17/06/1999
+Inicio : 16:19:52
+Termino: 16:23:17
+Total  : 00:03:25
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 26/06/1999
+Inicio : 08:38:17
+Termino: 08:42:06
+Total  : 00:03:49
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 01/07/1999
+Inicio : 14:32:52
+Termino: 14:44:37
+Total  : 00:11:45
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 01/07/1999
+Inicio : 15:10:17
+Termino: 15:10:42
+Total  : 00:00:25
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 01/07/1999
+Inicio : 15:11:59
+Termino: 15:12:41
+Total  : 00:00:42
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 01/07/1999
+Inicio : 15:12:47
+Termino: 15:13:13
+Total  : 00:00:26
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 01/07/1999
+Inicio : 15:13:19
+Termino: 15:13:45
+Total  : 00:00:26
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 15/07/1999
+Inicio : 09:37:16
+Termino: 09:37:24
+Total  : 00:00:08
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 15/07/1999
+Inicio : 09:37:39
+Termino: 09:37:58
+Total  : 00:00:19
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 15/07/1999
+Inicio : 09:38:02
+Termino: 09:38:18
+Total  : 00:00:16
+==================================================
+Estacao: CREDIARIO3
+Usuario: CARLA
+Data   : 17/07/1999
+Inicio : 12:57:16
+Termino: 12:58:26
+Total  : 00:01:10
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 17/07/1999
+Inicio : 12:58:30
+Termino: 13:05:32
+Total  : 00:07:02
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 17/07/1999
+Inicio : 13:06:11
+Termino: 13:07:04
+Total  : 00:00:53
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 28/07/1999
+Inicio : 17:00:05
+Termino: 17:00:42
+Total  : 00:00:37
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 28/07/1999
+Inicio : 17:00:47
+Termino: 17:08:02
+Total  : 00:07:15
+==================================================
+Estacao: CREDIARIO3
+Usuario: CARLA
+Data   : 02/08/1999
+Inicio : 17:31:03
+Termino: 17:51:30
+Total  : 00:20:27
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 02/08/1999
+Inicio : 17:51:36
+Termino: 17:51:45
+Total  : 00:00:09
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 03/08/1999
+Inicio : 10:29:21
+Termino: 10:31:24
+Total  : 00:02:03
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/08/1999
+Inicio : 10:27:12
+Termino: 10:27:48
+Total  : 00:00:36
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/08/1999
+Inicio : 10:29:22
+Termino: 10:29:42
+Total  : 00:00:20
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/08/1999
+Inicio : 10:30:59
+Termino: 10:31:31
+Total  : 00:00:32
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 26/08/1999
+Inicio : 17:39:05
+Termino: 17:47:23
+Total  : 00:08:18
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 01/09/1999
+Inicio : 08:31:19
+Termino: 08:32:55
+Total  : 00:01:36
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 01/09/1999
+Inicio : 11:21:09
+Termino: 11:26:33
+Total  : 00:05:24
+==================================================
+Estacao: CREDIARIO3
+Usuario: MARCOS
+Data   : 02/09/1999
+Inicio : 10:42:38
+Termino: 10:43:04
+Total  : 00:00:26
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 02/09/1999
+Inicio : 11:14:12
+Termino: 11:17:51
+Total  : 00:03:39
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 02/09/1999
+Inicio : 11:24:44
+Termino: 11:26:02
+Total  : 00:01:18
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 02/09/1999
+Inicio : 11:26:15
+Termino: 11:27:08
+Total  : 00:00:53
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 02/09/1999
+Inicio : 11:28:32
+Termino: 11:28:51
+Total  : 00:00:19
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 01/10/1999
+Inicio : 11:32:31
+Termino: 11:55:10
+Total  : 00:22:39
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/10/1999
+Inicio : 08:09:44
+Termino: 08:10:50
+Total  : 00:01:06
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/10/1999
+Inicio : 08:12:20
+Termino: 08:12:59
+Total  : 00:00:39
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/10/1999
+Inicio : 08:15:31
+Termino: 08:15:51
+Total  : 00:00:20
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/10/1999
+Inicio : 08:18:55
+Termino: 08:19:48
+Total  : 00:00:53
+==================================================
+Estacao: PESSOAL
+Usuario: MARCOS
+Data   : 15/10/1999
+Inicio : 17:56:09
+Termino: 17:57:14
+Total  : 00:01:05
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 02/11/1999
+Inicio : 09:58:37
+Termino: 10:10:33
+Total  : 00:11:56
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/11/1999
+Inicio : 08:32:00
+Termino: 08:32:27
+Total  : 00:00:27
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/11/1999
+Inicio : 08:33:45
+Termino: 08:35:15
+Total  : 00:01:30
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/11/1999
+Inicio : 08:36:20
+Termino: 08:36:41
+Total  : 00:00:21
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 17/11/1999
+Inicio : 16:50:09
+Termino: 16:56:06
+Total  : 00:05:57
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 01/12/1999
+Inicio : 09:50:44
+Termino: 10:44:07
+Total  : 00:53:23
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 01/12/1999
+Inicio : 09:07:02
+Termino: 09:07:53
+Total  : 00:00:51
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 01/12/1999
+Inicio : 09:09:33
+Termino: 09:10:08
+Total  : 00:00:35
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 01/12/1999
+Inicio : 09:11:36
+Termino: 09:12:03
+Total  : 00:00:27
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 03/01/2000
+Inicio : 10:56:58
+Termino: 10:57:11
+Total  : 00:00:13
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 03/01/2000
+Inicio : 11:22:21
+Termino: 11:22:51
+Total  : 00:00:30
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 03/01/2000
+Inicio : 12:16:12
+Termino: 12:24:14
+Total  : 00:08:02
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 03/01/2000
+Inicio : 12:16:12
+Termino: 12:42:06
+Total  : 00:25:54
+==================================================
+Estacao: CREDIARIO3
+Usuario: KARLA
+Data   : 03/01/2000
+Inicio : 12:42:13
+Termino: 12:50:49
+Total  : 00:08:36
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/01/2000
+Inicio : 15:20:53
+Termino: 15:21:13
+Total  : 00:00:20
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/01/2000
+Inicio : 15:21:18
+Termino: 15:21:38
+Total  : 00:00:20
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/01/2000
+Inicio : 15:22:54
+Termino: 15:23:29
+Total  : 00:00:35
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/01/2000
+Inicio : 15:25:26
+Termino: 15:25:44
+Total  : 00:00:18
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 05/01/2000
+Inicio : 16:32:47
+Termino: 16:33:06
+Total  : 00:00:19
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/02/2000
+Inicio : 15:20:53
+Termino: 15:33:14
+Total  : 00:12:21
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/02/2000
+Inicio : 15:59:37
+Termino: 16:04:12
+Total  : 00:04:35
+==================================================
+Estacao: BALCAO1
+Usuario: MARCOS
+Data   : 16/02/2000
+Inicio : 16:20:23
+Termino: 16:20:34
+Total  : 00:00:11
+==================================================
+Estacao: BALCAO1
+Usuario: MERCIA
+Data   : 16/02/2000
+Inicio : 16:20:39
+Termino: 16:25:25
+Total  : 00:04:46
+==================================================
+Estacao: BALCAO1
+Usuario: MERCIA
+Data   : 16/02/2000
+Inicio : 16:26:00
+Termino: 16:30:46
+Total  : 00:04:46
+==================================================
+Estacao: BALCAO1
+Usuario: MERCIA
+Data   : 16/02/2000
+Inicio : 16:30:51
+Termino: 16:35:54
+Total  : 00:05:03
+==================================================
+Estacao: BALCAO1
+Usuario: MERCIA
+Data   : 16/02/2000
+Inicio : 16:35:59
+Termino: 16:36:46
+Total  : 00:00:47
+==================================================
+Estacao: BALCAO1
+Usuario: KARLA
+Data   : 16/02/2000
+Inicio : 16:39:06
+Termino: 16:41:25
+Total  : 00:02:19
+==================================================
+Estacao: BALCAO1
+Usuario: MERCIA
+Data   : 02/03/2000
+Inicio : 17:51:48
+Termino: 17:53:49
+Total  : 00:02:01
+==================================================
+Estacao: BALCAO1
+Usuario: MERCIA
+Data   : 02/03/2000
+Inicio : 18:03:54
+Termino: 18:09:07
+Total  : 00:05:13
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/03/2000
+Inicio : 16:03:50
+Termino: 16:04:50
+Total  : 00:01:00
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/03/2000
+Inicio : 16:09:13
+Termino: 16:09:34
+Total  : 00:00:21
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/03/2000
+Inicio : 16:10:08
+Termino: 16:10:42
+Total  : 00:00:34
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/03/2000
+Inicio : 16:10:48
+Termino: 16:11:24
+Total  : 00:00:36
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/03/2000
+Inicio : 16:12:10
+Termino: 16:12:21
+Total  : 00:00:11
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 02/03/2000
+Inicio : 16:12:26
+Termino: 16:12:41
+Total  : 00:00:15
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 20/03/2000
+Inicio : 14:47:15
+Termino: 14:51:02
+Total  : 00:03:47
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 20/03/2000
+Inicio : 17:23:27
+Termino: 17:24:28
+Total  : 00:01:01
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 01/04/2000
+Inicio : 09:13:31
+Termino: 09:20:38
+Total  : 00:07:07
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 01/04/2000
+Inicio : 09:25:50
+Termino: 09:27:57
+Total  : 00:02:07
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 01/04/2000
+Inicio : 09:29:28
+Termino: 09:30:03
+Total  : 00:00:35
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 01/04/2000
+Inicio : 09:30:08
+Termino: 09:30:43
+Total  : 00:00:35
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 01/04/2000
+Inicio : 09:33:23
+Termino: 09:33:47
+Total  : 00:00:24
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 03/05/2000
+Inicio : 09:21:26
+Termino: 09:31:27
+Total  : 00:10:01
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 03/05/2000
+Inicio : 09:31:32
+Termino: 09:33:18
+Total  : 00:01:46
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 03/05/2000
+Inicio : 09:34:07
+Termino: 09:34:36
+Total  : 00:00:29
+==================================================
+Estacao: CREDIARIO2
+Usuario: SSSS
+Data   : 23/05/2000
+Inicio : 11:09:42
+Termino: 11:09:50
+Total  : 00:00:08
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 23/05/2000
+Inicio : 11:11:07
+Termino: 11:17:19
+Total  : 00:06:12
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 23/05/2000
+Inicio : 11:17:48
+Termino: 11:18:22
+Total  : 00:00:34
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 29/05/2000
+Inicio : 15:20:46
+Termino: 15:22:33
+Total  : 00:01:47
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 31/05/2000
+Inicio : 16:40:17
+Termino: 16:42:46
+Total  : 00:02:29
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 01/06/2000
+Inicio : 15:21:06
+Termino: 15:21:52
+Total  : 00:00:46
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 01/06/2000
+Inicio : 15:26:23
+Termino: 15:27:27
+Total  : 00:01:04
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 01/06/2000
+Inicio : 15:29:43
+Termino: 15:30:19
+Total  : 00:00:36
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 05/06/2000
+Inicio : 15:43:52
+Termino: 15:44:04
+Total  : 00:00:12
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 16/06/2000
+Inicio : 09:13:38
+Termino: 09:17:14
+Total  : 00:03:36
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 16/06/2000
+Inicio : 11:49:09
+Termino: 11:49:37
+Total  : 00:00:28
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 16/06/2000
+Inicio : 11:49:42
+Termino: 11:49:50
+Total  : 00:00:08
+==================================================
+Estacao: BALCAO1
+Usuario: KARLA
+Data   : 03/07/2000
+Inicio : 10:24:25
+Termino: 10:30:05
+Total  : 00:05:40
+==================================================
+Estacao: BALCAO1
+Usuario: KARLA
+Data   : 03/07/2000
+Inicio : 10:49:08
+Termino: 10:50:56
+Total  : 00:01:48
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 03/07/2000
+Inicio : 09:23:34
+Termino: 09:25:47
+Total  : 00:02:13
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 03/07/2000
+Inicio : 09:26:09
+Termino: 09:26:31
+Total  : 00:00:22
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 03/07/2000
+Inicio : 09:27:34
+Termino: 09:28:00
+Total  : 00:00:26
+==================================================
+Estacao: BALCAO1
+Usuario: KARLA
+Data   : 12/07/2000
+Inicio : 18:38:14
+Termino: 18:38:26
+Total  : 00:00:12
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 17/07/2000
+Inicio : 09:02:08
+Termino: 09:06:07
+Total  : 00:03:59
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 19/07/2000
+Inicio : 10:13:43
+Termino: 10:15:08
+Total  : 00:01:25
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 01/08/2000
+Inicio : 17:48:47
+Termino: 17:51:32
+Total  : 00:02:45
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 24/08/2000
+Inicio : 16:25:00
+Termino: 16:25:21
+Total  : 00:00:21
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 24/08/2000
+Inicio : 16:25:31
+Termino: 16:25:41
+Total  : 00:00:10
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 24/08/2000
+Inicio : 16:47:20
+Termino: 16:50:58
+Total  : 00:03:38
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 24/08/2000
+Inicio : 16:59:07
+Termino: 17:00:35
+Total  : 00:01:28
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 02/09/2000
+Inicio : 08:26:12
+Termino: 08:28:24
+Total  : 00:02:12
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 02/09/2000
+Inicio : 08:28:55
+Termino: 08:29:20
+Total  : 00:00:25
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 02/09/2000
+Inicio : 08:32:29
+Termino: 08:32:45
+Total  : 00:00:16
+==================================================
+Estacao: BMC-02
+Usuario: MARCOS
+Data   : 18/09/2000
+Inicio : 10:28:28
+Termino: 10:28:52
+Total  : 00:00:24
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 18/09/2000
+Inicio : 16:32:05
+Termino: 16:32:17
+Total  : 00:00:12
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 18/09/2000
+Inicio : 17:35:57
+Termino: 17:42:27
+Total  : 00:06:30
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 20/09/2000
+Inicio : 15:46:37
+Termino: 15:47:29
+Total  : 00:00:52
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 05/10/2000
+Inicio : 08:17:01
+Termino: 08:20:15
+Total  : 00:03:14
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 05/10/2000
+Inicio : 08:29:26
+Termino: 08:31:19
+Total  : 00:01:53
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 05/10/2000
+Inicio : 08:31:58
+Termino: 08:33:32
+Total  : 00:01:34
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 19/10/2000
+Inicio : 10:38:48
+Termino: 10:41:48
+Total  : 00:03:00
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 03/11/2000
+Inicio : 08:13:24
+Termino: 08:16:45
+Total  : 00:03:21
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 03/11/2000
+Inicio : 08:18:50
+Termino: 08:19:07
+Total  : 00:00:17
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 20/11/2000
+Inicio : 08:22:28
+Termino: 08:23:19
+Total  : 00:00:51
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 20/11/2000
+Inicio : 08:27:14
+Termino: 08:29:48
+Total  : 00:02:34
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 20/11/2000
+Inicio : 08:48:01
+Termino: 08:49:32
+Total  : 00:01:31
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 25/11/2000
+Inicio : 08:37:11
+Termino: 08:37:20
+Total  : 00:00:09
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 04/12/2000
+Inicio : 08:31:06
+Termino: 08:37:39
+Total  : 00:06:33
+==================================================
+Estacao: CREDIARIO2
+Usuario: MARCOS MORAIS DE SOUZA
+Data   : 18/12/2000
+Inicio : 13:46:02
+Termino: 13:46:58
+Total  : 00:00:56
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 18/12/2000
+Inicio : 17:34:33
+Termino: 17:36:28
+Total  : 00:01:55
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 02/01/2001
+Inicio : 08:53:03
+Termino: 09:02:33
+Total  : 00:09:30
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 02/01/2001
+Inicio : 09:07:16
+Termino: 09:07:38
+Total  : 00:00:22
+==================================================
+Estacao: CREDIARIO2
+Usuario: MERCIA
+Data   : 19/01/2001
+Inicio : 09:08:53
+Termino: 09:13:08
+Total  : 00:04:15
+==================================================
+Estacao: CREDIARIO2
+Usuario: KARLA
+Data   : 19/01/2001
+Inicio : 17:44:09
+Termino: 17:44:23
+Total  : 00:00:14
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 25/01/2001
+Inicio : 17:49:59
+Termino: 17:50:22
+Total  : 00:00:23
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 25/01/2001
+Inicio : 17:53:38
+Termino: 17:54:46
+Total  : 00:01:08
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 29/01/2001
+Inicio : 10:33:02
+Termino: 10:35:43
+Total  : 00:02:41
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 29/01/2001
+Inicio : 14:11:54
+Termino: 14:13:02
+Total  : 00:01:08
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 01/02/2001
+Inicio : 11:34:31
+Termino: 11:37:12
+Total  : 00:02:41
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 01/02/2001
+Inicio : 11:40:00
+Termino: 11:40:47
+Total  : 00:00:47
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 01/02/2001
+Inicio : 17:48:03
+Termino: 17:48:14
+Total  : 00:00:11
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 09/02/2001
+Inicio : 08:11:31
+Termino: 08:11:40
+Total  : 00:00:09
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 17/02/2001
+Inicio : 12:38:35
+Termino: 12:42:00
+Total  : 00:03:25
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 17/02/2001
+Inicio : 12:42:10
+Termino: 12:42:18
+Total  : 00:00:08
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 28/02/2001
+Inicio : 11:03:43
+Termino: 11:06:00
+Total  : 00:02:17
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 05/03/2001
+Inicio : 18:43:42
+Termino: 18:44:32
+Total  : 00:00:50
+==================================================
+Estacao: BMC-03
+Usuario: KARLA
+Data   : 13/03/2001
+Inicio : 14:16:32
+Termino: 14:17:10
+Total  : 00:00:38
+==================================================
+Estacao: BMC-03
+Usuario: KARLA
+Data   : 13/03/2001
+Inicio : 14:17:14
+Termino: 14:18:12
+Total  : 00:00:58
+==================================================
+Estacao: BMC-03
+Usuario: KARLA
+Data   : 13/03/2001
+Inicio : 14:18:15
+Termino: 14:18:57
+Total  : 00:00:42
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 13/03/2001
+Inicio : 16:07:43
+Termino: 16:09:34
+Total  : 00:01:51
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 19/03/2001
+Inicio : 14:31:28
+Termino: 14:34:48
+Total  : 00:03:20
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 02/04/2001
+Inicio : 15:09:06
+Termino: 15:12:11
+Total  : 00:03:05
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 04/04/2001
+Inicio : 10:01:03
+Termino: 10:02:35
+Total  : 00:01:32
+==================================================
+Estacao: BMC-03
+Usuario: KARLA
+Data   : 16/04/2001
+Inicio : 17:52:48
+Termino: 17:52:59
+Total  : 00:00:11
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 19/04/2001
+Inicio : 09:24:32
+Termino: 09:24:45
+Total  : 00:00:13
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 19/04/2001
+Inicio : 18:10:45
+Termino: 18:13:40
+Total  : 00:02:55
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 19/04/2001
+Inicio : 18:13:47
+Termino: 18:13:56
+Total  : 00:00:09
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 23/04/2001
+Inicio : 18:37:38
+Termino: 18:41:01
+Total  : 00:03:23
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 04/05/2001
+Inicio : 15:09:08
+Termino: 15:11:51
+Total  : 00:02:43
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 16/05/2001
+Inicio : 10:05:44
+Termino: 10:07:58
+Total  : 00:02:14
+==================================================
+Estacao: BMC-03
+Usuario: KARLA
+Data   : 24/05/2001
+Inicio : 17:42:22
+Termino: 17:42:34
+Total  : 00:00:12
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 28/05/2001
+Inicio : 09:55:23
+Termino: 10:07:44
+Total  : 00:12:21
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 29/05/2001
+Inicio : 10:45:25
+Termino: 10:45:55
+Total  : 00:00:30
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 31/05/2001
+Inicio : 08:58:27
+Termino: 08:59:17
+Total  : 00:00:50
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 01/06/2001
+Inicio : 08:48:34
+Termino: 08:49:28
+Total  : 00:00:54
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 01/06/2001
+Inicio : 08:50:57
+Termino: 08:52:28
+Total  : 00:01:31
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 05/06/2001
+Inicio : 14:56:42
+Termino: 14:56:52
+Total  : 00:00:10
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 07/06/2001
+Inicio : 09:17:49
+Termino: 09:17:55
+Total  : 00:00:06
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 22/06/2001
+Inicio : 15:27:55
+Termino: 15:31:57
+Total  : 00:04:02
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 27/06/2001
+Inicio : 16:06:53
+Termino: 16:07:03
+Total  : 00:00:10
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 03/07/2001
+Inicio : 14:14:47
+Termino: 14:14:51
+Total  : 00:00:04
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 03/07/2001
+Inicio : 14:42:25
+Termino: 14:44:37
+Total  : 00:02:12
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 03/07/2001
+Inicio : 16:17:07
+Termino: 16:17:10
+Total  : 00:00:03
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 07/07/2001
+Inicio : 11:59:02
+Termino: 11:59:12
+Total  : 00:00:10
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 01/08/2001
+Inicio : 10:22:55
+Termino: 10:28:17
+Total  : 00:05:22
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 03/09/2001
+Inicio : 08:08:43
+Termino: 08:13:00
+Total  : 00:04:17
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 10/09/2001
+Inicio : 08:16:53
+Termino: 08:18:40
+Total  : 00:01:47
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 02/10/2001
+Inicio : 08:20:15
+Termino: 08:20:43
+Total  : 00:00:28
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 02/10/2001
+Inicio : 08:20:53
+Termino: 08:21:01
+Total  : 00:00:08
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 02/10/2001
+Inicio : 08:32:04
+Termino: 08:44:19
+Total  : 00:12:15
+==================================================
+Estacao: BMC-03
+Usuario: KARLA
+Data   : 05/10/2001
+Inicio : 13:26:45
+Termino: 13:26:56
+Total  : 00:00:11
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 01/11/2001
+Inicio : 09:19:56
+Termino: 09:20:06
+Total  : 00:00:10
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 01/11/2001
+Inicio : 08:44:53
+Termino: 08:45:49
+Total  : 00:00:56
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 01/11/2001
+Inicio : 09:13:46
+Termino: 09:44:58
+Total  : 00:31:12
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 01/11/2001
+Inicio : 09:45:05
+Termino: 09:52:14
+Total  : 00:07:09
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 01/11/2001
+Inicio : 09:55:14
+Termino: 09:55:42
+Total  : 00:00:28
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 21/11/2001
+Inicio : 09:51:53
+Termino: 10:00:25
+Total  : 00:08:32
+==================================================
+Estacao: BMC-03
+Usuario: KARLA
+Data   : 21/11/2001
+Inicio : 16:16:18
+Termino: 16:16:37
+Total  : 00:00:19
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 27/11/2001
+Inicio : 08:05:44
+Termino: 08:20:39
+Total  : 00:14:55
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 28/11/2001
+Inicio : 08:05:45
+Termino: 08:08:26
+Total  : 00:02:41
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 01/12/2001
+Inicio : 09:20:35
+Termino: 09:23:04
+Total  : 00:02:29
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 01/12/2001
+Inicio : 09:20:39
+Termino: 09:23:32
+Total  : 00:02:53
+==================================================
+Estacao: CREDIARIO2
+Usuario: JAQUELINE
+Data   : 01/12/2001
+Inicio : 09:20:04
+Termino: 09:20:36
+Total  : 00:00:32
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 12/12/2001
+Inicio : 08:00:26
+Termino: 08:00:41
+Total  : 00:00:15
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 12/12/2001
+Inicio : 08:00:34
+Termino: 08:06:53
+Total  : 00:06:19
+==================================================
+Estacao: BMC-04
+Usuario: LAZARO
+Data   : 02/01/2002
+Inicio : 15:11:40
+Termino: 15:11:52
+Total  : 00:00:12
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 02/01/2002
+Inicio : 15:11:58
+Termino: 15:18:27
+Total  : 00:06:29
+==================================================
+Estacao: BMC-04
+Usuario: JAQUE
+Data   : 02/01/2002
+Inicio : 15:20:01
+Termino: 15:21:05
+Total  : 00:01:04
+==================================================
+Estacao: BMC-04
+Usuario: JACK
+Data   : 04/01/2002
+Inicio : 17:22:31
+Termino: 17:35:41
+Total  : 00:13:10
+==================================================
+Estacao: BMC-04
+Usuario: JAQUE
+Data   : 17/01/2002
+Inicio : 10:11:06
+Termino: 10:19:03
+Total  : 00:07:57
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 28/01/2002
+Inicio : 08:13:48
+Termino: 08:15:06
+Total  : 00:01:18
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 28/01/2002
+Inicio : 08:15:13
+Termino: 08:27:19
+Total  : 00:12:06
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 28/01/2002
+Inicio : 16:59:00
+Termino: 17:02:20
+Total  : 00:03:20
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 29/01/2002
+Inicio : 08:14:47
+Termino: 08:15:38
+Total  : 00:00:51
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 30/01/2002
+Inicio : 08:24:23
+Termino: 08:24:53
+Total  : 00:00:30
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 04/02/2002
+Inicio : 14:36:00
+Termino: 14:39:06
+Total  : 00:03:06
+==================================================
+Estacao: BMC-04
+Usuario: JAQUE
+Data   : 04/02/2002
+Inicio : 14:42:33
+Termino: 14:42:39
+Total  : 00:00:06
+==================================================
+Estacao: BMC-04
+Usuario: JACK
+Data   : 14/02/2002
+Inicio : 09:18:30
+Termino: 09:18:43
+Total  : 00:00:13
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 01/03/2002
+Inicio : 08:17:53
+Termino: 08:30:48
+Total  : 00:12:55
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 03/04/2002
+Inicio : 16:20:10
+Termino: 16:25:55
+Total  : 00:05:45
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 07/05/2002
+Inicio : 08:35:06
+Termino: 08:36:30
+Total  : 00:01:24
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 07/05/2002
+Inicio : 08:36:40
+Termino: 08:43:52
+Total  : 00:07:12
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 07/05/2002
+Inicio : 10:32:13
+Termino: 10:35:19
+Total  : 00:03:06
+==================================================
+Estacao: BMC-04
+Usuario: JAQUELINE
+Data   : 07/05/2002
+Inicio : 10:54:46
+Termino: 10:58:28
+Total  : 00:03:42
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 23/07/2002
+Inicio : 15:04:27
+Termino: 15:04:36
+Total  : 00:00:09
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 16/08/2002
+Inicio : 12:32:37
+Termino: 12:32:42
+Total  : 00:00:05
+==================================================
+Estacao: CREDIARIO2
+Usuario: CATIA
+Data   : 26/11/2002
+Inicio : 12:13:05
+Termino: 12:13:11
+Total  : 00:00:06
+==================================================
+Estacao: CREDIARIO1
+Usuario: ELIONAY
+Data   : 28/12/2002
+Inicio : 12:57:21
+Termino: 12:58:15
+Total  : 00:00:54
+==================================================
+

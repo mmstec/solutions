@@ -1,0 +1,1136 @@
+MAQUINA  : SUPERVISOR
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 15/05/1998
+INICIO   : 16:54:55
+TERMINO  : 17:00:57
+TOTAL    : 00:06:02
+HISTORICO: 
+16:54:55-Entrada normal
+16:56:43-Inclusao de registro MARILEUZA PEIXOTO GOMES            
+17:00:12-Inclusao de registro MARILEUZA PEIXOTO GOMES            
+17:00:40-Impressao deM ate M
+17:00:40-Relatorio
+17:00:57-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 15/05/1998
+INICIO   : 17:09:12
+TERMINO  : 17:10:10
+TOTAL    : 00:00:58
+HISTORICO: 
+17:09:12-Entrada normal
+17:09:20-Impressao deA ate Z
+17:09:21-Relatorio
+17:10:10-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 15/05/1998
+INICIO   : 17:12:38
+TERMINO  : 17:12:39
+TOTAL    : 00:00:01
+HISTORICO: 
+17:12:38-Entrada normal
+17:12:39-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DOC.EXE
+USUARIO  : MARCIOS
+DATA     : 15/05/1998
+INICIO   : 17:21:09
+TERMINO  : 17:21:10
+TOTAL    : 00:00:01
+HISTORICO: 
+17:21:09-Entrada normal
+17:21:10-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 15/05/1998
+INICIO   : 17:26:03
+TERMINO  : 17:27:17
+TOTAL    : 00:01:14
+HISTORICO: 
+17:26:03-Entrada normal
+17:26:05-Impressao deA ate Z
+17:26:06-Relatorio
+17:26:38-Impressao deMARILEUZA ate MARILEUZA
+17:26:38-Relatorio
+17:27:17-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 15/05/1998
+INICIO   : 17:27:31
+TERMINO  : 17:33:36
+TOTAL    : 00:06:05
+HISTORICO: 
+17:27:31-Entrada normal
+17:29:36-Impressao de ate 
+17:29:37-Relatorio
+17:33:36-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FLAVIA
+DATA     : 15/05/1998
+INICIO   : 17:33:45
+TERMINO  : 17:38:19
+TOTAL    : 00:04:34
+HISTORICO: 
+17:33:45-Entrada normal
+17:34:41-Inclusao de registro MARILEUZA PEIXOTO GOMES            
+17:36:01-Impressao deM ate M
+17:36:02-Relatorio
+17:37:58-Inclusao de registro TESTE                              
+17:38:19-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FLAVIA
+DATA     : 15/05/1998
+INICIO   : 17:38:26
+TERMINO  : 17:38:38
+TOTAL    : 00:00:12
+HISTORICO: 
+17:38:26-Entrada normal
+17:38:28-Impressao de ate 
+17:38:30-Relatorio
+17:38:38-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FLAVIA
+DATA     : 15/05/1998
+INICIO   : 17:38:44
+TERMINO  : 17:38:51
+TOTAL    : 00:00:07
+HISTORICO: 
+17:38:44-Entrada normal
+17:38:49-Apagou registros TESTE                              
+17:38:51-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 16/05/1998
+INICIO   : 09:44:46
+TERMINO  : 09:49:26
+TOTAL    : 00:04:40
+HISTORICO: 
+09:44:46-Entrada normal
+09:49:23-Inclusao de registro DEUSDETE JOSE RIBEIRO              
+09:49:26-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 16/05/1998
+INICIO   : 09:49:41
+TERMINO  : 09:49:51
+TOTAL    : 00:00:10
+HISTORICO: 
+09:49:41-Entrada normal
+09:49:51-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 16/05/1998
+INICIO   : 09:51:09
+TERMINO  : 09:52:21
+TOTAL    : 00:01:12
+HISTORICO: 
+09:51:09-Entrada normal
+09:52:21-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DOC.EXE
+USUARIO  : MARCIA
+DATA     : 16/05/1998
+INICIO   : 09:52:29
+TERMINO  : 09:54:57
+TOTAL    : 00:02:28
+HISTORICO: 
+09:52:29-Entrada normal
+09:54:57-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 16/05/1998
+INICIO   : 10:01:34
+TERMINO  : 10:02:29
+TOTAL    : 00:00:55
+HISTORICO: 
+10:01:34-Entrada normal
+10:02:29-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 16/05/1998
+INICIO   : 10:04:32
+TERMINO  : 10:12:04
+TOTAL    : 00:07:32
+HISTORICO: 
+10:04:32-Entrada normal
+10:04:45-Edita ENDE
+10:04:49-Edita ENDE
+10:04:53-Edita ENDE
+10:04:55-Edita NOME
+10:04:57-Edita SNUMERO
+10:05:01-Edita ENDE
+10:05:15-Edita NNUMERO
+10:05:17-Edita VENCI
+10:05:19-Edita NNUMERO
+10:05:21-Edita SNUMERO
+10:05:27-Edita ENDE
+10:12:04-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 16/05/1998
+INICIO   : 10:26:39
+TERMINO  : 10:28:22
+TOTAL    : 00:01:43
+HISTORICO: 
+10:26:39-Entrada normal
+10:26:42-Edita NOME
+10:26:43-Edita ENDE
+10:26:44-Edita SNUMERO
+10:27:16-Edita SNUMERO
+10:27:40-Edita NNUMERO
+10:28:22-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 16/05/1998
+INICIO   : 10:44:15
+TERMINO  : 10:59:18
+TOTAL    : 00:15:03
+HISTORICO: 
+10:44:15-Entrada normal
+10:44:17-Edita NOME
+10:44:18-Edita ENDE
+10:44:18-Edita SNUMERO
+10:44:19-Edita NNUMERO
+10:44:20-Edita VENCI
+10:46:14-Apagou registros DEUSDETE JOSE RIBEIRO              
+10:47:47-Inclusao de registro DESUDESTE JOSE RIBEIRO             
+10:49:57-Inclusao de registro EDINALVA LINA DE JESUS             
+10:52:06-Inclusao de registro MARLI MOURA DA ILVA                
+10:57:19-Inclusao de registro EDINALVA LIMA DE JESUS             
+10:59:16-Edita CUSTO
+10:59:18-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 16/05/1998
+INICIO   : 10:59:45
+TERMINO  : 11:18:02
+TOTAL    : 00:18:17
+HISTORICO: 
+10:59:45-Entrada normal
+11:00:09-Inclusao de registro DESUDESTE JOSE RIBEIRO             
+11:00:33-Edita ENDE
+11:00:39-Edita SNUMERO
+11:00:45-Apagou registros EDINALVA LINA DE JESUS             
+11:02:21-Edita CUSTO
+11:02:33-Edita ENDE
+11:04:35-Inclusao de registro JOAQUIM CANUTO DE OLIVEIRA         
+11:04:42-Impressao deA ate Z
+11:04:43-Relatorio
+11:08:07-Inclusao de registro ZEZITO GONCALVES                   
+11:08:14-Impressao deA ate Z
+11:08:15-Relatorio
+11:10:22-Inclusao de registro CARLOS ROBERTO DA COSTA            
+11:14:26-Inclusao de registro VALDEMIR ALVES ARAGAO              
+11:17:20-Inclusao de registro VALDEMIR ALVES ARAGAO              
+11:18:02-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 16/05/1998
+INICIO   : 11:28:00
+TERMINO  : 11:28:24
+TOTAL    : 00:00:24
+HISTORICO: 
+11:28:00-Entrada normal
+11:28:24-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 16/05/1998
+INICIO   : 11:28:47
+TERMINO  : 11:55:18
+TOTAL    : 00:26:31
+HISTORICO: 
+11:28:47-Entrada normal
+11:33:04-Inclusao de registro TEREZA CRISTINA OLIVEIRA MAIA      
+11:35:45-Inclusao de registro JURACY SANTOS DINIZ                
+11:36:14-Edita SNUMERO
+11:39:51-Inclusao de registro UBIRAJARA SANTOS                   
+11:41:38-Inclusao de registro VALDETE PEREIRA SALES              
+11:42:46-Inclusao de registro VALDETE PEREIRA SALES              
+11:42:54-Edita CUSTO
+11:44:45-Inclusao de registro EDELVITO DA HORA MORAES            
+11:46:45-Inclusao de registro EDELVITO DA HORA MORAES            
+11:48:14-Inclusao de registro EDELVITO DA HORA MORAES            
+11:52:12-Inclusao de registro JORGE LUIZ SILVA CRUZ              
+11:55:09-Inclusao de registro SERGIO RICARDO MIRA SILVA          
+11:55:18-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 16/05/1998
+INICIO   : 11:58:30
+TERMINO  : 12:10:17
+TOTAL    : 00:11:47
+HISTORICO: 
+11:58:30-Entrada normal
+12:01:36-Inclusao de registro EGILENO NUNES DA CRUZ              
+12:05:07-Inclusao de registro JUAREZ SANTOS DA SILVA             
+12:07:08-Inclusao de registro JUAREZ SANTOS DA SILVA             
+12:10:11-Inclusao de registro JOILMA DE JESUS LEITE              
+12:10:17-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 08:39:05
+TERMINO  : 08:48:51
+TOTAL    : 00:09:46
+HISTORICO: 
+08:39:05-Entrada normal
+08:39:27-Pesquisou registro 'MARLI'.
+         Localizou 'MARLI MOURA DA ILVA - 42590A,
+08:40:09-Pesquisou registro 'EDINALVA LIMA DE'.
+         Localizou 'EDINALVA LIMA DE JESUS - 39798,
+08:40:30-Edita ENDE
+08:40:48-Pesquisou registro 'JOAQUIM'.
+         Localizou 'JOAQUIM CANUTO DE OLIVEIRA - 45113,
+08:41:16-Pesquisou registro 'ZEZITO GO'.
+         Localizou 'ZEZITO GONCALVES - 42633,
+08:41:54-Pesquisou registro 'CARLOS ROBERO'.
+         Nao localizou!
+08:42:01-Pesquisou registro 'CARLOS'.
+         Localizou 'CARLOS ROBERTO DA COSTA - 39538,
+08:42:10-Pesquisou registro 'CARLOS ROBERTO'.
+         Localizou 'CARLOS ROBERTO DA COSTA - 39538,
+08:42:38-Edita ENDE
+08:43:12-Edita ENDE
+08:48:51-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 11:35:03
+TERMINO  : 11:47:34
+TOTAL    : 00:12:31
+HISTORICO: 
+11:35:03-Entrada normal
+11:38:33-Inclusao de registro SUELY NEIDA DA SILVA               
+11:40:52-Inclusao de registro MARLI MOURA DA SILVA               
+11:41:01-Edita CUSTO
+11:44:15-Inclusao de registro MARLI MOURA DA SILVA               
+11:46:23-Inclusao de registro IVONETE FELIX DO ESPIRITO SANTO    
+11:46:35-Edita CUSTO
+11:47:34-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 11:48:04
+TERMINO  : 11:57:46
+TOTAL    : 00:09:42
+HISTORICO: 
+11:48:04-Entrada normal
+11:50:03-Inclusao de registro MARILEUZA PEIXOTO GOMES            
+11:51:23-Inclusao de registro JUSSARA PAIVA SANTOS               
+11:51:29-Inclusao de registro CARLOS ROBERTO DA COSTA            
+11:51:40-Pesquisou registro 'JUSSARA'.
+         Localizou 'JUSSARA PAIVA SANTOS - 40761A,
+11:51:52-Edita CUSTO
+11:53:43-Inclusao de registro IVAN SILVA MELO                    
+11:57:41-Inclusao de registro VALDOMIRO ELIAS BRITO              
+11:57:46-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 13:34:34
+TERMINO  : 13:39:33
+TOTAL    : 00:04:59
+HISTORICO: 
+13:34:34-Entrada normal
+13:35:12-Inclusao de registro CARLOS ROBERTO DA COSTA            
+13:35:29-Pesquisou registro 'VALDOMIRO'.
+         Localizou 'VALDOMIRO ELIAS BRITO - 18168,
+13:37:52-Inclusao de registro TEREZA CRISTINA OLIVEIRA           
+13:39:09-Inclusao de registro TEREZA CRISTINA OLIVEIRA MAIA      
+13:39:32-Inclusao de registro CARLOS ROBERTO DA COSTA            
+13:39:33-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 13:44:43
+TERMINO  : 13:46:38
+TOTAL    : 00:01:55
+HISTORICO: 
+13:44:43-Entrada normal
+13:46:10-Inclusao de registro IVAN SILVA MELO                    
+13:46:38-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 13:58:56
+TERMINO  : 14:16:16
+TOTAL    : 00:17:20
+HISTORICO: 
+13:58:56-Entrada normal
+14:00:42-Inclusao de registro IGREJA EVANGELICA ASS. DE DEUS     
+14:02:06-Inclusao de registro IGREJA EVANGELICA ASS. DE DEUS     
+14:04:10-Inclusao de registro IGREJA EVANGELICA ASS. DE DEUS     
+14:05:54-Inclusao de registro VALDOMIRO ELIAS BRITO              
+14:07:48-Inclusao de registro EURIDES ROMANA DE BRITO SANTOS     
+14:09:27-Inclusao de registro EDILSON REIS GOMES                 
+14:11:18-Inclusao de registro SORAYA GARCIA - CLICK VIDEO        
+14:12:48-Inclusao de registro SORAYA GARCIA - CLICK VIDEO        
+14:15:12-Inclusao de registro SORAYA GARCIA - CLICK VIDEO        
+14:16:16-Inclusao de registro CARLOS ROBERTO DA COSTA            
+14:16:16-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 14:17:13
+TERMINO  : 14:21:36
+TOTAL    : 00:04:23
+HISTORICO: 
+14:17:13-Entrada normal
+14:18:56-Inclusao de registro JARDELINA MOREIRA SANTOS           
+14:21:02-Inclusao de registro JOSE CICERO LANDIM NETO            
+14:21:08-Edita TXPERM
+14:21:14-Edita CUSTO
+14:21:36-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 14:23:23
+TERMINO  : 15:01:27
+TOTAL    : 00:38:04
+HISTORICO: 
+14:23:23-Entrada normal
+14:25:06-Inclusao de registro EPAMINONDAS ANICENTO DE SANTANA F  
+14:27:43-Inclusao de registro EPAMINONDAS E. LANCIO FILHO        
+14:29:05-Inclusao de registro EPAMINONAS E. LACIO FILHO          
+14:29:21-Edita NOME
+14:30:04-Edita NOME
+14:30:37-Edita ENDE
+14:32:32-Inclusao de registro ANTONIO JACKSON ALVES SILVA        
+14:34:04-Inclusao de registro VALDOMIRO ELIAS BRITO              
+14:36:55-Inclusao de registro ARI MACHADO DE MOURA               
+14:40:23-Inclusao de registro JOILMA DE JESUS LEITE              
+14:41:46-Inclusao de registro LAUDELINO CORREIA FILHO            
+14:43:18-Inclusao de registro ANTONIO CRUZ BONFIM                
+14:45:50-Inclusao de registro JOSE LUIZ RODRIGUES RAMOS          
+14:47:19-Inclusao de registro CONTRUTORA TAM LTDA                
+14:48:38-Inclusao de registro DERALDO COSTA                      
+14:50:04-Inclusao de registro DERALDO COSTA                      
+14:54:10-Inclusao de registro JOSE GERALDO DE JESUS NASCIMENTO   
+14:56:36-Inclusao de registro JOSE GERALDO DE JESUS NASCIMENTO   
+14:58:54-Inclusao de registro JOSE GERALDO DE JESUS NASCIMENTO   
+15:00:51-Inclusao de registro JOSE GERALDO DE JEUS NASCIMENTO    
+15:01:18-Edita NOME
+15:01:27-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 15:03:44
+TERMINO  : 15:17:19
+TOTAL    : 00:13:35
+HISTORICO: 
+15:03:44-Entrada normal
+15:04:44-Inclusao de registro JOSE GERALDO DE JESUS NASCIMENTO   
+15:04:51-Edita CUSTO
+15:06:18-Inclusao de registro JOSE GERALDO DE JESUS NASCIMENTO   
+15:09:07-Inclusao de registro JOSE GERALDO DE JESUS NASCIMENTO   
+15:11:08-Inclusao de registro JOSAFA SOUZA SILVA                 
+15:12:44-Inclusao de registro ALBERTO JOSE ANDRADE FERREIRA      
+15:13:23-Edita SNUMERO
+15:14:16-Edita ENDE
+15:17:03-Inclusao de registro IVONETE FELIX DO ESPIRITO SANTO    
+15:17:19-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 15:17:57
+TERMINO  : 15:35:03
+TOTAL    : 00:17:06
+HISTORICO: 
+15:17:57-Entrada normal
+15:19:15-Inclusao de registro IVONETE FELIX DO ESPIRITO SANTO    
+15:19:35-Edita ENDE
+15:20:50-Inclusao de registro IVONETE FELIX DO ESPIRITO SANTO    
+15:22:02-Inclusao de registro IVONETE FELIX DO ESPIRITO SANTO    
+15:23:37-Inclusao de registro ANTONIO BENEDITO ROSA              
+15:24:30-Inclusao de registro ANTONIO BENEDITO ROSA              
+15:26:04-Inclusao de registro MARILEUZA PEIXOTO GOMES            
+15:27:33-Inclusao de registro MARILEUZA PEIXOTO GOMES            
+15:28:06-Edita ENDE
+15:28:15-Edita ENDE
+15:28:43-Edita ENDE
+15:29:14-Edita ENDE
+15:29:33-Edita ENDE
+15:30:54-Inclusao de registro MARILEUZA PEIXOTO GOMES            
+15:31:00-Edita CUSTO
+15:31:21-Edita ENDE
+15:31:30-Edita ENDE
+15:31:41-Edita ENDE
+15:32:43-Inclusao de registro ROBERTO SALES MATOS                
+15:34:58-Inclusao de registro PENTAGONE LUNBRIFICANTES LTDA      
+15:35:03-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO1
+PROGRAMA : DOC.EXE
+USUARIO  : NICE
+DATA     : 18/05/1998
+INICIO   : 15:36:51
+TERMINO  : 15:41:32
+TOTAL    : 00:04:41
+HISTORICO: 
+15:36:51-Entrada normal
+15:36:58-Pesquisou registro 'Z'.
+         Localizou 'ZEZITO GONCALVES - 42633,
+15:38:46-Impressao deA ate A
+15:38:46-Relatorio
+15:41:32-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 18/05/1998
+INICIO   : 15:44:11
+TERMINO  : 15:51:25
+TOTAL    : 00:07:14
+HISTORICO: 
+15:44:11-Entrada normal
+15:45:53-Inclusao de registro JIOVANE LIMA GUIMARAES             
+15:46:04-Edita CUSTO
+15:47:37-Inclusao de registro JOSE GERALDO DE JESUS NASCIMENTO   
+15:49:06-Inclusao de registro PENTAGONE LUBRIFICANTES LTDA       
+15:49:24-Edita ENDE
+15:49:29-Edita ENDE
+15:49:33-Edita ENDE
+15:49:36-Edita ENDE
+15:49:38-Edita ENDE
+15:49:41-Edita ENDE
+15:49:44-Edita ENDE
+15:49:47-Edita ENDE
+15:49:53-Edita ENDE
+15:49:55-Edita ENDE
+15:50:06-Edita ENDE
+15:50:10-Edita ENDE
+15:50:13-Edita ENDE
+15:50:15-Edita ENDE
+15:50:18-Edita ENDE
+15:50:23-Edita ENDE
+15:50:26-Edita ENDE
+15:50:30-Edita ENDE
+15:50:34-Edita ENDE
+15:50:37-Edita ENDE
+15:50:45-Edita ENDE
+15:50:48-Edita ENDE
+15:50:50-Edita ENDE
+15:50:54-Edita ENDE
+15:50:57-Edita ENDE
+15:51:02-Edita ENDE
+15:51:06-Edita ENDE
+15:51:12-Edita ENDE
+15:51:25-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO1
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 18/05/1998
+INICIO   : 15:53:10
+TERMINO  : 16:04:42
+TOTAL    : 00:11:32
+HISTORICO: 
+15:53:10-Entrada normal
+15:53:16-Impressao deA ate Z
+15:54:16-Relatorio
+16:04:42-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : +MARLI
+DATA     : 18/05/1998
+INICIO   : 16:06:41
+TERMINO  : 16:07:29
+TOTAL    : 00:00:48
+HISTORICO: 
+16:06:41-Entrada normal
+16:06:51-Pesquisou registro 'VALDEMIR'.
+         Localizou 'VALDEMIR ALVES ARAGAO - 16689,
+16:07:29-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 17:41:25
+TERMINO  : 17:42:29
+TOTAL    : 00:01:04
+HISTORICO: 
+17:41:25-Entrada normal
+17:41:53-Edita ENDE
+17:42:29-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 18:15:44
+TERMINO  : 18:15:56
+TOTAL    : 00:00:12
+HISTORICO: 
+18:15:44-Entrada normal
+18:15:48-Inclusao de registro ALBERTO JOSE ANDRADE FERREIRA      
+18:15:56-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 18:16:19
+TERMINO  : 18:17:52
+TOTAL    : 00:01:33
+HISTORICO: 
+18:16:19-Entrada normal
+18:16:57-Impressao de ate 
+18:17:02-Relatorio
+18:17:15-Impressao de ate 
+18:17:16-Relatorio
+18:17:52-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/05/1998
+INICIO   : 18:18:05
+TERMINO  : 18:34:22
+TOTAL    : 00:16:17
+HISTORICO: 
+18:18:05-Entrada normal
+18:18:45-Impressao deALBERTO JOSE ANDRADE FERREIRA ate ZEZITO GO
+18:19:46-Relatorio
+18:20:35-Impressao deALBERTO ate ZEZITO
+18:21:32-Relatorio
+18:22:38-Impressao de90372131323 ate 90370181080
+18:22:38-Relatorio
+18:23:03-Impressao deALBERTO ate ZEZITO
+18:25:01-Relatorio
+18:25:37-Impressao deALBERTO ate ZEZITO
+18:26:39-Relatorio
+18:27:23-Impressao deALBERTO ate ZEZITO
+18:28:25-Relatorio
+18:29:22-Impressao deALBERTO ate ZEZITO
+18:30:18-Relatorio
+18:31:04-Impressao deALBERTO ate ZEZITO
+18:32:00-Relatorio
+18:32:51-Impressao deALBERTO ate ZEZITO
+18:33:53-Relatorio
+18:34:22-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 19/05/1998
+INICIO   : 17:21:55
+TERMINO  : 17:34:58
+TOTAL    : 00:13:03
+HISTORICO: 
+17:21:55-Entrada normal
+17:34:58-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 21/05/1998
+INICIO   : 15:42:36
+TERMINO  : 15:42:37
+TOTAL    : 00:00:01
+HISTORICO: 
+15:42:36-Entrada normal
+15:42:37-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : ITACIANE
+DATA     : 22/05/1998
+INICIO   : 17:28:08
+TERMINO  : 17:28:41
+TOTAL    : 00:00:33
+HISTORICO: 
+17:28:08-Entrada normal
+17:28:20-Pesquisou registro 'J'.
+         Localizou 'JARDELINA MOREIRA SANTOS - 44600C,
+17:28:41-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 27/05/1998
+INICIO   : 16:03:20
+TERMINO  : 16:03:47
+TOTAL    : 00:00:27
+HISTORICO: 
+16:03:20-Entrada normal
+16:03:47-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 04/06/1998
+INICIO   : 08:33:00
+TERMINO  : 08:34:56
+TOTAL    : 00:01:56
+HISTORICO: 
+08:33:00-Entrada normal
+08:34:56-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 06/06/1998
+INICIO   : 10:23:31
+TERMINO  : 10:23:32
+TOTAL    : 00:00:01
+HISTORICO: 
+10:23:31-Entrada normal
+10:23:32-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FLAVIA
+DATA     : 09/06/1998
+INICIO   : 08:39:27
+TERMINO  : 08:40:42
+TOTAL    : 00:01:15
+HISTORICO: 
+08:39:27-Entrada normal
+08:40:15-Pesquisou registro 'DOMINGOS'.
+         Nao localizou!
+08:40:42-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 15/06/1998
+INICIO   : 17:06:58
+TERMINO  : 17:07:11
+TOTAL    : 00:00:13
+HISTORICO: 
+17:06:58-Entrada normal
+17:07:11-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 16/06/1998
+INICIO   : 11:48:16
+TERMINO  : 11:48:22
+TOTAL    : 00:00:06
+HISTORICO: 
+11:48:16-Entrada normal
+11:48:22-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 22/06/1998
+INICIO   : 07:59:06
+TERMINO  : 07:59:59
+TOTAL    : 00:00:53
+HISTORICO: 
+07:59:06-Entrada normal
+07:59:19-Impressao de ate 
+07:59:20-Relatorio
+07:59:25-Impressao deA ate A
+07:59:25-Relatorio
+07:59:59-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FDLAVIA
+DATA     : 22/06/1998
+INICIO   : 08:43:32
+TERMINO  : 08:43:33
+TOTAL    : 00:00:01
+HISTORICO: 
+08:43:32-Entrada normal
+08:43:33-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 26/06/1998
+INICIO   : 14:47:19
+TERMINO  : 14:49:36
+TOTAL    : 00:02:17
+HISTORICO: 
+14:47:19-Entrada normal
+14:48:35-Edita ENDE
+14:48:44-Edita ENDE
+14:48:52-Edita NOME
+14:48:56-Edita NOME
+14:49:08-Edita ENDE
+14:49:36-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 27/06/1998
+INICIO   : 10:59:30
+TERMINO  : 11:06:14
+TOTAL    : 00:06:44
+HISTORICO: 
+10:59:30-Entrada normal
+11:00:24-Edita ENDE
+11:01:08-Edita ENDE
+11:01:35-Edita ENDE
+11:01:59-Edita ENDE
+11:02:21-Edita ENDE
+11:02:32-Edita ENDE
+11:02:53-Edita ENDE
+11:03:02-Edita ENDE
+11:03:11-Edita ENDE
+11:03:22-Edita ENDE
+11:03:30-Edita ENDE
+11:05:24-Edita ENDE
+11:06:14-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FLAVIA
+DATA     : 11/07/1998
+INICIO   : 08:09:07
+TERMINO  : 08:09:08
+TOTAL    : 00:00:01
+HISTORICO: 
+08:09:07-Entrada normal
+08:09:08-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 17/07/1998
+INICIO   : 11:42:16
+TERMINO  : 11:42:58
+TOTAL    : 00:00:42
+HISTORICO: 
+11:42:16-Entrada normal
+11:42:50-Pesquisou registro 'M'.
+         Localizou 'MARILEUZA PEIXOTO GOMES - 46615,
+11:42:57-Impressao de ate 
+11:42:58-Relatorio
+11:42:58-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FLAVIA
+DATA     : 20/07/1998
+INICIO   : 08:26:06
+TERMINO  : 08:32:28
+TOTAL    : 00:06:22
+HISTORICO: 
+08:26:06-Entrada normal
+08:28:49-Impressao deIVONETE FELIX DO ESPIRITO ate 
+08:28:51-Relatorio
+08:29:09-Impressao de ate 
+08:30:10-Relatorio
+08:30:45-Impressao de ate 
+08:31:42-Relatorio
+08:32:28-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 20/07/1998
+INICIO   : 11:27:28
+TERMINO  : 12:03:18
+TOTAL    : 00:35:50
+HISTORICO: 
+11:27:28-Entrada normal
+12:03:18-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FLAVIA
+DATA     : 21/07/1998
+INICIO   : 08:42:44
+TERMINO  : 08:44:51
+TOTAL    : 00:02:07
+HISTORICO: 
+08:42:44-Entrada normal
+08:42:49-Impressao de ate 
+08:43:50-Relatorio
+08:44:51-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DOC.EXE
+USUARIO  : MARCO
+DATA     : 21/07/1998
+INICIO   : 10:22:45
+TERMINO  : 10:22:45
+TOTAL    : 00:00:00
+HISTORICO: 
+10:22:45-Entrada normal
+10:22:45-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARIO
+DATA     : 21/07/1998
+INICIO   : 18:08:00
+TERMINO  : 18:08:02
+TOTAL    : 00:00:02
+HISTORICO: 
+18:08:00-Entrada normal
+18:08:02-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO1
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 24/07/1998
+INICIO   : 15:49:21
+TERMINO  : 15:49:28
+TOTAL    : 00:00:07
+HISTORICO: 
+15:49:21-Entrada normal
+15:49:26-Pesquisou registro 'JAIL'.
+         Nao localizou!
+15:49:28-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO1
+PROGRAMA : DOC.EXE
+USUARIO  : FLAVIA
+DATA     : 24/07/1998
+INICIO   : 17:48:56
+TERMINO  : 17:49:21
+TOTAL    : 00:00:25
+HISTORICO: 
+17:48:56-Entrada normal
+17:49:07-Pesquisou registro 'JAILTON SANTOS MIRANDA'.
+         Nao localizou!
+17:49:19-Pesquisou registro 'JAILTON SANTOS MIRANDA'.
+         Nao localizou!
+17:49:21-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FLAVIA
+DATA     : 27/07/1998
+INICIO   : 08:07:55
+TERMINO  : 08:07:56
+TOTAL    : 00:00:01
+HISTORICO: 
+08:07:55-Entrada normal
+08:07:56-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : DOC.EXE
+USUARIO  : FLKA
+DATA     : 30/07/1998
+INICIO   : 17:56:08
+TERMINO  : 17:57:37
+TOTAL    : 00:01:29
+HISTORICO: 
+17:56:08-Entrada normal
+17:56:32-Pesquisou registro 'EDSON NONATO'.
+         Nao localizou!
+17:56:41-Pesquisou registro 'EDSON NONATO'.
+         Nao localizou!
+17:57:11-Pesquisou registro 'EDSON'.
+         Nao localizou!
+17:57:37-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DOC.EXE
+USUARIO  : ITACIANE
+DATA     : 12/08/1998
+INICIO   : 15:31:33
+TERMINO  : 15:31:34
+TOTAL    : 00:00:01
+HISTORICO: 
+15:31:33-Entrada normal
+15:31:34-Saida normal 
+
+==================================================
+MAQUINA  : CAIXA
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 13/08/1998
+INICIO   : 16:41:37
+TERMINO  : 16:43:26
+TOTAL    : 00:01:49
+HISTORICO: 
+16:41:37-Entrada normal
+16:43:26-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO2
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 14/08/1998
+INICIO   : 14:37:18
+TERMINO  : 14:37:31
+TOTAL    : 00:00:13
+HISTORICO: 
+14:37:18-Entrada normal
+14:37:31-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DOC.EXE
+USUARIO  : MARCOS
+DATA     : 17/08/1998
+INICIO   : 08:38:23
+TERMINO  : 08:39:26
+TOTAL    : 00:01:03
+HISTORICO: 
+08:38:23-Entrada normal
+08:39:26-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DOC.EXE
+USUARIO  : 031195
+DATA     : 18/08/1998
+INICIO   : 16:00:15
+TERMINO  : 16:00:51
+TOTAL    : 00:00:36
+HISTORICO: 
+16:00:15-Entrada normal
+16:00:47-Impressao de010798 ate 31078
+16:00:47-Relatorio
+16:00:51-Saida normal 
+
+==================================================
+MAQUINA  : BALCAO1
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 18/08/1998
+INICIO   : 16:01:00
+TERMINO  : 16:01:04
+TOTAL    : 00:00:04
+HISTORICO: 
+16:01:00-Entrada normal
+16:01:04-Saida normal 
+
+==================================================
+MAQUINA  : CAIXA
+PROGRAMA : DOC.EXE
+USUARIO  : MARLI
+DATA     : 19/08/1998
+INICIO   : 09:41:44
+TERMINO  : 09:42:17
+TOTAL    : 00:00:33
+HISTORICO: 
+09:41:44-Entrada normal
+09:42:17-Saida normal 
+
+==================================================
+

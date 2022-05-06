@@ -1,0 +1,1372 @@
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO          
+CARGO/FUNCAO : SOCIO-GERENTE                           
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA         
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A             
+CONTATO      :                                         
+PEDIDO/ORDEM :                                         
+MOTIVO       :                                         
+VENCIMENTO   :                                         
+VALOR        : 09/02/1999
+SACADO       :                                         
+N§ DOCUMENTO :                                         
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : 1                                       
+MOTIVO       : 1                                       
+VENCIMENTO   : 1         .                             
+VALOR        : 19/02/1999
+SACADO       : 1                                       
+N§ DOCUMENTO : 1                                       
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:01
+USUARIO: MARCOS              
+DATA   : 09/02/1999
+INICIO : 08:12:33
+TERMINO: 08:12:34
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : BAIXA DE PROTESTO                       
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 8299999999.9                            
+VALOR        : 09/02/1999
+SACADO       : MARCOS MORAIS DE SOUSA                  
+N§ DOCUMENTO : 008256.02                               
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGO EM CARTEIRA                        
+VENCIMENTO   : 9041345025.8                            
+VALOR        : 09/02/1999
+SACADO       :                                         
+N§ DOCUMENTO :                                         
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO 2
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PORTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGO EM CARTEIRA                        
+VENCIMENTO   : 9041345025.8                            
+VALOR        : 08/08/1998
+SACADO       : MARILZA OLIVEIRA NASCIMENTO             
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 09/02/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGO EM CARTEIRA                        
+VENCIMENTO   : 9041345025.8                            
+VALOR        : 08/08/1998
+SACADO       : MARILZA OLIVEIRA NASCIMENTO             
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 10/02/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGO EM CARTEIRA                        
+VENCIMENTO   : 9045183805.5                            
+VALOR        : 21/01/1999
+SACADO       : NEWITON BRAGA JUNIOR                    
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 10/02/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGO EM CARTEIRA                        
+VENCIMENTO   : 9045183805.5                            
+VALOR        : 21/01/1999
+SACADO       : NEWITON BRAGA JUNIOR                    
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 26/02/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM :                                         
+MOTIVO       :                                         
+VENCIMENTO   :                                         
+VALOR        : 26/02/1999
+SACADO       :                                         
+N§ DOCUMENTO :                                         
+==================================================
+DATA         : 06/03/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM :                                         
+MOTIVO       :                                         
+VENCIMENTO   :                                         
+VALOR        : 06/03/1999
+SACADO       :                                         
+N§ DOCUMENTO :                                         
+==================================================
+DATA         : 06/03/1999
+ESTACAO      : SUPERVISOR     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM :                                         
+MOTIVO       :                                         
+VENCIMENTO   :                                         
+VALOR        : 06/03/1999
+SACADO       :                                         
+N§ DOCUMENTO :                                         
+==================================================
+DATA         : 22/03/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO                    
+MOTIVO       : PARA DUPLICATA SER PAGA EM BANCO        
+VENCIMENTO   : 9047105431.9                            
+VALOR        : 01/03/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 22/03/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO                    
+MOTIVO       : PARA DUPLICATA SER PAGA EM BANCO        
+VENCIMENTO   : 9047105431.9                            
+VALOR        : 01/03/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 23/03/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PORTESTO                    
+MOTIVO       : PARA DUPLICATA SER PAGA EM BANCO        
+VENCIMENTO   : 9047105533.1                            
+VALOR        : 10/03/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 23/03/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PORTESTO                    
+MOTIVO       : PARA DUPLICATA SER PAGA EM BANCO        
+VENCIMENTO   : 9047105533.1                            
+VALOR        : 10/03/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 15/04/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ALTER.DE VENCIMENTO
+MOTIVO       : TROCA DE VENCIMENTO                     
+VENCIMENTO   : 9047105883.5                            
+VALOR        : 01/04/1999
+SACADO       : IANE ALMEIDA ALVES                      
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 15/04/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ALTER.DE VENCIMENTO
+MOTIVO       : TROCA DE VENCIMENTO                     
+VENCIMENTO   : 9047105383.5                            
+VALOR        : 01/04/1999
+SACADO       : IANE ALMEIDA ALVES                      
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 03/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO                    
+MOTIVO       : PARA SER PAGA EM BANCO                  
+VENCIMENTO   : 9047104871.8                            
+VALOR        : 05/04/1999
+SACADO       : JOSE FERNANDES MATOS DA SILVA           
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 03/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO                    
+MOTIVO       : SER PAGA EM BANCO (CEF)                 
+VENCIMENTO   : 9047104871.8                            
+VALOR        : 05/04/1999
+SACADO       : JOSE FERNANDES MATOS DA SILVA           
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 03/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO                    
+MOTIVO       : SER PAGA EM BANCO (CEF)                 
+VENCIMENTO   : 9047104871.8                            
+VALOR        : 05/04/1999
+SACADO       : JOSE FERNANDES MATOS DA SILVA           
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 19/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUTACAO DE PROTESTO/PEDIDO DE BAIXA     
+MOTIVO       : PAGA EM CARTEIRA(MFB)                   
+VENCIMENTO   : 9048420573.6                            
+VALOR        : 21/04/1999
+SACADO       : CONSTRUTORA 3M LTDA                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 19/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGO EM CARTEITA (MFB)                  
+VENCIMENTO   : 9048420573.6                            
+VALOR        : 21/04/1999
+SACADO       : CONSTRUTORA 3M LTDA                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 19/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUTACAO DE PROTESTO/PEDIDO DE BAIXA     
+MOTIVO       : PAGA EM CARTEIRA (MFB)                  
+VENCIMENTO   : 9048420573.6                            
+VALOR        : 21/04/1999
+SACADO       : CONSTRUTORA 3M LTDA                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 19/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA (MFB)                  
+VENCIMENTO   : 9048420574.4                            
+VALOR        : 20/04/1999
+SACADO       : CONSTRUTORA 3M LTDA                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 19/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUTACAO DE PROTESTO/PEDIDO DE BAIXA     
+MOTIVO       : PAGA EM CARTEIRA (MFB)                  
+VENCIMENTO   : 9048420574.4                            
+VALOR        : 20/04/1999
+SACADO       : CONSTRUTORA 3M LTDA                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 19/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGA EM CARTEIRA (MFB)                  
+VENCIMENTO   : 9048420575.2                            
+VALOR        : 30/04/1999
+SACADO       : CONSTRUTORA 3M LTDA                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 19/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO -02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUTACAO DE PROTESTO/PEDIDO DE BAIXA     
+MOTIVO       : PAGA EM CARTEIRA (MFB)                  
+VENCIMENTO   : 9048420575.2                            
+VALOR        : 30/04/1999
+SACADO       : CONSTRUTORA 3M LTDA                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 19/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUTACAO DE PROTESTO/PEDIDO DE BAIXA     
+MOTIVO       : PAGA EM CARETIRA (MFB)                  
+VENCIMENTO   : 9048420769.0                            
+VALOR        : 30/04/1999
+SACADO       : CONSTRUTORA 3M LTDA                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 19/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO -02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGA EM CARTEIRA (MFB)                  
+VENCIMENTO   : 9048420769.0                            
+VALOR        : 30/04/1999
+SACADO       : CONSTRUTORA 3M LTDA                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 22/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : ESTORNO DE PROTESTO                     
+MOTIVO       : A PEDIDO DO CLIENTE                     
+VENCIMENTO   : 9048419877.2                            
+VALOR        : 10/05/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 22/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : ESTORNO DE PROTESTO                     
+MOTIVO       : SOLICITACAO DE CLIENTE                  
+VENCIMENTO   : 9048419877.2                            
+VALOR        : 10/05/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 22/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : ESTORNO DE PROTESTO                     
+MOTIVO       : SOLICITACAO DE CLIENTE                  
+VENCIMENTO   : 9048419877.2                            
+VALOR        : 10/05/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 22/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : ESTORNO DE PROTESTO                     
+MOTIVO       : SOLICITACAO DE CLIENTE                  
+VENCIMENTO   : 9048420686.4                            
+VALOR        : 10/05/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 22/05/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : ESTORNO DE PROTESTO                     
+MOTIVO       : SOLICITACAO DE CLIENTE                  
+VENCIMENTO   : 9048420686.4                            
+VALOR        : 10/05/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 15/06/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CRADIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : QUITACAO DE DUPLICATA                   
+MOTIVO       : DUPLICATA PAGA                          
+VENCIMENTO   : 9048420796.8                            
+VALOR        : 20/05/1999
+SACADO       : REGINALDO MENDES DOS SANTOS             
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 15/06/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : QUITACAO DE DUPLICATA                   
+MOTIVO       : DUPLICATA PAGA                          
+VENCIMENTO   : 9048420796.8                            
+VALOR        : 20/05/1999
+SACADO       : REGINALDO MENDES DOS SANTOS             
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 15/06/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CRADIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : QUITACAO DE DUPLICATA                   
+MOTIVO       : DUPLICATA PAGA                          
+VENCIMENTO   : 9048420796.8                            
+VALOR        : 20/05/1999
+SACADO       : REGINALDO MENDES DOS SANTOS             
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 22/06/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CRADIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : ESTORNO DE PORTESTO/PEDIDO DE BAIXA     
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9048420822.0                            
+VALOR        : 30/05/1999
+SACADO       : LAURA LOPES SANTOS                      
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 22/06/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : ESTORNO DE PROTESTO/PEDIDO DE BAIXA     
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9058420822.0                            
+VALOR        : 30/05/1999
+SACADO       : LAURA LOPES SANTOS                      
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 22/06/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : ESTORNO DE PORTESTO/ PEDIDO DE BAIXA    
+MOTIVO       : PAGA EM CATEIRA                         
+VENCIMENTO   : 9048420822.0                            
+VALOR        : 30/05/1999
+SACADO       : LAURA LOPES SANTOS                      
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 06/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9048420013.0                            
+VALOR        : 07/06/1999
+SACADO       : COMERC. DERV. DE PETROLEO ROMA LTDA     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 06/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9048420013.0                            
+VALOR        : 07/06/1999
+SACADO       : COMERC. DERV. DE PETROLEO ROMA LTDA     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 09/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9050400702.0                            
+VALOR        : 27/06/1999
+SACADO       : CESTEL COM. E SERV. TEIXEIRA LTDA       
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 09/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9050400702.0                            
+VALOR        : 27/06/1999
+SACADO       : CESTEL COM. E SERV. TEIXEIRA LTDA       
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 09/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9050400879.5                            
+VALOR        : 20/06/1999
+SACADO       : CESTEL COM E SERV. TEIXEIRA LTDA        
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 09/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9050400879.5                            
+VALOR        : 20/06/1999
+SACADO       : CESTEL COM. E SERV. TEIXEIRA LTDA       
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 09/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSRACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9048420016.5                            
+VALOR        : 05/06/1999
+SACADO       : CESTEL COM. SERV. TEXEIRA LTDA          
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 09/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9048420016.5                            
+VALOR        : 05/06/1999
+SACADO       : CESTEL COM. E SERV. TEXEIRA LTDA        
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 09/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9050400646.6                            
+VALOR        : 05/06/1999
+SACADO       : CESTEL COM. E SERV. TEIXEIRA LTDA       
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 09/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9050400646.6                            
+VALOR        : 05/06/1999
+SACADO       : CESTEL COM. E SERV. TEIXEIRA LTDA       
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 12/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9047105734.2                            
+VALOR        : 18/06/1999
+SACADO       : MANOEL JOAO DE SA BARROS                
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 12/07/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9047105734.2                            
+VALOR        : 18/06/1999
+SACADO       : MANOEL JOAO DE SA BARROS                
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 24/08/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO 02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875853.8                            
+VALOR        : 15/08/1999
+SACADO       : MOREIRA MAIA ENGENHARIA LTDA            
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 24/08/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875853.8                            
+VALOR        : 15/08/1999
+SACADO       : MOREIRA MAIA ENGENHARIA LTDA            
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 24/08/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875852.0                            
+VALOR        : 15/08/1999
+SACADO       : MOREIRA MAIA ENGENHARIA LTDA            
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 24/08/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875852.0                            
+VALOR        : 15/08/1999
+SACADO       : MOREIRA MAIA ENGENHARIA LTDA            
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 24/08/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : A PEDIDO DE CLIENTE/VENC.ERRADO         
+VENCIMENTO   : 9051875814.7                            
+VALOR        : 15/08/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 24/08/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : A PEDIDO DE CLIENTE/VENC.ERRADO         
+VENCIMENTO   : 9051875814.7                            
+VALOR        : 15/08/1999
+SACADO       : CCC CONSTRUTORA E COMERCIO LTDA         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 26/08/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : TROCA DE VENCIMENTO                     
+VENCIMENTO   : 9050401100.1                            
+VALOR        : 05/08/1999
+SACADO       : ORTILANDO DA SILVA                      
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 26/08/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/PEDIDO DE BAIXA    
+MOTIVO       : TROCA DE VENCIMENTO                     
+VENCIMENTO   : 9050401100.1                            
+VALOR        : 05/08/1999
+SACADO       : ORTILANDO DA SILVA                      
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 02/09/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : PEDIDO DE BAIXA/ SUSTACAO DE PROTESTO   
+MOTIVO       : ACERTO COM CLIENTE                      
+VENCIMENTO   : 9051875980.1                            
+VALOR        : 15/08/1999
+SACADO       : NILDO CINE FOTO                         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 02/09/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : PEDIDO DE BAIXA/ SUSTACAO DE PROTESTO   
+MOTIVO       : ACERTO COM CLIENTE                      
+VENCIMENTO   : 9051875980.1                            
+VALOR        : 15/08/1999
+SACADO       : NILDO CINE FOTO                         
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 08/09/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875984.4                            
+VALOR        : 25/08/1999
+SACADO       : LUNNA ENGERAHIA LTDA                    
+N§ DOCUMENTO : DUPLICATA EM BANCARIA                   
+==================================================
+DATA         : 08/09/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NILDA                                   
+PEDIDO/ORDEM : SUSTACAO DE PORTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875984.4                            
+VALOR        : 25/08/1999
+SACADO       : LUNNA ENGENHARIA LTDA                   
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 04/10/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9058420825.5                            
+VALOR        : 30/08/1999
+SACADO       : LAURA LOPES SANTOS                      
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 04/10/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9058420825.5                            
+VALOR        : 30/08/1999
+SACADO       : LAURA LOPES SANTOS                      
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 08/10/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA ME CARTEIRA                        
+VENCIMENTO   : 9051875407.9                            
+VALOR        : 21/09/1999
+SACADO       : CICERO RAMOS PAIXAO                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 08/10/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875407.9                            
+VALOR        : 21/09/1999
+SACADO       : CICERO RAMOS PAIXAO                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 08/10/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875356.0                            
+VALOR        : 17/09/1999
+SACADO       : CICERO RAMOS PAIXAO                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+

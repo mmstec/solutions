@@ -1,0 +1,4 @@
+**
+** Bloco de inser‡„o R01.B22
+**
+@ 00,001 SAY "Usu rio: "+M->OPERADOR

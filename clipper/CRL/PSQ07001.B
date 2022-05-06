@@ -1,0 +1,23 @@
+FUNCTION PSQ07001
+*
+* -> Funcao que faz pesquisas em outro banco de dados
+SELE 6
+SET ORDER TO 1
+SEEK M->REFERENCIA
+M->RETOR_NO=.T.
+IF (EOF() .AND. LASTKEY()<>5) .OR. M->TEC_F2
+     M->GET_CAM=READVAR()
+     IF LEN(M->GET_CAM)<>0
+          EDIT_ARQ(EMPTY(M->REFERENCIA))
+          EDIT_ARQ(EMPTY(M->NOMECLIENT))
+          IF LASTKEY()=13
+               M->REFERENCIA = CODICPFCGC
+               M->NOMECLIENT = NOMECPFCGC
+          ENDIF
+     ENDIF
+ELSE
+     M->REFERENCIA = CODICPFCGC
+     M->NOMECLIENT = NOMECPFCGC
+ENDIF
+SELE 4
+RETURN M->RETOR_NO

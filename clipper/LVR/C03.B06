@@ -1,0 +1,15 @@
+**
+** Bloco de inser‡„o C03.B06
+**
+COR("JANELA DE DIALOGO")
+@ 18,04 SAY "Descri‡„o   " 
+@ 19,04 SAY "Referˆncia  " 
+@ 18,62 SAY "PRE€O DE VENDA"
+*
+COR("CERCADURAS")
+@ 18,17 SAY DESCRICAOO
+@ 19,17 SAY REFERENCIA 
+@ 19,62 SAY " "+STRzero(PRECOAVIST,10,2)
+*
+*
+

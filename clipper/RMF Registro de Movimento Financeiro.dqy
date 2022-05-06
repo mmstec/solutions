@@ -1,0 +1,7 @@
+XLODBC
+1
+DSN=Arquivos dBASE;DefaultDir=F:\MFB\VENDA;DriverId=533;MaxBufferSize=512;PageTimeout=5;
+SELECT dbvalor.DATA, dbvalor.LKCONTA, dbvalor.LKCAIXA, dbvalor.VALOR, dbvalor.COMISSAO, dbvalor.LKPERC, dbvalor.LKRESP  FROM dbvalor dbvalor  ORDER BY dbvalor.DATA, dbvalor.LKCONTA, dbvalor.LKCAIXA
+
+
+DATA	LKCONTA	LKCAIXA	VALOR	COMISSAO	LKPERC	LKRESP

@@ -1,0 +1,12 @@
+cls
+Tentativa=0
+do while file("USERFILE.ON") 
+   tentativa++
+   @ 10,10 SAY "Existe um usuario usando o sistema"
+   @ 12,10 SAY "Tentativa N.º:"+alltrim(str(tentativa))
+   inkey(3)
+   @ 12,10 SAY "Aguarde liberação do sistema"
+enddo
+UserName :=NetName()
+UserLog  :=dtoc(date())+" "+time()
+SAVE ALL like USER* TO USERFILE.ON

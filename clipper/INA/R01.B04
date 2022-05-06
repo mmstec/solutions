@@ -1,0 +1,19 @@
+   **
+   ** Bloco de inser‡„o R01.B04
+   **
+   OPC = 1
+   @ 11,30 PROMPT " 01 - Inadiplente" 
+   @ 12,30 PROMPT " 02 - Confronto  "
+   @ 13,30 PROMPT " 03 - Funcionario"
+   @ 14,30 PROMPT " 04 - Outro      "
+   MENU TO OPC
+   DO CASE
+   CASE OPC = 1
+     M->FILTRO_1 = "1"
+   CASE OPC = 2
+     M->FILTRO_1 = "2"
+   CASE OPC = 3
+     M->FILTRO_1 = "3"
+   CASE OPC = 4
+     M->FILTRO_1 = "4"
+   ENDCASE

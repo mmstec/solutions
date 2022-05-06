@@ -1,0 +1,194 @@
+
+ 
+     MIRO 2.2 - DOCUMENTA─▌O DO SISTEMA
+     дддддддддддддддддддддддддддддддддд
+ 
+     SISTEMA : MONTE
+     TITULO  : MFB - Duplicatas e Estoque do Cimento                                           
+ 
+ 
+     ARQUIVOS
+     мммммммм
+ 
+     AREA      : 1
+     ARQUIVO   : EST_CIMT.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     DATA         DATA             8          0
+     COMPRA       NUMERICO        10          1
+     VENDA        NUMERICO        10          1
+     PGO_F_PEGA   NUMERICO        10          1
+     HISTORICO    CARACTER        30          0
+ 
+     INDICE    : EST_C001.NTX
+     EXPRESSAO : DTOS(DATA)+DTOS(DATA)+MES_ANO(DATA)+STR(COMPRA,10,1)+HISTORICO
+     ORDEM     : 1
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 2
+     ARQUIVO   : DOCUMENT.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     NDOCUMENTO   CARACTER        15          0
+     VALOR        NUMERICO        10          2
+     VENCIMENTO   DATA             8          0
+     PAGAMENTO    DATA             8          0
+     HISTORICO    CARACTER        30          0
+ 
+     INDICE    : DOCUM002.NTX
+     EXPRESSAO : DTOS(DATA)
+     ORDEM     : 1
+ 
+     INDICE    : DOCUM003.NTX
+     EXPRESSAO : DTOS(PAGAMENTO)+DTOS(PAGAMENTO)+NDOCUMENTO+STR(VALOR,10,2)+HISTORICO
+     ORDEM     : 2
+ 
+     INDICE    : DOCUM004.NTX
+     EXPRESSAO : DTOS(VENCIMENTO)+DTOS(VENCIMENTO)+MES_ANO(VENCIMENTO)+NDOCUMENTO+STR(VALOR,10,2)
+     ORDEM     : 3
+ 
+     INDICE    : DOCUM005.NTX
+     EXPRESSAO : NDOCUMENTO
+     ORDEM     : 4
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+ 
+     SISTEMA MONTE - MODULOS (PRG)
+     ммммммммммммммммммммммммммммм
+ 
+     зддддддддддддддддбддддддддддддддддддддддддддддддд©
+     Ё     Modulo     Ё           Descricao           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTE.PRG      Ё Modulo principal              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTEfun.PRG   Ё Modulo de funcoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTEarq.PRG   Ё Rotina de criacao de arquivos Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTEsos.PRG   Ё Rotinas de help               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTEInc.PRG   Ё Menu de inclusoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё MANUTENCAO CIMENTO            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTEI02.PRG   Ё DUPLICATAS ╔ PAGAS            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTEI03.PRG   Ё DUPLICATAS   PAGAS            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTEI04.PRG   Ё ESTOQUE    CIMENTO            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTECon.PRG   Ё Menu de consultas             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё MANUTECAO  CIMENTO            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTEC02.PRG   Ё DUPLICATAS ╔ PAGAS            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё      -=-       Ё DUPLICATAS   PAGAS            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTEC04.PRG   Ё ESTOQUE    CIMENTO            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTERel.PRG   Ё Menu de relatorios            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё MANUTENCAO CIMENTO            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTER02.PRG   Ё DUPLICATAS ╔ PAGAS            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTER03.PRG   Ё DUPLICATAS   PAGAS            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MONTER04.PRG   Ё ESTOQUE    CIMENTO            Ё
+     юддддддддддддддддаддддддддддддддддддддддддддддддды
+ 
+ 
+ 
+     CONFIGURACAO DO SISTEMA
+     ммммммммммммммммммммммм
+ 
+   - Linguagem
+ 
+     здддбддддддддд©  здддбдддддддд©
+     Ё Ш Ё Clipper Ё  Ё   Ё Joiner Ё
+     юдддаддддддддды  юдддадддддддды
+ 
+ 
+   - Tratamento de arquivos
+ 
+     здддбддддддддддддд©  здддбдддддддддддддд©
+     Ё   Ё Monousuario Ё  Ё Ш Ё Multiusuario Ё
+     юдддаддддддддддддды  юдддадддддддддддддды
+ 
+ 
+   - Endentacao 
+ 
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё   Ё 00 Coluna  Ё   Ё   Ё 01 Coluna  Ё   Ё   Ё 02 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё Ш Ё 03 Coluna  Ё   Ё   Ё 04 Coluna  Ё   Ё   Ё 05 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+ 
+ 
+   - Visualizar blocos
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Comentarios
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Rotinas
+ 
+     здддбддддддддддддддддддддддддддддддд©
+     Ё Ш Ё Calendario                    Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Calculadora                   Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Senhas de acesso              Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Help                          Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Back-up                       Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Dos shell                     Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Atualizacao de data           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Criacao de arquivos           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Sombras                       Ё
+     юдддаддддддддддддддддддддддддддддддды
+ 
+ 
+   - Cores do sistema
+ 
+     здддддддддддддддддддддддбддддддддддбдддддддддддддддддддддддддддддддд©
+     Ё     Especificacao     Ё Setcolor Ё      Descricao das cores       Ё
+     цдддддддддддддддддддддддеддддддддддедддддддддддддддддддддддддддддддд╢
+     Ё  Fundo da tela        Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Menu                 Ё    B/BG  Ё  Azul / Cyan                   Ё
+     Ё  Destaque do menu     Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Janela de dialogo    Ё     B/W  Ё  Azul / Branco                 Ё
+     Ё  Box janela de dialogoЁ    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Botoes               Ё    R+/R  Ё  Vermelho Brilhante / Vermelho Ё
+     Ё  Botao em destaque    Ё   GR+/R  Ё  Amarelo / Vermelho            Ё
+     Ё  Gets                 Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Get em destaque      Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Tela de apresenta┤└o Ё    G+/N  Ё  Verde Brilhante / Preto       Ё
+     Ё  Caracteres avulsos   Ё    B+/W  Ё  Azul Brilhante / Branco       Ё
+     Ё  Cercaduras           Ё     R/W  Ё  Vermelho / Branco             Ё
+     Ё  T║tulo               Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     юдддддддддддддддддддддддаддддддддддадддддддддддддддддддддддддддддддды
+ 
+ 
+* Final MONTE.DOC

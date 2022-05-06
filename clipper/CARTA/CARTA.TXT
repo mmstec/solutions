@@ -1,0 +1,778 @@
+DATA         : 08/10/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875356.0                            
+VALOR        : 17/09/1999
+SACADO       : CICERO RAMOS PAIXAO                     
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 18/10/1999
+ESTACAO      : CREDIARIO3     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM :                                         
+MOTIVO       :                                         
+VENCIMENTO   :                                         
+VALOR        : 18/10/1999
+SACADO       :                                         
+N§ DOCUMENTO :                                         
+==================================================
+DATA         : 26/10/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875594.6                            
+VALOR        : 14/10/1999
+SACADO       : W.E DA ROCHA MAT. DE CONSTRUCAO LTDA    
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 26/10/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9051875594.4                            
+VALOR        : 14/10/1999
+SACADO       : W.F DA ROCHA MAT. DE CONSTRUCAO LTDA    
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 12/11/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO BAIXA      
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9052984146.6                            
+VALOR        : 17/10/1999
+SACADO       : IND. E COML. DE REVEST.SUL BAHIA LTDA   
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 12/11/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PORTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9052984146.6                            
+VALOR        : 17/10/1999
+SACADO       : IND. E COM. DE REVEST. SUL BAHIA LTDA   
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 12/11/1999
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : FLAVIA RHOSE SOUZA DOURADO
+CARGO/FUNCAO : CREDIARIO-02
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO/ PEDIDO DE BAIXA   
+MOTIVO       : PAGA EM CARTEIRA                        
+VENCIMENTO   : 9052984146.6                            
+VALOR        : 17/10/1999
+SACADO       : IND. E COM. DE REVEST. SUL BAHIA LTDA   
+N§ DOCUMENTO : DUPLICATA BANCARIA                      
+==================================================
+DATA         : 07/02/2000
+ESTACAO      : ADMINISTRADOR  
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NICE                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO                    
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 9054175999.5                            
+VALOR        : 16/01/2000
+SACADO       : LINDALVA REIS DOS ANJOS                 
+N§ DOCUMENTO : 6885.03                                 
+==================================================
+DATA         : 07/02/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : NICE                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO                    
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 9054175999.5                            
+VALOR        : 16/01/2000
+SACADO       : LINDALVA REIS DOS ANJOS                 
+N§ DOCUMENTO : 6885.03                                 
+==================================================
+DATA         : 07/02/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : LUCY                                    
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO                    
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 9054175999.5                            
+VALOR        : 16/01/2000
+SACADO       : LINDALVA REIS DOS ANJOS                 
+N§ DOCUMENTO : 6885.03                                 
+==================================================
+DATA         : 11/02/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO                    
+MOTIVO       : EMISSAO DE DUPLICATA EM DUPLICIDADE     
+VENCIMENTO   : 9055209851.0                            
+VALOR        : 28/01/2000
+SACADO       : EBISA ENG BRAS INDUST E SANEA S.A       
+N§ DOCUMENTO : 0017369.01                              
+==================================================
+DATA         : 11/02/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA EMITIDA EM DUPLICIDADE        
+VENCIMENTO   : 9055209851.0                            
+VALOR        : 28/01/2000
+SACADO       : EBISA ENG. BRAS. INDUST. E SANEAM. S.A. 
+N§ DOCUMENTO : 0017369.01                              
+==================================================
+DATA         : 15/02/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA EMITIDA EM DUPLICIDADE        
+VENCIMENTO   : 9055209851.0                            
+VALOR        : 28/01/2000
+SACADO       : EBISA ENG. BRAS. INDUST. E SANEAM. S.A. 
+N§ DOCUMENTO : 0017369.01                              
+==================================================
+DATA         : 17/06/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA PAGA NA LOJA                  
+VENCIMENTO   : 9055209350.0                            
+VALOR        : 12/04/2000
+SACADO       : AURELINO DE JESUS SANTOS                
+N§ DOCUMENTO : 19427.03A                               
+==================================================
+DATA         : 19/06/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA PAGA EM CARTEIRA              
+VENCIMENTO   : 9055209350.0                            
+VALOR        : 19/06/2000
+SACADO       : AURELINO DE JESUS SANTOS                
+N§ DOCUMENTO : 19427.03A                               
+==================================================
+DATA         : 19/06/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA PAGA EM CARTEIRA              
+VENCIMENTO   : 9055209350.0                            
+VALOR        : 12/04/2000
+SACADO       : AURELINO DE JESUS SANTOS                
+N§ DOCUMENTO : 19427.03A                               
+==================================================
+DATA         : 19/06/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA PAGA EM CARTEIRA              
+VENCIMENTO   : 9055209350.0                            
+VALOR        : 12/04/2000
+SACADO       : AURELINO DE JESUS SANTOS                
+N§ DOCUMENTO : 19427.03A                               
+==================================================
+DATA         : 19/06/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLITACA PAGA EM CARTEIRA              
+VENCIMENTO   : 9055209350.0                            
+VALOR        : 12/04/2000
+SACADO       : AURELINO DE JESUS SANTOS                
+N§ DOCUMENTO : 19427.03A                               
+==================================================
+DATA         : 19/06/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA PAGA EM CARTEIRA              
+VENCIMENTO   : 9055209350.0                            
+VALOR        : 12/04/2000
+SACADO       : AURELINO DE JESUS SANTOS                
+N§ DOCUMENTO : 19427.03A                               
+==================================================
+DATA         : 19/06/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA PAGA EM CARTEIRA              
+VENCIMENTO   : 9055209350.0                            
+VALOR        : 12/04/2000
+SACADO       : AURELINO DE JESUS SANTOS                
+N§ DOCUMENTO : 19427.03A                               
+==================================================
+DATA         : 19/06/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA PAGA EM CARTEIRA              
+VENCIMENTO   : 9055209350.0                            
+VALOR        : 12/04/2000
+SACADO       : AURELINO DE JESUS SANTOS                
+N§ DOCUMENTO : 19427.03A                               
+==================================================
+DATA         : 19/06/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : SUSTACAO DE PROTESTO E BAIXA            
+MOTIVO       : DUPLICATA PAGA EM CARTEIRA              
+VENCIMENTO   : 9055209350.0                            
+VALOR        : 12/04/2000
+SACADO       : AURELINO DE JESUS SANTOS                
+N§ DOCUMENTO : 19427.03A                               
+==================================================
+DATA         : 08/09/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 9059091920.8                            
+VALOR        : 18/08/2000
+SACADO       : M.R.M. CONSTRUTORA LTDA                 
+N§ DOCUMENTO : 49350.01                                
+==================================================
+DATA         : 08/09/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : DATA INCORRETA                          
+VENCIMENTO   : 9059091747.7                            
+VALOR        : 03/08/2000
+SACADO       : ELIEZER NASCIMENTO MIRANDA              
+N§ DOCUMENTO : 54641.08                                
+==================================================
+DATA         : 08/09/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : DATA INCORRETA                          
+VENCIMENTO   : 9059091822.8                            
+VALOR        : 15/08/2000
+SACADO       : ANTONIO BRANDAO DE OLIVEIRA             
+N§ DOCUMENTO : 14381.08                                
+==================================================
+DATA         : 08/09/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 9059091920.8                            
+VALOR        : 18/18/2000
+SACADO       : M.R.M. CONSTRUTORA LTDA                 
+N§ DOCUMENTO : 49350.01                                
+==================================================
+DATA         : 08/09/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : DATA INCORRETA                          
+VENCIMENTO   : 9059091747.7                            
+VALOR        : 03/08/2000
+SACADO       : ELIEZER NASCIMENTO MIRANDA              
+N§ DOCUMENTO : 54641.08                                
+==================================================
+DATA         : 08/09/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 9059091920.8                            
+VALOR        : 18/08/2000
+SACADO       : M.R.M CONSTRUTORA LTDA                  
+N§ DOCUMENTO : 49350.01                                
+==================================================
+DATA         : 08/09/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : DATA INCORRETA                          
+VENCIMENTO   : 9059091747.7                            
+VALOR        : 03/08/2000
+SACADO       : ELIEZER NASCIMENTO MIRANDA              
+N§ DOCUMENTO : 54641.08                                
+==================================================
+DATA         : 08/09/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : DATA INCORRETA                          
+VENCIMENTO   : 9059091822.8                            
+VALOR        : 15/08/2000
+SACADO       : ANTONIO BRANDAO DE OLIVEIRA             
+N§ DOCUMENTO : 14381.08                                
+==================================================
+DATA         : 21/11/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : FCFCFFCFFFC                             
+MOTIVO       : CFCC                                    
+VENCIMENTO   : 1111111111.1                            
+VALOR        : 11/11/1111
+SACADO       : 34343434BNBNBNBNBNBNBNBNBNB             
+N§ DOCUMENTO : 12122SDSDS                              
+==================================================
+DATA         : 21/11/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 9059091677.2                            
+VALOR        : 25/08/2000
+SACADO       : LUNNA ENGENHARIA LTDA                   
+N§ DOCUMENTO : 51857.01                                
+==================================================
+DATA         : 21/11/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGAMENTOEM CARTEIRA                    
+VENCIMENTO   : 9059092368.0                            
+VALOR        : 25/09/2000
+SACADO       : LUNNA ENGENHARIA LTDA                   
+N§ DOCUMENTO : 57205.01                                
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM :                                         
+MOTIVO       :                                         
+VENCIMENTO   :                                         
+VALOR        : 08/12/2000
+SACADO       :                                         
+N§ DOCUMENTO :                                         
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : VENCIMENTO INCORRETO                    
+VENCIMENTO   : 9060346945.6                            
+VALOR        : 25/11/2000
+SACADO       : SONIA SUELY HAMDAN NERY                 
+N§ DOCUMENTO : 68835.03                                
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : VENCIMENTO INCORRETO                    
+VENCIMENTO   : 9060346946.4                            
+VALOR        : 25/12/2000
+SACADO       : SONIA SUELY HAMDAN NERY                 
+N§ DOCUMENTO : 68835.03A                               
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : NOME DE SACADO TROCADO                  
+VENCIMENTO   : 9060347149.3                            
+VALOR        : 14/12/2000
+SACADO       : EDVALDO FERREIRA SANTOS                 
+N§ DOCUMENTO : 73177.01                                
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : NOME DE SACADO TROCADO                  
+VENCIMENTO   : 9060346922.7                            
+VALOR        : 15/11/2000
+SACADO       : MARIA LUCIA DA SILVA SANTOS             
+N§ DOCUMENTO : 65972.03                                
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : NOME DE SACADO TROCADO                  
+VENCIMENTO   : 9060346923.5                            
+VALOR        : 15/12/2000
+SACADO       : MARIA LUCIA DA SILVA SANTOS             
+N§ DOCUMENTO : 65972.03A                               
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : NOME DE SACADO TROCADO                  
+VENCIMENTO   : 9060346924.3                            
+VALOR        : 15/01/2001
+SACADO       : MARIA LUCIA DA SILVA SANTOS             
+N§ DOCUMENTO : 65972.03B                               
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : DEVOLUCAO DE MERCADORIA                 
+VENCIMENTO   : 9060347305.4                            
+VALOR        : 08/01/2001
+SACADO       : ANDRADE AGROP. E MAT. DE CONST. LTDA    
+N§ DOCUMENTO : 75661.01                                
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : VENCIMENTO INCORRETO                    
+VENCIMENTO   : 9060347330.5                            
+VALOR        : 25/12/2000
+SACADO       : JOSE CELESTINO                          
+N§ DOCUMENTO : 74934.01                                
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : VALOR INCORRETO                         
+VENCIMENTO   : 9060347151.5                            
+VALOR        : 15/01/2001
+SACADO       : J.A. NOVAES E CIA LTDA                  
+N§ DOCUMENTO : 73212.03A                               
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : VALOR INCORRETO                         
+VENCIMENTO   : 9060347150.7                            
+VALOR        : 15/12/2000
+SACADO       : J.A. NOVAES E CIA LTDA                  
+N§ DOCUMENTO : 73212.03                                
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 9060281282.3                            
+VALOR        : 20/11/2000
+SACADO       : S.A.S.SOCIEDADE ADM. DE SHOPPING        
+N§ DOCUMENTO : 68226.01                                
+==================================================
+DATA         : 08/12/2000
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : PEDIDO DE BAIXA                         
+MOTIVO       : PAGAMENTO EM CARTEIRA                   
+VENCIMENTO   : 9066346149.8                            
+VALOR        : 27/10/2000
+SACADO       : ANCALEENGENHARIA LTDA                   
+N§ DOCUMENTO : 64052.01                                
+==================================================
+DATA         : 15/05/2002
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM : TESTE                                   
+MOTIVO       : TESTE                                   
+VENCIMENTO   : 123       .                             
+VALOR        : 15/05/2002
+SACADO       : TESTE                                   
+N§ DOCUMENTO : 123                                     
+==================================================
+DATA         : 15/05/2002
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : MARCOS                                  
+PEDIDO/ORDEM : TESTE                                   
+MOTIVO       : TESTE                                   
+VENCIMENTO   : 1223      .                             
+VALOR        : 15/05/2002
+SACADO       : 1212                                    
+N§ DOCUMENTO : 1222                                    
+==================================================
+DATA         : 17/05/2002
+ESTACAO      : CREDIARIO1     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : K & J ENGENHARIA LTDA
+CONTATO      : RENATA                                  
+PEDIDO/ORDEM : CANCELAMENTO                            
+MOTIVO       : ATRASO NO ENVIO DO BOLETO               
+VENCIMENTO   : 8200001910.5                            
+VALOR        : 16/05/2002
+SACADO       : K & J ENGENHARIA LTDA                   
+N§ DOCUMENTO : 20057.01                                
+==================================================
+DATA         : 23/12/2002
+ESTACAO      : CREDIARIO2     
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      :                                         
+PEDIDO/ORDEM :                                         
+MOTIVO       :                                         
+VENCIMENTO   :                                         
+VALOR        : 23/12/2002
+SACADO       :                                         
+N§ DOCUMENTO :                                         
+==================================================
+ESTACAO BMC-02 ATIVO POR 00:00:30
+USUARIO: MARCOS              
+DATA   : 05/02/2009
+INICIO : 10:33:09
+TERMINO: 10:33:39
+==================================================
+DATA         : 05/02/2009
+ESTACAO      : BMC-02         
+-------------: 
+RESPONSAVEL  : VALDIR CARLOS DE JESUS BARRETO
+CARGO/FUNCAO : SOCIO-GERENTE
+EMPRESA      : MFB MATERIAL DE CONSTRU€ÇO LTDA
+DESTINATARIO : CAIXA ECONOMICA FEDERAL S/A
+CONTATO      : MARCOS                                  
+PEDIDO/ORDEM : TESTE PEDIDO                            
+MOTIVO       : TESTE MOTIVO                            
+VENCIMENTO   : 1111111111.1                            
+VALOR        : 02/02/2009
+SACADO       : TESTE SACADO                            
+N§ DOCUMENTO : TESTE DOCUMENTO                         
+==================================================
+ESTACAO BMC-02 ATIVO POR 00:00:11
+USUARIO: MARCOS              
+DATA   : 05/02/2009
+INICIO : 10:35:08
+TERMINO: 10:35:19
+==================================================
+

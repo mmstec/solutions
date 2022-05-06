@@ -1,0 +1,81 @@
+.RTLink for Clipper  Dynamic Overlay Linker / Pre-Linker  Version 3.13
+(C) Copyright Pocket Soft Inc., 1988-1991.  All Rights Reserved.
+
+=> 
+=> LIB \MIRO3\MOUSE
+=> FI LIVRO,LIVROARQ,LIVROFU1,LIVROFU2,LIVROFU3,LIVROSOS,LIVROINC,LIVROI02
+=> FI LIVROI03,LIVROCON,LIVROC02,LIVROC03,LIVROREL,LIVROR01
+=> OUTPUT LIVRO=> 
+warning wrt0011: Public symbol 'LIVROARQ' doubly defined
+warning wrt0011: Public symbol 'CRIARQ' doubly defined
+warning wrt0011: Public symbol 'REPARQ' doubly defined
+warning wrt0011: Public symbol 'INDICES' doubly defined
+warning wrt0011: Public symbol 'BOTAO' doubly defined
+warning wrt0011: Public symbol 'MENSAGEM' doubly defined
+warning wrt0011: Public symbol 'CGETS' doubly defined
+warning wrt0011: Public symbol 'EDIT_ARQ' doubly defined
+warning wrt0011: Public symbol 'LER_ARQ' doubly defined
+warning wrt0011: Public symbol 'VAR_GET' doubly defined
+warning wrt0011: Public symbol 'EDITOR' doubly defined
+warning wrt0011: Public symbol 'FUNMEMO' doubly defined
+warning wrt0011: Public symbol 'DELE_TAR' doubly defined
+warning wrt0011: Public symbol 'PERGUNTA' doubly defined
+warning wrt0011: Public symbol 'MENU' doubly defined
+warning wrt0011: Public symbol 'SOMBRA' doubly defined
+warning wrt0011: Public symbol 'COR' doubly defined
+warning wrt0011: Public symbol 'CONFCOR' doubly defined
+warning wrt0011: Public symbol 'FUNDO' doubly defined
+warning wrt0011: Public symbol 'FUN_CFG' doubly defined
+warning wrt0011: Public symbol 'MENU_PRN' doubly defined
+warning wrt0011: Public symbol 'IMP_TELA' doubly defined
+warning wrt0011: Public symbol 'FUN_IMP' doubly defined
+warning wrt0011: Public symbol 'LIVROSOS' doubly defined
+warning wrt0011: Public symbol 'HELP' doubly defined
+warning wrt0011: Public symbol 'SOS' doubly defined
+warning wrt0011: Public symbol 'LIVROINC' doubly defined
+warning wrt0011: Public symbol 'LIVROI02' doubly defined
+warning wrt0011: Public symbol 'CARREG02' doubly defined
+warning wrt0011: Public symbol 'CARGET02' doubly defined
+warning wrt0011: Public symbol 'SALVAR02' doubly defined
+warning wrt0011: Public symbol 'VERI002' doubly defined
+warning wrt0011: Public symbol 'IFU02001' doubly defined
+warning wrt0011: Public symbol 'IFU02002' doubly defined
+warning wrt0011: Public symbol 'IFU02003' doubly defined
+warning wrt0011: Public symbol 'IFU02005' doubly defined
+warning wrt0011: Public symbol 'IFU02006' doubly defined
+warning wrt0011: Public symbol 'PSQ02001' doubly defined
+warning wrt0011: Public symbol 'LIVROI03' doubly defined
+warning wrt0011: Public symbol 'CARREG03' doubly defined
+warning wrt0011: Public symbol 'CARGET03' doubly defined
+warning wrt0011: Public symbol 'SALVAR03' doubly defined
+warning wrt0011: Public symbol 'VERI003' doubly defined
+warning wrt0011: Public symbol 'IFU03001' doubly defined
+warning wrt0011: Public symbol 'IFU03002' doubly defined
+warning wrt0011: Public symbol 'LIVROCON' doubly defined
+warning wrt0011: Public symbol 'LIVROC02' doubly defined
+warning wrt0011: Public symbol 'EDITAR02' doubly defined
+warning wrt0011: Public symbol 'LIVROC03' doubly defined
+warning wrt0011: Public symbol 'EDITAR03' doubly defined
+warning wrt0011: Public symbol 'LIVROREL' doubly defined
+warning wrt0011: Public symbol 'LIVROR01' doubly defined
+warning wrt0011: Public symbol 'GETREADER' doubly defined
+
+UNDEFINED SYMBOL(S) AFTER LIBRARY SEARCH:
+	SYMBOL						FIRST REFERENCE
+	------						---------------
+	'READKILL'					LIVRO.OBJ
+	'__CAPLENGT'					LIVRO.OBJ
+	'USEREDE'					LIVRO.OBJ
+	'ADIREG'					LIVRO.OBJ
+	'__DBSDF'					LIVRO.OBJ
+	'ORDSETFOCU'					LIVRO.OBJ
+	'ORDLISTCLE'					LIVRO.OBJ
+	'ORDLISTADD'					LIVRO.OBJ
+	'CLIPPER530'					LIVRO.OBJ
+	'IMP_FICHA'					LIVROFU3.OBJ
+	'IMP_ETQ'					LIVROFU3.OBJ
+	'IMP_REL'					LIVROFU3.OBJ
+
+warning wrt0022: .EXE may not execute properly -- undefined symbols
+296K
+54 warning message(s)

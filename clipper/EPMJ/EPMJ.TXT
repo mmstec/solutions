@@ -1,0 +1,805 @@
+MAQUINA  : SUPERVISOR
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 10/08/1998-16:21:06
+TERMINO  : 10/08/1998-16:21:27
+USO TOTAL: 00:00:21
+*** HISTORICO ***
+16:21:06-Entrada normal
+16:21:11-Edita NOME
+16:21:27-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 10/08/1998-16:21:39
+TERMINO  : 10/08/1998-16:22:04
+USO TOTAL: 00:00:25
+*** HISTORICO ***
+16:21:39-Entrada normal
+16:21:47-Edita CODIGO
+16:21:57-Edita CODIGO
+16:22:00-Edita CODIGO
+16:22:04-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 10/08/1998-16:22:08
+TERMINO  : 10/08/1998-16:22:48
+USO TOTAL: 00:00:40
+*** HISTORICO ***
+16:22:08-Entrada normal
+16:22:44-Apagou registros 000001
+16:22:48-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 10/08/1998-16:24:43
+TERMINO  : 10/08/1998-16:24:46
+USO TOTAL: 00:00:03
+*** HISTORICO ***
+16:24:43-Entrada normal
+16:24:46-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 10/08/1998-16:25:01
+TERMINO  : 10/08/1998-16:25:20
+USO TOTAL: 00:00:19
+*** HISTORICO ***
+16:25:01-Entrada normal
+16:25:20-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 10/08/1998-16:25:28
+TERMINO  : 10/08/1998-16:26:04
+USO TOTAL: 00:00:36
+*** HISTORICO ***
+16:25:28-Entrada normal
+16:26:03-Apagou registros      2
+16:26:04-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 11/08/1998-07:47:55
+TERMINO  : 11/08/1998-07:48:37
+USO TOTAL: 00:00:42
+*** HISTORICO ***
+07:47:55-Entrada normal
+07:48:27-Edita CODIGO
+07:48:37-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : FLAVIA RHOSE SOUZA DOURADO
+ENTRADA  : 11/08/1998-08:43:42
+TERMINO  : 11/08/1998-08:44:16
+USO TOTAL: 00:00:34
+*** HISTORICO ***
+08:43:42-Entrada normal
+08:44:01-Impressao de ate 
+08:44:02-Relatorio 
+08:44:16-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 11/08/1998-10:23:11
+TERMINO  : 11/08/1998-10:24:55
+USO TOTAL: 00:01:44
+*** HISTORICO ***
+10:23:11-Entrada normal
+10:23:54-Apagou registros      2
+10:24:53-Apagou registros FLAVIA RHOSE SOUZA DOURADO         
+10:24:55-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 11/08/1998-17:47:23
+TERMINO  : 11/08/1998-17:49:33
+USO TOTAL: 00:02:10
+*** HISTORICO ***
+17:47:23-Entrada normal
+17:48:04-Apagou registros      2
+17:49:33-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 10/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 11/08/1998-17:49:42
+TERMINO  : 11/08/1998-17:49:48
+USO TOTAL: 00:00:06
+*** HISTORICO ***
+17:49:42-Entrada normal
+17:49:47-Apagou registros 000002
+17:49:48-Saida normal 
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : EPMJ.EXE
+VERSAO   : 12/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 12/08/1998-11:44:24
+TERMINO  : 12/08/1998-11:44:29
+USO TOTAL: 00:00:05
+*** HISTORICO ***
+11:44:24-Entrada normal
+11:44:29-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-09:09:13
+TERMINO  : 18/08/1998-09:10:41
+USO TOTAL: 00:01:28
+*** HISTORICO ***
+09:09:13-Entrada normal
+09:09:23-Edita NOME
+09:10:41-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-09:45:10
+TERMINO  : 18/08/1998-09:45:45
+USO TOTAL: 00:00:35
+*** HISTORICO ***
+09:45:10-Entrada normal
+09:45:45-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-09:51:35
+TERMINO  : 18/08/1998-09:52:13
+USO TOTAL: 00:00:38
+*** HISTORICO ***
+09:51:35-Entrada normal
+09:51:43-Edita FONE
+09:51:57-Edita NOME
+09:52:13-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-09:56:22
+TERMINO  : 18/08/1998-09:57:12
+USO TOTAL: 00:00:50
+*** HISTORICO ***
+09:56:22-Entrada normal
+09:56:25-Apagou registros 000003
+09:57:12-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-09:57:42
+TERMINO  : 18/08/1998-09:58:11
+USO TOTAL: 00:00:29
+*** HISTORICO ***
+09:57:42-Entrada normal
+09:57:45-Apagou registros TESTE                              
+09:58:11-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-09:58:59
+TERMINO  : 18/08/1998-09:59:46
+USO TOTAL: 00:00:47
+*** HISTORICO ***
+09:58:59-Entrada normal
+09:59:46-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:00:53
+TERMINO  : 18/08/1998-15:02:54
+USO TOTAL: 00:02:01
+*** HISTORICO ***
+15:00:53-Entrada normal
+15:02:05-Apagou registros MARCOS    
+15:02:07-Apagou registros Marcos    
+15:02:08-Apagou registros S         
+15:02:10-Apagou registros           
+15:02:54-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:05:02
+TERMINO  : 18/08/1998-15:06:44
+USO TOTAL: 00:01:42
+*** HISTORICO ***
+15:05:02-Entrada normal
+15:05:10-Edita NOME
+15:05:12-Edita SOBRENOME
+15:05:17-Pesquisou registro 'MARCOS'.
+         Localizou 'MARCOS 525-2344'
+15:06:44-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:23:02
+TERMINO  : 18/08/1998-15:23:57
+USO TOTAL: 00:00:55
+*** HISTORICO ***
+15:23:02-Entrada normal
+15:23:57-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:25:50
+TERMINO  : 18/08/1998-15:28:18
+USO TOTAL: 00:02:28
+*** HISTORICO ***
+15:25:50-Entrada normal
+15:26:38-Edita NOME
+15:26:42-Edita CODIGO
+15:26:43-Edita CODIGO
+15:26:44-Edita NOME
+15:26:46-Edita SOBRENOME
+15:26:47-Edita DDD
+15:26:48-Edita FONE
+15:26:49-Edita REFERENCIA
+15:26:52-Edita memo OBS
+15:26:55-Edita memo OBS
+15:27:47-Edita NOME
+15:28:15-Edita NOME
+15:28:18-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:29:16
+TERMINO  : 18/08/1998-15:29:42
+USO TOTAL: 00:00:26
+*** HISTORICO ***
+15:29:16-Entrada normal
+15:29:42-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:32:46
+TERMINO  : 18/08/1998-15:33:39
+USO TOTAL: 00:00:53
+*** HISTORICO ***
+15:32:46-Entrada normal
+15:33:39-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:37:01
+TERMINO  : 18/08/1998-15:37:27
+USO TOTAL: 00:00:26
+*** HISTORICO ***
+15:37:01-Entrada normal
+15:37:15-Edita NOME
+15:37:18-Edita NOME
+15:37:21-Edita NOME
+15:37:23-Edita NOME
+15:37:25-Edita NOME
+15:37:27-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:41:58
+TERMINO  : 18/08/1998-15:44:18
+USO TOTAL: 00:02:20
+*** HISTORICO ***
+15:41:58-Entrada normal
+15:42:01-Edita NOME
+15:42:07-Edita NOME
+15:42:23-Edita NOME
+15:42:31-Edita NOME
+15:42:41-Edita NOME
+15:42:46-Edita NOME
+15:42:48-Edita NOME
+15:42:52-Edita NOME
+15:42:56-Edita NOME
+15:42:59-Edita NOME
+15:43:04-Edita NOME
+15:43:06-Edita NOME
+15:43:11-Edita NOME
+15:43:18-Edita SOBRENOME
+15:43:20-Edita SOBRENOME
+15:43:22-Edita NOME
+15:43:25-Edita NOME
+15:43:28-Edita DDD
+15:43:32-Edita FONE
+15:43:49-Edita NOME
+15:43:56-Edita NOME
+15:44:00-Edita NOME
+15:44:03-Edita NOME
+15:44:08-Edita NOME
+15:44:14-Edita NOME
+15:44:18-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:45:12
+TERMINO  : 18/08/1998-15:45:41
+USO TOTAL: 00:00:29
+*** HISTORICO ***
+15:45:12-Entrada normal
+15:45:16-Edita NOME
+15:45:19-Edita NOME
+15:45:22-Edita NOME
+15:45:26-Edita NOME
+15:45:28-Edita NOME
+15:45:30-Edita NOME
+15:45:31-Edita NOME
+15:45:32-Edita NOME
+15:45:33-Edita NOME
+15:45:34-Edita NOME
+15:45:37-Edita SOBRENOME
+15:45:38-Edita NOME
+15:45:41-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 18/08/1998-15:46:28
+TERMINO  : 18/08/1998-15:48:02
+USO TOTAL: 00:01:34
+*** HISTORICO ***
+15:46:28-Entrada normal
+15:46:31-Edita NOME
+15:48:02-Saida normal 
+
+==================================================
+MAQUINA  : 
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 18/08/1998-17:00:03
+TERMINO  : 18/08/1998-17:03:54
+USO TOTAL: 00:03:51
+*** HISTORICO ***
+17:00:03-Entrada normal
+17:00:09-Apagou registros 000002
+17:00:18-Edita NOME
+17:03:54-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 19/08/1998-11:05:18
+TERMINO  : 19/08/1998-11:05:27
+USO TOTAL: 00:00:09
+*** HISTORICO ***
+11:05:18-Entrada normal
+11:05:27-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 20/08/1998-15:57:38
+TERMINO  : 20/08/1998-16:00:01
+USO TOTAL: 00:02:23
+*** HISTORICO ***
+15:57:38-Entrada normal
+15:59:26-Impressao de ate 
+15:59:27-Relatorio 
+15:59:31-Edita CODIGO
+15:59:39-Edita SOBRENOME
+16:00:01-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 18/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 20/08/1998-16:00:12
+TERMINO  : 20/08/1998-16:01:58
+USO TOTAL: 00:01:46
+*** HISTORICO ***
+16:00:12-Entrada normal
+16:01:58-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 21/08/1998-08:19:42
+TERMINO  : 21/08/1998-08:20:43
+USO TOTAL: 00:01:01
+*** HISTORICO ***
+08:19:42-Entrada normal
+08:20:43-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 21/08/1998-17:50:37
+TERMINO  : 21/08/1998-17:51:12
+USO TOTAL: 00:00:35
+*** HISTORICO ***
+17:50:37-Entrada normal
+17:51:12-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 22/08/1998-10:02:46
+TERMINO  : 22/08/1998-10:04:14
+USO TOTAL: 00:01:28
+*** HISTORICO ***
+10:02:46-Entrada normal
+10:02:52-Edita NOME
+10:04:06-Impressao de ate 
+10:04:09-Relatorio 
+10:04:14-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 25/08/1998-09:09:53
+TERMINO  : 25/08/1998-09:17:46
+USO TOTAL: 00:07:53
+*** HISTORICO ***
+09:09:53-Entrada normal
+09:17:46-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 26/08/1998-17:01:26
+TERMINO  : 26/08/1998-17:02:23
+USO TOTAL: 00:00:57
+*** HISTORICO ***
+17:01:26-Entrada normal
+17:02:23-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 31/08/1998-17:18:57
+TERMINO  : 31/08/1998-17:20:56
+USO TOTAL: 00:01:59
+*** HISTORICO ***
+17:18:57-Entrada normal
+17:20:56-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 03/09/1998-08:44:56
+TERMINO  : 03/09/1998-08:47:10
+USO TOTAL: 00:02:14
+*** HISTORICO ***
+08:44:56-Entrada normal
+08:47:10-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 04/09/1998-09:40:12
+TERMINO  : 04/09/1998-09:42:07
+USO TOTAL: 00:01:55
+*** HISTORICO ***
+09:40:12-Entrada normal
+09:42:07-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 05/09/1998-10:51:30
+TERMINO  : 05/09/1998-10:52:13
+USO TOTAL: 00:00:43
+*** HISTORICO ***
+10:51:30-Entrada normal
+10:52:03-Apagou registros 000013
+10:52:13-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 14/09/1998-08:08:10
+TERMINO  : 14/09/1998-08:10:48
+USO TOTAL: 00:02:38
+*** HISTORICO ***
+08:08:10-Entrada normal
+08:10:48-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 14/09/1998-10:03:08
+TERMINO  : 14/09/1998-10:03:18
+USO TOTAL: 00:00:10
+*** HISTORICO ***
+10:03:08-Entrada normal
+10:03:18-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 14/09/1998-10:03:24
+TERMINO  : 14/09/1998-10:03:30
+USO TOTAL: 00:00:06
+*** HISTORICO ***
+10:03:24-Entrada normal
+10:03:30-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 14/09/1998-10:03:39
+TERMINO  : 14/09/1998-10:05:10
+USO TOTAL: 00:01:31
+*** HISTORICO ***
+10:03:39-Entrada normal
+10:05:10-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 15/09/1998-16:39:26
+TERMINO  : 15/09/1998-16:39:56
+USO TOTAL: 00:00:30
+*** HISTORICO ***
+16:39:26-Entrada normal
+16:39:56-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 15/09/1998-16:40:00
+TERMINO  : 15/09/1998-16:40:16
+USO TOTAL: 00:00:16
+*** HISTORICO ***
+16:40:00-Entrada normal
+16:40:08-Edita SOBRENOME
+16:40:16-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 16/09/1998-11:46:44
+TERMINO  : 16/09/1998-11:50:17
+USO TOTAL: 00:03:33
+*** HISTORICO ***
+11:46:44-Entrada normal
+11:50:17-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARLI
+ENTRADA  : 16/09/1998-11:51:23
+TERMINO  : 16/09/1998-11:51:58
+USO TOTAL: 00:00:35
+*** HISTORICO ***
+11:51:23-Entrada normal
+11:51:58-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 17/09/1998-09:15:32
+TERMINO  : 17/09/1998-09:16:21
+USO TOTAL: 00:00:49
+*** HISTORICO ***
+09:15:32-Entrada normal
+09:15:42-Edita CODIGO
+09:16:06-Edita FONE
+09:16:21-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 17/09/1998-09:16:26
+TERMINO  : 17/09/1998-09:18:30
+USO TOTAL: 00:02:04
+*** HISTORICO ***
+09:16:26-Entrada normal
+09:16:35-Pesquisou registro 'JOAO'.
+         Localizou 'JOAO 525-8034 SOGRA'
+09:18:30-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 24/09/1998-17:20:41
+TERMINO  : 24/09/1998-17:22:42
+USO TOTAL: 00:02:01
+*** HISTORICO ***
+17:20:41-Entrada normal
+17:22:42-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 25/09/1998-11:14:24
+TERMINO  : 25/09/1998-11:17:12
+USO TOTAL: 00:02:48
+*** HISTORICO ***
+11:14:24-Entrada normal
+11:17:12-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCIA
+ENTRADA  : 25/09/1998-11:38:17
+TERMINO  : 25/09/1998-11:38:41
+USO TOTAL: 00:00:24
+*** HISTORICO ***
+11:38:17-Entrada normal
+11:38:41-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 25/09/1998-17:28:51
+TERMINO  : 25/09/1998-17:29:27
+USO TOTAL: 00:00:36
+*** HISTORICO ***
+17:28:51-Entrada normal
+17:29:27-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 29/09/1998-16:07:45
+TERMINO  : 29/09/1998-16:07:52
+USO TOTAL: 00:00:07
+*** HISTORICO ***
+16:07:45-Entrada normal
+16:07:52-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : FLAVIA
+ENTRADA  : 30/09/1998-11:46:51
+TERMINO  : 30/09/1998-11:49:03
+USO TOTAL: 00:02:12
+*** HISTORICO ***
+11:46:51-Entrada normal
+11:49:03-Saida normal 
+
+==================================================
+MAQUINA  : CREDIARIO2
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 08/10/1998-10:45:13
+TERMINO  : 08/10/1998-10:45:25
+USO TOTAL: 00:00:12
+*** HISTORICO ***
+10:45:13-Entrada normal
+10:45:25-Saida normal 
+
+==================================================
+MAQUINA  : BMC-02
+PROGRAMA : EPMJ.EXE
+VERSAO   : 20/08/1998
+USUARIO  : MARCOS
+ENTRADA  : 05/02/2009-10:36:45
+TERMINO  : 05/02/2009-10:37:12
+USO TOTAL: 00:00:27
+*** HISTORICO ***
+10:36:45-Entrada normal
+10:37:12-Saida normal 
+
+==================================================
+

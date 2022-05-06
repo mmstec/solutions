@@ -1,0 +1,215 @@
+
+ 
+     MIRO 2.2 - DOCUMENTA─▌O DO SISTEMA
+     дддддддддддддддддддддддддддддддддд
+ 
+     SISTEMA : CPDOC
+     TITULO  :  Sistema de Contas a Pagar                                                      
+ 
+ 
+     ARQUIVOS
+     мммммммм
+ 
+     AREA      : 1
+     ARQUIVO   : CPDOC.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     NUMERO       CARACTER        10          0
+     CEDENTE      CARACTER        30          0
+     VALOR        NUMERICO        10          2
+     VENCIMENTO   DATA             8          0
+     PAGAMENTO    DATA             8          0
+     HISTORICO    CARACTER        30          0
+ 
+     INDICE    : CPDOC001.NTX
+     EXPRESSAO : DTOS(PAGAMENTO)+DTOS(PAGAMENTO)+NUMERO+CEDENTE+STR(VALOR,10,2)
+     ORDEM     : 1
+ 
+     INDICE    : CPDOC002.NTX
+     EXPRESSAO : DTOS(VENCIMENTO)+DTOS(VENCIMENTO)+NUMERO+CEDENTE+STR(VALOR,10,2)
+     ORDEM     : 2
+ 
+     INDICE    : CPDOC003.NTX
+     EXPRESSAO : NUMERO
+     ORDEM     : 3
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 2
+     ARQUIVO   : CPCHK.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     NUMERO       CARACTER        10          0
+     CEDENTE      CARACTER        30          0
+     BANCO        CARACTER        15          0
+     CONTA        CARACTER        15          0
+     CIDADE       CARACTER        15          0
+     VALOR        NUMERICO        10          2
+     VENCIMENTO   DATA             8          0
+     PAGAMENTO    DATA             8          0
+     HISTORICO    CARACTER        30          0
+ 
+     INDICE    : CPCHK004.NTX
+     EXPRESSAO : DTOS(PAGAMENTO)+DTOS(PAGAMENTO)+NUMERO+CEDENTE+STR(VALOR,10,2)
+     ORDEM     : 1
+ 
+     INDICE    : CPCHK005.NTX
+     EXPRESSAO : DTOS(VENCIMENTO)+DTOS(VENCIMENTO)+NUMERO+CEDENTE+BANCO
+     ORDEM     : 2
+ 
+     INDICE    : CPCHK006.NTX
+     EXPRESSAO : NUMERO
+     ORDEM     : 3
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+ 
+     SISTEMA CPDOC - MODULOS (PRG)
+     ммммммммммммммммммммммммммммм
+ 
+     зддддддддддддддддбддддддддддддддддддддддддддддддд©
+     Ё     Modulo     Ё           Descricao           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOC.PRG      Ё Modulo principal              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCfun.PRG   Ё Modulo de funcoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCarq.PRG   Ё Rotina de criacao de arquivos Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCsos.PRG   Ё Rotinas de help               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCInc.PRG   Ё Menu de inclusoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё A.Contas a Pagar              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCI02.PRG   Ё 1.Duplicatas a pagar          Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCI03.PRG   Ё 2.Cheques a pagar             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё B.Contas Pagas                Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCI05.PRG   Ё 1.Duplicatas pagas            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCI06.PRG   Ё 2.Cheques pagos               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCCon.PRG   Ё Menu de consultas             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё A.Contas a pagar              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCC02.PRG   Ё 1.Duplicatas a pagar          Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCC03.PRG   Ё 2.Cheques a pagar             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё B.Contas pagas                Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCC05.PRG   Ё 1.Duplicatas pagas            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCC06.PRG   Ё 2.Cheques pagos               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCRel.PRG   Ё Menu de relatorios            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё A.Contas a pagar              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCR02.PRG   Ё 1.Duplicatas a pagar          Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCR03.PRG   Ё 2.Cheques a Pagar             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё B.Contas pagas                Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCR05.PRG   Ё 1.Duplicatas pagas            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CPDOCR06.PRG   Ё 2.Cheques pagos               Ё
+     юддддддддддддддддаддддддддддддддддддддддддддддддды
+ 
+ 
+ 
+     CONFIGURACAO DO SISTEMA
+     ммммммммммммммммммммммм
+ 
+   - Linguagem
+ 
+     здддбддддддддд©  здддбдддддддд©
+     Ё Ш Ё Clipper Ё  Ё   Ё Joiner Ё
+     юдддаддддддддды  юдддадддддддды
+ 
+ 
+   - Tratamento de arquivos
+ 
+     здддбддддддддддддд©  здддбдддддддддддддд©
+     Ё   Ё Monousuario Ё  Ё Ш Ё Multiusuario Ё
+     юдддаддддддддддддды  юдддадддддддддддддды
+ 
+ 
+   - Endentacao 
+ 
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё   Ё 00 Coluna  Ё   Ё   Ё 01 Coluna  Ё   Ё   Ё 02 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё Ш Ё 03 Coluna  Ё   Ё   Ё 04 Coluna  Ё   Ё   Ё 05 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+ 
+ 
+   - Visualizar blocos
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Comentarios
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Rotinas
+ 
+     здддбддддддддддддддддддддддддддддддд©
+     Ё Ш Ё Calendario                    Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Calculadora                   Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Senhas de acesso              Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Help                          Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Back-up                       Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Dos shell                     Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Atualizacao de data           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Criacao de arquivos           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Sombras                       Ё
+     юдддаддддддддддддддддддддддддддддддды
+ 
+ 
+   - Cores do sistema
+ 
+     здддддддддддддддддддддддбддддддддддбдддддддддддддддддддддддддддддддд©
+     Ё     Especificacao     Ё Setcolor Ё      Descricao das cores       Ё
+     цдддддддддддддддддддддддеддддддддддедддддддддддддддддддддддддддддддд╢
+     Ё  Fundo da tela        Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Menu                 Ё     N/W  Ё  Preto / Branco                Ё
+     Ё  Destaque do menu     Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Janela de dialogo    Ё   GR+/B  Ё  Amarelo / Azul                Ё
+     Ё  Box janela de dialogoЁ     R/W  Ё  Vermelho / Branco             Ё
+     Ё  Botoes               Ё    R+/R  Ё  Vermelho Brilhante / Vermelho Ё
+     Ё  Botao em destaque    Ё   GR+/R  Ё  Amarelo / Vermelho            Ё
+     Ё  Gets                 Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Get em destaque      Ё  GR+/BG  Ё  Amarelo / Cyan                Ё
+     Ё  Tela de apresenta┤└o Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Caracteres avulsos   Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Cercaduras           Ё     R/B  Ё  Vermelho / Azul               Ё
+     Ё  T║tulo               Ё   GR+/B  Ё  Amarelo / Azul                Ё
+     юдддддддддддддддддддддддаддддддддддадддддддддддддддддддддддддддддддды
+ 
+ 
+* Final CPDOC.DOC

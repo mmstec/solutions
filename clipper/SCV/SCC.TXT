@@ -1,0 +1,406 @@
+MAQUINA  : BALCAO1
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : MARCOS                                                   
+ENTRADA  : 05/08/1998-16:57:01
+TERMINO  : 05/08/1998-16:58:16
+USO TOTAL: 00:01:15
+*** HISTORICO ***
+16:57:01-Entrada normal
+16:57:11-Impressao do periodo 01/07/1998 ate 31/07/1998
+16:58:16-Saida normal 
+16:58:19-Renovado SCC.TXT por excesso de tamanho
+
+==================================================
+MAQUINA  : SUPERVISOR
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : MARCOS                                                   
+ENTRADA  : 05/08/1998-16:57:12
+TERMINO  : 05/08/1998-16:58:59
+USO TOTAL: 00:01:47
+*** HISTORICO ***
+16:57:12-Entrada normal
+16:58:12-Impressao do periodo 01/07/1998 ate 31/07/1998
+16:58:59-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 05/08/1998-17:44:48
+TERMINO  : 05/08/1998-18:08:41
+USO TOTAL: 00:23:53
+*** HISTORICO ***
+17:44:48-Entrada normal
+17:45:55-Impressao do periodo 01/07/1998 ate 31/07/1998
+18:08:41-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 07/08/1998-14:57:50
+TERMINO  : 07/08/1998-15:12:42
+USO TOTAL: 00:14:52
+*** HISTORICO ***
+14:57:50-Entrada normal
+14:58:28-Pesquisou registro 19980725=> Localizou: 19980725
+14:59:52-Edicao de VENDAS04
+15:06:01-Edicao de VENDAS04
+15:09:28-Edicao de 01/07/1998
+15:09:52-Impressao do periodo 01/07/1998 ate 31/07/1998
+15:11:03-Impressao do periodo 01/07/1998 ate 31/07/1998
+15:12:36-Pesquisou registro 19980725=> Localizou: 19980725
+15:12:42-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 28/08/1998-16:19:57
+TERMINO  : 28/08/1998-18:02:39
+USO TOTAL: 01:42:42
+*** HISTORICO ***
+16:19:57-Entrada normal
+16:20:26-Pesquisou registro 19980730=> Localizou: 19980730
+16:22:16-Lancamento de dados Data      01/08/1998
+16:22:16-Lancamento de dados LOURILDO      2455.70
+16:22:16-Lancamento de dados MARCIO         189.90
+16:22:16-Lancamento de dados MARCIA         281.90
+16:22:16-Lancamento de dados MIGUEL         417.60
+16:22:16-Lancamento de dados VALDIR           0.00
+16:22:16-Lancamento de dados ITACIANE       126.50
+16:28:02-Lancamento de dados Data      02/08/1998
+16:28:02-Lancamento de dados LOURILDO       706.60
+16:28:02-Lancamento de dados MARCIO         127.30
+16:28:02-Lancamento de dados MARCIA         576.80
+16:28:02-Lancamento de dados MIGUEL        1781.30
+16:28:02-Lancamento de dados VALDIR           0.00
+16:28:02-Lancamento de dados ITACIANE       775.35
+16:28:15-Pesquisou registro 19980802=> Localizou: 19980802
+16:28:20-Edicao de 02/08/1998
+16:29:30-Lancamento de dados Data      04/08/1998
+16:29:30-Lancamento de dados LOURILDO      4995.40
+16:29:30-Lancamento de dados MARCIO         708.50
+16:29:30-Lancamento de dados MARCIA         883.50
+16:29:30-Lancamento de dados MIGUEL        2055.55
+16:29:30-Lancamento de dados VALDIR           0.00
+16:29:30-Lancamento de dados ITACIANE       763.45
+16:31:34-Lancamento de dados Data      05/08/1998
+16:31:34-Lancamento de dados LOURILDO      1369.20
+16:31:34-Lancamento de dados MARCIO         660.30
+16:31:34-Lancamento de dados MARCIA         319.05
+16:31:34-Lancamento de dados MIGUEL        2399.60
+16:31:34-Lancamento de dados VALDIR           0.00
+16:31:34-Lancamento de dados ITACIANE       349.55
+16:32:30-Lancamento de dados Data      06/08/1998
+16:32:30-Lancamento de dados LOURILDO      2203.60
+16:32:30-Lancamento de dados MARCIO        2015.80
+16:32:30-Lancamento de dados MARCIA         514.80
+16:32:30-Lancamento de dados MIGUEL         329.35
+16:32:30-Lancamento de dados VALDIR           0.00
+16:32:30-Lancamento de dados ITACIANE       796.70
+16:33:19-Lancamento de dados Data      07/08/1998
+16:33:19-Lancamento de dados LOURILDO      2687.00
+16:33:19-Lancamento de dados MARCIO        1221.10
+16:33:19-Lancamento de dados MARCIA        1039.00
+16:33:19-Lancamento de dados MIGUEL         487.10
+16:33:19-Lancamento de dados VALDIR           0.00
+16:33:19-Lancamento de dados ITACIANE       411.90
+16:34:11-Lancamento de dados Data      08/08/1998
+16:34:11-Lancamento de dados LOURILDO       233.20
+16:34:11-Lancamento de dados MARCIO           8.00
+16:34:11-Lancamento de dados MARCIA         444.10
+16:34:11-Lancamento de dados MIGUEL         458.00
+16:34:11-Lancamento de dados VALDIR           0.00
+16:34:11-Lancamento de dados ITACIANE       158.40
+16:34:56-Lancamento de dados Data      10/08/1998
+16:34:56-Lancamento de dados LOURILDO      4595.50
+16:34:56-Lancamento de dados MARCIO        1391.20
+16:34:56-Lancamento de dados MARCIA         383.90
+16:34:56-Lancamento de dados MIGUEL        2434.90
+16:34:56-Lancamento de dados VALDIR           0.00
+16:34:56-Lancamento de dados ITACIANE      1914.00
+16:35:45-Lancamento de dados Data      11/08/1998
+16:35:45-Lancamento de dados LOURILDO       564.80
+16:35:45-Lancamento de dados MARCIO         664.00
+16:35:45-Lancamento de dados MARCIA         393.40
+16:35:45-Lancamento de dados MIGUEL        1288.15
+16:35:45-Lancamento de dados VALDIR           0.00
+16:35:45-Lancamento de dados ITACIANE       767.60
+16:37:03-Lancamento de dados Data      12/08/1998
+16:37:03-Lancamento de dados LOURILDO      3818.15
+16:37:03-Lancamento de dados MARCIO        1380.80
+16:37:03-Lancamento de dados MARCIA         903.60
+16:37:03-Lancamento de dados MIGUEL        3225.40
+16:37:03-Lancamento de dados VALDIR           0.00
+16:37:03-Lancamento de dados ITACIANE      1054.25
+16:43:04-Lancamento de dados Data      13/08/1998
+16:43:04-Lancamento de dados LOURILDO      4947.80
+16:43:04-Lancamento de dados MARCIO         877.20
+16:43:04-Lancamento de dados MARCIA        1228.15
+16:43:04-Lancamento de dados MIGUEL         962.20
+16:43:04-Lancamento de dados VALDIR           0.00
+16:43:04-Lancamento de dados ITACIANE       863.40
+16:43:57-Lancamento de dados Data      14/08/1998
+16:43:57-Lancamento de dados LOURILDO       914.10
+16:43:57-Lancamento de dados MARCIO         443.80
+16:43:57-Lancamento de dados MARCIA         467.10
+16:43:57-Lancamento de dados MIGUEL         877.40
+16:43:57-Lancamento de dados VALDIR           0.00
+16:43:57-Lancamento de dados ITACIANE       615.70
+16:51:11-Lancamento de dados Data      15/08/1998
+16:51:11-Lancamento de dados LOURILDO      2718.70
+16:51:11-Lancamento de dados MARCIO        4900.00
+16:51:11-Lancamento de dados MARCIA         648.40
+16:51:11-Lancamento de dados MIGUEL        1476.40
+16:51:11-Lancamento de dados VALDIR           0.00
+16:51:11-Lancamento de dados ITACIANE       682.20
+16:53:00-Lancamento de dados Data      17/08/1998
+16:53:00-Lancamento de dados LOURILDO      1375.10
+16:53:00-Lancamento de dados MARCIO         620.30
+16:53:00-Lancamento de dados MARCIA        1525.40
+16:53:00-Lancamento de dados MIGUEL        1875.60
+16:53:00-Lancamento de dados VALDIR           0.00
+16:53:00-Lancamento de dados ITACIANE       471.20
+16:54:51-Lancamento de dados Data      18/08/1998
+16:54:51-Lancamento de dados LOURILDO      2836.90
+16:54:51-Lancamento de dados MARCIO        2906.00
+16:54:51-Lancamento de dados MARCIA         725.60
+16:54:51-Lancamento de dados MIGUEL        1883.30
+16:54:51-Lancamento de dados VALDIR           0.00
+16:54:51-Lancamento de dados ITACIANE       460.90
+16:57:47-Lancamento de dados Data      19/08/1998
+16:57:47-Lancamento de dados LOURILDO      2246.40
+16:57:47-Lancamento de dados MARCIO         906.70
+16:57:47-Lancamento de dados MARCIA         379.40
+16:57:47-Lancamento de dados MIGUEL        2308.40
+16:57:47-Lancamento de dados VALDIR           0.00
+16:57:47-Lancamento de dados ITACIANE      1087.65
+17:02:52-Lancamento de dados Data      20/08/1998
+17:02:52-Lancamento de dados LOURILDO      4760.40
+17:02:52-Lancamento de dados MARCIO        3386.50
+17:02:52-Lancamento de dados MARCIA         476.25
+17:02:52-Lancamento de dados MIGUEL        1050.10
+17:02:52-Lancamento de dados VALDIR           0.00
+17:02:52-Lancamento de dados ITACIANE       434.50
+17:04:03-Lancamento de dados Data      21/08/1998
+17:04:03-Lancamento de dados LOURILDO      2530.70
+17:04:03-Lancamento de dados MARCIO        2806.10
+17:04:03-Lancamento de dados MARCIA         782.60
+17:04:03-Lancamento de dados MIGUEL         656.20
+17:04:03-Lancamento de dados VALDIR           0.00
+17:04:03-Lancamento de dados ITACIANE       653.10
+17:38:50-Lancamento de dados Data      22/08/1998
+17:38:50-Lancamento de dados LOURILDO      1536.20
+17:38:50-Lancamento de dados MARCIO         358.40
+17:38:50-Lancamento de dados MARCIA         802.60
+17:38:50-Lancamento de dados MIGUEL        1083.80
+17:38:51-Lancamento de dados VALDIR           0.00
+17:38:51-Lancamento de dados ITACIANE       421.20
+17:39:50-Lancamento de dados Data      24/08/1998
+17:39:50-Lancamento de dados LOURILDO       815.90
+17:39:50-Lancamento de dados MARCIO         914.10
+17:39:50-Lancamento de dados MARCIA        2543.80
+17:39:50-Lancamento de dados MIGUEL         818.30
+17:39:50-Lancamento de dados VALDIR           0.00
+17:39:50-Lancamento de dados ITACIANE       470.35
+17:54:20-Lancamento de dados Data      25/08/1998
+17:54:20-Lancamento de dados LOURILDO      5358.40
+17:54:20-Lancamento de dados MARCIO        2148.60
+17:54:20-Lancamento de dados MARCIA         518.40
+17:54:20-Lancamento de dados MIGUEL        1429.10
+17:54:21-Lancamento de dados VALDIR           0.00
+17:54:21-Lancamento de dados ITACIANE       607.10
+17:56:10-Lancamento de dados Data      26/08/1998
+17:56:10-Lancamento de dados LOURILDO       991.35
+17:56:10-Lancamento de dados MARCIO         396.40
+17:56:10-Lancamento de dados MARCIA         136.50
+17:56:10-Lancamento de dados MIGUEL        1701.60
+17:56:10-Lancamento de dados VALDIR           0.00
+17:56:10-Lancamento de dados ITACIANE       124.50
+17:56:53-Lancamento de dados Data      27/08/1998
+17:56:53-Lancamento de dados LOURILDO      3536.80
+17:56:53-Lancamento de dados MARCIO        1490.60
+17:56:53-Lancamento de dados MARCIA         686.20
+17:56:53-Lancamento de dados MIGUEL        1115.70
+17:56:53-Lancamento de dados VALDIR           0.00
+17:56:53-Lancamento de dados ITACIANE       295.20
+17:57:18-Visualizou ( teclou enter ) comissao do dia27/08/1998
+17:57:37-Visualizou ( teclou enter ) comissao do dia27/08/1998
+17:59:50-Visualizou ( teclou enter ) comissao do dia27/08/1998
+18:02:34-Edicao de VENDAS02
+18:02:39-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 28/08/1998-18:02:45
+TERMINO  : 28/08/1998-18:03:36
+USO TOTAL: 00:00:51
+*** HISTORICO ***
+18:02:45-Entrada normal
+18:03:11-Pesquisou registro 19980801=> Localizou: 19980801
+18:03:28-Pesquisou registro 19980801=> Localizou: 19980801
+18:03:30-Visualizou ( teclou enter ) comissao do dia01/08/1998
+18:03:36-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 29/08/1998-11:56:21
+TERMINO  : 29/08/1998-12:06:11
+USO TOTAL: 00:09:50
+*** HISTORICO ***
+11:56:21-Entrada normal
+12:02:01-Pesquisou registro 19980801=> Localizou: 19980801
+12:02:59-Lancamento de dados Data      28/08/1998
+12:02:59-Lancamento de dados LOURILDO      6935.00
+12:02:59-Lancamento de dados MARCIO         416.50
+12:02:59-Lancamento de dados MARCIA         339.15
+12:02:59-Lancamento de dados MIGUEL        1440.00
+12:02:59-Lancamento de dados VALDIR           0.00
+12:02:59-Lancamento de dados ITACIANE       703.00
+12:03:28-Edicao de VENDAS06
+12:03:59-Impressao do periodo 01/08/1998 ate 28/08/1998
+12:06:11-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 31/08/1998-10:48:54
+TERMINO  : 31/08/1998-11:05:01
+USO TOTAL: 00:16:07
+*** HISTORICO ***
+10:48:54-Entrada normal
+10:50:19-Pesquisou registro 19980828=> Localizou: 19980828
+10:50:48-Lancamento de dados Data      29/08/1998
+10:50:48-Lancamento de dados LOURILDO      6538.95
+10:50:48-Lancamento de dados MARCIO         153.60
+10:50:48-Lancamento de dados MARCIA         417.50
+10:50:48-Lancamento de dados MIGUEL         979.40
+10:50:48-Lancamento de dados VALDIR           0.00
+10:50:48-Lancamento de dados ITACIANE       405.90
+11:05:01-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 31/08/1998-16:03:51
+TERMINO  : 31/08/1998-16:07:14
+USO TOTAL: 00:03:23
+*** HISTORICO ***
+16:03:51-Entrada normal
+16:06:28-Pesquisou registro 19980829=> Localizou: 19980829
+16:06:58-Lancamento de dados Data      31/08/1998
+16:06:58-Lancamento de dados LOURILDO       633.15
+16:06:58-Lancamento de dados MARCIO         844.20
+16:06:58-Lancamento de dados MARCIA        1238.20
+16:06:58-Lancamento de dados MIGUEL         414.55
+16:06:58-Lancamento de dados VALDIR           0.00
+16:06:58-Lancamento de dados ITACIANE       346.50
+16:07:14-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 31/08/1998-16:07:22
+TERMINO  : 31/08/1998-16:10:24
+USO TOTAL: 00:03:02
+*** HISTORICO ***
+16:07:22-Entrada normal
+16:08:07-Impressao do periodo 01/08/1998 ate 31/08/1998
+16:09:10-Impressao do periodo 01/08/1998 ate 31/08/1998
+16:10:24-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 01/09/1998-17:32:41
+TERMINO  : 01/09/1998-17:36:59
+USO TOTAL: 00:04:18
+*** HISTORICO ***
+17:32:41-Entrada normal
+17:34:17-Pesquisou registro 19980831=> Localizou: 19980831
+17:35:03-Lancamento de dados Data      01/09/1998
+17:35:03-Lancamento de dados LOURILDO      3418.70
+17:35:03-Lancamento de dados MARCIO         137.60
+17:35:03-Lancamento de dados MARCIA         364.50
+17:35:03-Lancamento de dados MIGUEL        1392.65
+17:35:03-Lancamento de dados VALDIR           0.00
+17:35:03-Lancamento de dados ITACIANE       133.60
+17:36:59-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 02/09/1998-16:01:21
+TERMINO  : 02/09/1998-16:03:54
+USO TOTAL: 00:02:33
+*** HISTORICO ***
+16:01:21-Entrada normal
+16:02:52-Pesquisou registro 19980901=> Localizou: 19980901
+16:03:33-Lancamento de dados Data      02/09/1998
+16:03:33-Lancamento de dados LOURILDO      4874.30
+16:03:33-Lancamento de dados MARCIO         905.80
+16:03:33-Lancamento de dados MARCIA        1011.20
+16:03:33-Lancamento de dados MIGUEL         956.55
+16:03:33-Lancamento de dados VALDIR           0.00
+16:03:33-Lancamento de dados ITACIANE       339.75
+16:03:54-Saida normal 
+
+==================================================
+MAQUINA  : PESSOAL
+PROGRAMA : SCC.EXE
+VERSAO   : 05/08/1998
+USUARIO  : ROSEMERY                                                 
+ENTRADA  : 04/09/1998-15:27:37
+TERMINO  : 04/09/1998-15:34:05
+USO TOTAL: 00:06:28
+*** HISTORICO ***
+15:27:37-Entrada normal
+15:30:28-Pesquisou registro 19980901=> Localizou: 19980901
+15:31:02-Lancamento de dados Data      03/09/1998
+15:31:02-Lancamento de dados LOURILDO      4145.10
+15:31:02-Lancamento de dados MARCIO        1413.40
+15:31:02-Lancamento de dados MARCIA         667.40
+15:31:02-Lancamento de dados MIGUEL         277.20
+15:31:02-Lancamento de dados VALDIR           0.00
+15:31:02-Lancamento de dados ITACIANE       515.85
+15:32:17-Lancamento de dados Data      04/09/1998
+15:32:17-Lancamento de dados LOURILDO      5711.78
+15:32:17-Lancamento de dados MARCIO         223.90
+15:32:17-Lancamento de dados MARCIA         559.05
+15:32:17-Lancamento de dados MIGUEL         878.40
+15:32:17-Lancamento de dados VALDIR           0.00
+15:32:17-Lancamento de dados ITACIANE       950.00
+15:32:54-Visualizou ( teclou enter ) comissao do dia04/09/1998
+15:33:34-Lancamento de dados Data      05/09/1998
+15:33:34-Lancamento de dados LOURILDO      1771.90
+15:33:34-Lancamento de dados MARCIO        4804.30
+15:33:34-Lancamento de dados MARCIA         305.65
+15:33:34-Lancamento de dados MIGUEL         587.00
+15:33:34-Lancamento de dados VALDIR           0.00
+15:33:34-Lancamento de dados ITACIANE       137.40
+15:34:05-Saida normal 
+
+==================================================
+

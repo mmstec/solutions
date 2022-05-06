@@ -1,0 +1,149 @@
+
+ 
+     MIRO 2.2 - DOCUMENTA─▌O DO SISTEMA
+     дддддддддддддддддддддддддддддддддд
+ 
+     SISTEMA : DEVED
+     TITULO  : Controle de Inadiplencia                                                        
+ 
+ 
+     ARQUIVOS
+     мммммммм
+ 
+     AREA      : 1
+     ARQUIVO   : DEVEDOR.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     NOME         CARACTER        30          0
+     DOCUMENTO    CARACTER        10          0
+     QUANT_SCOS   NUMERICO         5          1
+     SELECAO      CARACTER         1          0
+ 
+     INDICE    : DEVED001.NTX
+     EXPRESSAO : DOCUMENTO
+     ORDEM     : 1
+ 
+     INDICE    : DEVED002.NTX
+     EXPRESSAO : SELECAO+NOME+DOCUMENTO+STR(QUANT_SCOS,5,1)
+     ORDEM     : 2
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+ 
+     SISTEMA DEVED - MODULOS (PRG)
+     ммммммммммммммммммммммммммммм
+ 
+     зддддддддддддддддбддддддддддддддддддддддддддддддд©
+     Ё     Modulo     Ё           Descricao           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVED.PRG      Ё Modulo principal              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVEDfun.PRG   Ё Modulo de funcoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVEDarq.PRG   Ё Rotina de criacao de arquivos Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVEDsos.PRG   Ё Rotinas de help               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVEDInc.PRG   Ё Menu de inclusoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVEDI01.PRG   Ё Inadiplentes                  Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVEDCon.PRG   Ё Menu de consultas             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVEDC01.PRG   Ё Inadiplente                   Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVEDRel.PRG   Ё Menu de relatorios            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё DEVEDR01.PRG   Ё Inadiplentes                  Ё
+     юддддддддддддддддаддддддддддддддддддддддддддддддды
+ 
+ 
+ 
+     CONFIGURACAO DO SISTEMA
+     ммммммммммммммммммммммм
+ 
+   - Linguagem
+ 
+     здддбддддддддд©  здддбдддддддд©
+     Ё Ш Ё Clipper Ё  Ё   Ё Joiner Ё
+     юдддаддддддддды  юдддадддддддды
+ 
+ 
+   - Tratamento de arquivos
+ 
+     здддбддддддддддддд©  здддбдддддддддддддд©
+     Ё   Ё Monousuario Ё  Ё Ш Ё Multiusuario Ё
+     юдддаддддддддддддды  юдддадддддддддддддды
+ 
+ 
+   - Endentacao 
+ 
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё   Ё 00 Coluna  Ё   Ё   Ё 01 Coluna  Ё   Ё   Ё 02 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё Ш Ё 03 Coluna  Ё   Ё   Ё 04 Coluna  Ё   Ё   Ё 05 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+ 
+ 
+   - Visualizar blocos
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Comentarios
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Rotinas
+ 
+     здддбддддддддддддддддддддддддддддддд©
+     Ё Ш Ё Calendario                    Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Calculadora                   Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Senhas de acesso              Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Help                          Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Back-up                       Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Dos shell                     Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Atualizacao de data           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Criacao de arquivos           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Sombras                       Ё
+     юдддаддддддддддддддддддддддддддддддды
+ 
+ 
+   - Cores do sistema
+ 
+     здддддддддддддддддддддддбддддддддддбдддддддддддддддддддддддддддддддд©
+     Ё     Especificacao     Ё Setcolor Ё      Descricao das cores       Ё
+     цдддддддддддддддддддддддеддддддддддедддддддддддддддддддддддддддддддд╢
+     Ё  Fundo da tela        Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Menu                 Ё     N/W  Ё  Preto / Branco                Ё
+     Ё  Destaque do menu     Ё    W+/R  Ё  Branco Brilhante / Vermelho   Ё
+     Ё  Janela de dialogo    Ё     W/B  Ё  Branco / Azul                 Ё
+     Ё  Box janela de dialogoЁ    N/BG  Ё  Preto / Cyan                  Ё
+     Ё  Botoes               Ё     N/W  Ё  Preto / Branco                Ё
+     Ё  Botao em destaque    Ё    W+/W  Ё  Branco Brilhante / Branco     Ё
+     Ё  Gets                 Ё     N/W  Ё  Preto / Branco                Ё
+     Ё  Get em destaque      Ё    W+/R  Ё  Branco Brilhante / Vermelho   Ё
+     Ё  Tela de apresenta┤└o Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Caracteres avulsos   Ё     W/B  Ё  Branco / Azul                 Ё
+     Ё  Cercaduras           Ё     W/B  Ё  Branco / Azul                 Ё
+     Ё  T║tulo               Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     юдддддддддддддддддддддддаддддддддддадддддддддддддддддддддддддддддддды
+ 
+ 
+* Final DEVED.DOC

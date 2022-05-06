@@ -1,0 +1,315 @@
+ESTACAO PESSOAL ATIVO POR 00:00:02
+DATA   : 06/04/1998
+INICIO : 16:21:37
+TERMINO: 16:21:39
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:00:09
+DATA   : 06/04/1998
+INICIO : 16:22:08
+TERMINO: 16:22:17
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:00:04
+DATA   : 06/04/1998
+INICIO : 16:22:38
+TERMINO: 16:22:42
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:00:02
+DATA   : 06/04/1998
+INICIO : 16:24:59
+TERMINO: 16:25:01
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:10:23
+DATA   : 11/04/1998
+INICIO : 13:09:32
+TERMINO: 13:19:55
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:03:11
+DATA   : 22/04/1998
+INICIO : 17:41:29
+TERMINO: 17:44:40
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:00:29
+DATA   : 22/04/1998
+INICIO : 17:44:57
+TERMINO: 17:45:26
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:01:19
+DATA   : 22/04/1998
+INICIO : 17:45:46
+TERMINO: 17:47:05
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:01:24
+DATA   : 22/04/1998
+INICIO : 17:47:15
+TERMINO: 17:48:39
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:00:29
+DATA   : 22/04/1998
+INICIO : 17:50:03
+TERMINO: 17:50:32
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:09:03
+DATA   : 22/04/1998
+INICIO : 18:06:23
+TERMINO: 18:15:26
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:03:00
+DATA   : 22/04/1998
+INICIO : 18:18:49
+TERMINO: 18:21:49
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:04:12
+DATA   : 22/04/1998
+INICIO : 18:23:18
+TERMINO: 18:27:30
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:05:30
+DATA   : 22/04/1998
+INICIO : 18:31:53
+TERMINO: 18:37:23
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:11
+DATA   : 23/04/1998
+INICIO : 07:42:42
+TERMINO: 07:42:53
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:57
+DATA   : 23/04/1998
+INICIO : 07:43:04
+TERMINO: 07:44:01
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:32
+DATA   : 23/04/1998
+INICIO : 07:46:53
+TERMINO: 07:47:25
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:01:17
+DATA   : 23/04/1998
+INICIO : 07:55:02
+TERMINO: 07:56:19
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:02:29
+DATA   : 23/04/1998
+INICIO : 08:06:26
+TERMINO: 08:08:55
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:01:42
+DATA   : 23/04/1998
+INICIO : 08:12:56
+TERMINO: 08:14:38
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:09
+DATA   : 23/04/1998
+INICIO : 08:15:30
+TERMINO: 08:15:39
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:10
+DATA   : 23/04/1998
+INICIO : 08:40:14
+TERMINO: 08:40:24
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:01
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 13:40:44
+TERMINO: 13:40:45
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:03:21
+USUARIO: ROSEMERY            
+DATA   : 27/04/1998
+INICIO : 15:29:32
+TERMINO: 15:32:53
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:01:30
+USUARIO: ROSEMERY            
+DATA   : 28/04/1998
+INICIO : 17:24:02
+TERMINO: 17:25:32
+==================================================
+ESTACAO CREDIARIO1 ATIVO POR 00:02:08
+USUARIO: MARCOS              
+DATA   : 02/05/1998
+INICIO : 12:58:01
+TERMINO: 13:00:09
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:05:08
+USUARIO: ROSEMERY            
+DATA   : 06/05/1998
+INICIO : 18:28:37
+TERMINO: 18:33:45
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:01:48
+USUARIO: ROSEMERY            
+DATA   : 07/05/1998
+INICIO : 18:41:15
+TERMINO: 18:43:03
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:00:27
+USUARIO: ROSEMERY            
+DATA   : 08/05/1998
+INICIO : 13:15:26
+TERMINO: 13:15:53
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:07:21
+USUARIO: ROSEMERY            
+DATA   : 09/06/1998
+INICIO : 18:53:27
+TERMINO: 19:00:48
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:26:20
+USUARIO: ROSEMERY            
+DATA   : 10/06/1998
+INICIO : 10:09:33
+TERMINO: 10:35:53
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:31:53
+USUARIO: ROSEMERY            
+DATA   : 10/06/1998
+INICIO : 16:23:03
+TERMINO: 16:54:56
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:03:06
+USUARIO: ROSEMERY            
+DATA   : 10/06/1998
+INICIO : 17:17:54
+TERMINO: 17:21:00
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:08:11
+USUARIO: ROSEMERY            
+DATA   : 09/06/1998
+INICIO : 16:53:29
+TERMINO: 17:01:40
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:02:10
+USUARIO: ROSEMERY            
+DATA   : 09/06/1998
+INICIO : 17:30:05
+TERMINO: 17:32:15
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:05:05
+USUARIO: ROSEMERY            
+DATA   : 09/06/1998
+INICIO : 17:33:04
+TERMINO: 17:38:09
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:25:12
+USUARIO: ROSEMERY            
+DATA   : 01/07/1998
+INICIO : 15:19:55
+TERMINO: 15:45:07
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:07:44
+USUARIO: ROSEMERY            
+DATA   : 01/07/1998
+INICIO : 16:22:31
+TERMINO: 16:30:15
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:01:09
+USUARIO: ROSEMERY            
+DATA   : 01/07/1998
+INICIO : 13:45:32
+TERMINO: 13:46:41
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:06:52
+USUARIO: ROSEMERY            
+DATA   : 09/07/1998
+INICIO : 11:21:07
+TERMINO: 11:27:59
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:02:25
+USUARIO: ROSEMERY            
+DATA   : 13/07/1998
+INICIO : 18:21:43
+TERMINO: 18:24:08
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:00:31
+USUARIO: ROSEMERY            
+DATA   : 14/07/1998
+INICIO : 18:13:52
+TERMINO: 18:14:23
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:03:40
+USUARIO: ROSEMERY            
+DATA   : 16/07/1998
+INICIO : 17:31:19
+TERMINO: 17:34:59
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:15:50
+USUARIO: ROSEMERY            
+DATA   : 16/07/1998
+INICIO : 17:44:51
+TERMINO: 18:00:41
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:15:56
+USUARIO: ROSEMERY            
+DATA   : 28/07/1998
+INICIO : 17:10:56
+TERMINO: 17:26:52
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:11:31
+USUARIO: ROSEMERY            
+DATA   : 07/08/1998
+INICIO : 15:12:50
+TERMINO: 15:24:21
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:56:35
+USUARIO: ROSEMERY            
+DATA   : 29/08/1998
+INICIO : 12:06:20
+TERMINO: 13:02:55
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:23:29
+USUARIO: ROSEMERY            
+DATA   : 31/08/1998
+INICIO : 11:05:09
+TERMINO: 11:28:38
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:03:18
+USUARIO: ROSEMERY            
+DATA   : 31/08/1998
+INICIO : 16:10:31
+TERMINO: 16:13:49
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:02:51
+USUARIO: ROSEMERY            
+DATA   : 31/08/1998
+INICIO : 16:34:57
+TERMINO: 16:37:48
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:04:45
+USUARIO: ROSEMERY            
+DATA   : 31/08/1998
+INICIO : 16:47:03
+TERMINO: 16:51:48
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:03:41
+USUARIO: ROSEMERY            
+DATA   : 01/09/1998
+INICIO : 17:37:06
+TERMINO: 17:40:47
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:00:43
+USUARIO: ROSEMERY            
+DATA   : 02/09/1998
+INICIO : 16:04:02
+TERMINO: 16:04:45
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:03:04
+USUARIO: ROSEMERY            
+DATA   : 04/09/1998
+INICIO : 15:34:15
+TERMINO: 15:37:19
+==================================================
+ESTACAO PESSOAL ATIVO POR 00:02:33
+USUARIO: ROSEMERY            
+DATA   : 04/09/1998
+INICIO : 15:40:56
+TERMINO: 15:43:29
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:40
+USUARIO: MARCOS              
+DATA   : 18/09/1998
+INICIO : 08:00:10
+TERMINO: 08:00:50
+==================================================
+

@@ -1,0 +1,22 @@
+MAQUINA  : SUPERVISOR
+PROGRAMA : FONE.EXE
+VERSAO   : 21/09/1998
+USUARIO  : MARCOS
+ENTRADA  : 21/09/1998-14:02:06-14:02:06
+TERMINO  : 21/09/1998-14:02:49
+USO TOTAL: 00:00:43
+*** HISTORICO ***
+14:02:06- Entrada normal
+14:02:14-Pesquisou registro 'MARCOS'.
+         Nao localizou!
+14:02:21-Pesquisou registro 'ANTONIO'.
+         Localizou 'ANTONIO CARECA 525-3263'
+14:02:23-Edita NOME
+14:02:37-Inclusao de registro MARCOS MORAIS DE SOUSA             
+14:02:42-Pesquisou registro 'MARCOS MORAIS'.
+         Localizou 'MARCOS MORAIS DE SOUSA 525-2344'
+14:02:44-Apagou registros MARCOS MORAIS DE SOUSA             
+14:02:49- Saida normal 
+
+==================================================
+

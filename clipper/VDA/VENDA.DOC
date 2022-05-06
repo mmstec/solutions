@@ -1,0 +1,240 @@
+
+ 
+     MIRO 2.2 - DOCUMENTA─▌O DO SISTEMA
+     дддддддддддддддддддддддддддддддддд
+ 
+     SISTEMA : VENDA
+     TITULO  :  MFB - Vendas Comissisionadas e Gerais                                          
+ 
+ 
+     ARQUIVOS
+     мммммммм
+ 
+     AREA      : 1
+     ARQUIVO   : GRUP1234.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     VENDAS01     NUMERICO        10          2
+     VENDAS02     NUMERICO        10          2
+     VENDAS03     NUMERICO        10          2
+     VENDAS04     NUMERICO        10          2
+     TAXA0001     NUMERICO         4          2
+     TAXA0002     NUMERICO         4          2
+     TAXA0003     NUMERICO         4          2
+     TAXA0004     NUMERICO         4          2
+     DATA         DATA             8          0
+ 
+     INDICE    : GRUP1001.NTX
+     EXPRESSAO : DTOS(DATA)+DTOS(DATA)+MES_ANO(DATA)+STR(VENDAS01,10,2)+STR(VENDAS02,10,2)
+     ORDEM     : 1
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 2
+     ARQUIVO   : GRUP5678.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     VENDAS05     NUMERICO        10          2
+     VENDAS06     NUMERICO        10          2
+     VENDAS07     NUMERICO        10          2
+     VENDAS08     NUMERICO        10          2
+     TAXA0005     NUMERICO         4          2
+     TAXA0006     NUMERICO         4          2
+     TAXA0007     NUMERICO         4          2
+     TAXA0008     NUMERICO         4          2
+     DATA         DATA             8          0
+ 
+     INDICE    : GRUP5002.NTX
+     EXPRESSAO : DTOS(DATA)+DTOS(DATA)+MES_ANO(DATA)+STR(VENDAS05,10,2)+STR(VENDAS06,10,2)
+     ORDEM     : 1
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 3
+     ARQUIVO   : VENDASCM.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     DATA______   DATA             8          0
+     FIADO_____   NUMERICO        10          2
+     QDE_SCOS_F   NUMERICO        10          2
+     AVISTA____   NUMERICO        10          2
+     QDE_SCOS_V   NUMERICO        10          2
+     RECEBIDO__   NUMERICO        10          2
+     QDE_SCOS_R   NUMERICO        10          2
+     OBS_______   CARACTER        30          0
+ 
+     INDICE    : VENDA003.NTX
+     EXPRESSAO : DTOS(DATA______)+DTOS(DATA______)+MES_ANO(DATA______)+STR(FIADO_____,10,2)+STR(AVISTA____,10,2)
+     ORDEM     : 1
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 4
+     ARQUIVO   : VENDASLJ.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     FIADO        NUMERICO        10          2
+     AVISTA       NUMERICO        10          2
+     RECEBIMENO   NUMERICO        10          2
+     DATA         DATA             8          0
+ 
+     INDICE    : VENDA004.NTX
+     EXPRESSAO : DTOS(DATA)+DTOS(DATA)+MES_ANO(DATA)+STR(FIADO,10,2)+STR(AVISTA,10,2)
+     ORDEM     : 1
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+ 
+     SISTEMA VENDA - MODULOS (PRG)
+     ммммммммммммммммммммммммммммм
+ 
+     зддддддддддддддддбддддддддддддддддддддддддддддддд©
+     Ё     Modulo     Ё           Descricao           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDA.PRG      Ё Modulo principal              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAfun.PRG   Ё Modulo de funcoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAarq.PRG   Ё Rotina de criacao de arquivos Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAsos.PRG   Ё Rotinas de help               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAInc.PRG   Ё Menu de inclusoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 1.VENDA COMISSIONADA          Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAI02.PRG   Ё * Grupo A < 01,02,03,04 >     Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAI03.PRG   Ё * Grupo B < 05,06,07,08 >     Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 2.VENDA GERAL                 Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAI05.PRG   Ё * Venda pela LOJA             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAI06.PRG   Ё * Venda pelo CIMENTO          Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDACon.PRG   Ё Menu de consultas             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 1.VENDA COMISSIONADA          Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAC02.PRG   Ё * Grupo A < 01,02,03,04 >     Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAC03.PRG   Ё * Grupo B < 05,06,07,08 >     Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 2.VENDA GERAL                 Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAC05.PRG   Ё * Venda pela LOJA             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAC06.PRG   Ё * Venda pelo CIMENTO          Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDARel.PRG   Ё Menu de relatorios            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 1. VENDA COMISSIONADA         Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAR02.PRG   Ё * Comissao do grupo  A        Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAR03.PRG   Ё * Comissao do grupo  B        Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 2. VENDA GERAL                Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAR05.PRG   Ё * Venda pela  LOJA            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё VENDAR06.PRG   Ё * Venda pelo  CIMENTO         Ё
+     юддддддддддддддддаддддддддддддддддддддддддддддддды
+ 
+ 
+ 
+     CONFIGURACAO DO SISTEMA
+     ммммммммммммммммммммммм
+ 
+   - Linguagem
+ 
+     здддбддддддддд©  здддбдддддддд©
+     Ё Ш Ё Clipper Ё  Ё   Ё Joiner Ё
+     юдддаддддддддды  юдддадддддддды
+ 
+ 
+   - Tratamento de arquivos
+ 
+     здддбддддддддддддд©  здддбдддддддддддддд©
+     Ё   Ё Monousuario Ё  Ё Ш Ё Multiusuario Ё
+     юдддаддддддддддддды  юдддадддддддддддддды
+ 
+ 
+   - Endentacao 
+ 
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё   Ё 00 Coluna  Ё   Ё   Ё 01 Coluna  Ё   Ё   Ё 02 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё Ш Ё 03 Coluna  Ё   Ё   Ё 04 Coluna  Ё   Ё   Ё 05 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+ 
+ 
+   - Visualizar blocos
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Comentarios
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Rotinas
+ 
+     здддбддддддддддддддддддддддддддддддд©
+     Ё Ш Ё Calendario                    Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Calculadora                   Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Senhas de acesso              Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Help                          Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Back-up                       Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Dos shell                     Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Atualizacao de data           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Criacao de arquivos           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Sombras                       Ё
+     юдддаддддддддддддддддддддддддддддддды
+ 
+ 
+   - Cores do sistema
+ 
+     здддддддддддддддддддддддбддддддддддбдддддддддддддддддддддддддддддддд©
+     Ё     Especificacao     Ё Setcolor Ё      Descricao das cores       Ё
+     цдддддддддддддддддддддддеддддддддддедддддддддддддддддддддддддддддддд╢
+     Ё  Fundo da tela        Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Menu                 Ё     G/N  Ё  Verde / Preto                 Ё
+     Ё  Destaque do menu     Ё    W+/R  Ё  Branco Brilhante / Vermelho   Ё
+     Ё  Janela de dialogo    Ё     B/W  Ё  Azul / Branco                 Ё
+     Ё  Box janela de dialogoЁ    W+/B  Ё  Branco Brilhante / Azul       Ё
+     Ё  Botoes               Ё     W/R  Ё  Branco / Vermelho             Ё
+     Ё  Botao em destaque    Ё    W+/R  Ё  Branco Brilhante / Vermelho   Ё
+     Ё  Gets                 Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Get em destaque      Ё   GR+/G  Ё  Amarelo / Verde               Ё
+     Ё  Tela de apresenta┤└o Ё    G+/N  Ё  Verde Brilhante / Preto       Ё
+     Ё  Caracteres avulsos   Ё     R/W  Ё  Vermelho / Branco             Ё
+     Ё  Cercaduras           Ё    GR/W  Ё  Marron / Branco               Ё
+     Ё  T║tulo               Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     юдддддддддддддддддддддддаддддддддддадддддддддддддддддддддддддддддддды
+ 
+ 
+* Final VENDA.DOC

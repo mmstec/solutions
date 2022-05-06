@@ -1,0 +1,240 @@
+
+ 
+     MIRO 2.2 - DOCUMENTA─▌O DO SISTEMA
+     дддддддддддддддддддддддддддддддддд
+ 
+     SISTEMA : CHQ
+     TITULO  : Recep┤└o/Emiss└o de cheques                                                     
+ 
+ 
+     ARQUIVOS
+     мммммммм
+ 
+     AREA      : 1
+     ARQUIVO   : CHQEMT.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     NOMEDOBANK   CARACTER        30          0
+     NUMEROAGEN   CARACTER        10          0
+     NUMEROCONT   CARACTER        20          0
+     NUMERO_CHQ   CARACTER        20          0
+     VALORDOCHQ   NUMERICO        10          2
+     DATAPPAGAR   DATA             8          0
+     FINALIDADE   CARACTER        30          0
+ 
+     INDICE    : CHQEM001.NTX
+     EXPRESSAO : DTOS(DATAPPAGAR)+DTOS(DATAPPAGAR)+NUMEROAGEN+NUMEROCONT+NUMERO_CHQ
+     ORDEM     : 1
+ 
+     INDICE    : CHQEM002.NTX
+     EXPRESSAO : NOMEDOBANK
+     ORDEM     : 2
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 2
+     ARQUIVO   : CHQRCB.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     NUMEROAGEN   CARACTER        10          0
+     NOMEDOBANK   CARACTER        30          0
+     NUMEROCONT   CARACTER        20          0
+     NUMERO_CHQ   CARACTER        20          0
+     CPFCGC_CLI   CARACTER        14          0
+     NOMEDO_CLI   CARACTER        40          0
+     VALORDOCHQ   NUMERICO        10          2
+     DATAPSAQUE   DATA             8          0
+     FINALIDADE   CARACTER        40          0
+ 
+     INDICE    : CHQRC003.NTX
+     EXPRESSAO : DTOS(DATAPSAQUE)+DTOS(DATAPSAQUE)+CPFCGC_CLI
+     ORDEM     : 1
+ 
+     INDICE    : CHQRC004.NTX
+     EXPRESSAO : NUMEROAGEN+NUMERO_CHQ+CPFCGC_CLI
+     ORDEM     : 2
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 3
+     ARQUIVO   : BANCOS.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     NUMEROAGEN   CARACTER        10          0
+     NOMEDOBANK   CARACTER        30          0
+ 
+     INDICE    : BANCO005.NTX
+     EXPRESSAO : NOMEDOBANK+NUMEROAGEN
+     ORDEM     : 1
+ 
+     INDICE    : BANCO006.NTX
+     EXPRESSAO : NUMEROAGEN
+     ORDEM     : 2
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 4
+     ARQUIVO   : CONTAS.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     NUMEROAGEN   CARACTER        10          0
+     NOMEDOBANK   CARACTER        30          0
+     NUMEROCONT   CARACTER        20          0
+     ESPECIFICA   CARACTER        20          0
+ 
+     INDICE    : CONTA007.NTX
+     EXPRESSAO : NOMEDOBANK+NUMEROAGEN+NUMEROCONT+ESPECIFICA
+     ORDEM     : 1
+ 
+     INDICE    : CONTA008.NTX
+     EXPRESSAO : NUMEROAGEN+NUMEROCONT
+     ORDEM     : 2
+ 
+     INDICE    : CONTA009.NTX
+     EXPRESSAO : NUMEROCONT
+     ORDEM     : 3
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+ 
+     SISTEMA CHQ - MODULOS (PRG)
+     ммммммммммммммммммммммммммм
+ 
+     зддддддддддддддддбддддддддддддддддддддддддддддддд©
+     Ё     Modulo     Ё           Descricao           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQ.PRG        Ё Modulo principal              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQfun.PRG     Ё Modulo de funcoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQarq.PRG     Ё Rotina de criacao de arquivos Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQsos.PRG     Ё Rotinas de help               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQInc.PRG     Ё Menu de inclusoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQI01.PRG     Ё Bancos                        Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQI02.PRG     Ё Contas-Correntes              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQI03.PRG     Ё Emiss└o  de CHQ's             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQI04.PRG     Ё Recep┤└o de CHQ's             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQCon.PRG     Ё Menu de consultas             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQC01.PRG     Ё Bancos disponiveis            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQC02.PRG     Ё Contas-correntes              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQC03.PRG     Ё Cheques emitidos              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQC04.PRG     Ё Cheques recebidos             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQRel.PRG     Ё Menu de relatorios            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQR01.PRG     Ё Bancos disponiveis            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQR02.PRG     Ё Contas Correntes              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQR03.PRG     Ё Cheques emitidos              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё CHQR04.PRG     Ё Cheques recebidos             Ё
+     юддддддддддддддддаддддддддддддддддддддддддддддддды
+ 
+ 
+ 
+     CONFIGURACAO DO SISTEMA
+     ммммммммммммммммммммммм
+ 
+   - Linguagem
+ 
+     здддбддддддддд©  здддбдддддддд©
+     Ё Ш Ё Clipper Ё  Ё   Ё Joiner Ё
+     юдддаддддддддды  юдддадддддддды
+ 
+ 
+   - Tratamento de arquivos
+ 
+     здддбддддддддддддд©  здддбдддддддддддддд©
+     Ё   Ё Monousuario Ё  Ё Ш Ё Multiusuario Ё
+     юдддаддддддддддддды  юдддадддддддддддддды
+ 
+ 
+   - Endentacao 
+ 
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё   Ё 00 Coluna  Ё   Ё   Ё 01 Coluna  Ё   Ё   Ё 02 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё Ш Ё 03 Coluna  Ё   Ё   Ё 04 Coluna  Ё   Ё   Ё 05 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+ 
+ 
+   - Visualizar blocos
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Comentarios
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Rotinas
+ 
+     здддбддддддддддддддддддддддддддддддд©
+     Ё Ш Ё Calendario                    Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Calculadora                   Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Senhas de acesso              Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Help                          Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Back-up                       Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Dos shell                     Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Atualizacao de data           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Criacao de arquivos           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Sombras                       Ё
+     юдддаддддддддддддддддддддддддддддддды
+ 
+ 
+   - Cores do sistema
+ 
+     здддддддддддддддддддддддбддддддддддбдддддддддддддддддддддддддддддддд©
+     Ё     Especificacao     Ё Setcolor Ё      Descricao das cores       Ё
+     цдддддддддддддддддддддддеддддддддддедддддддддддддддддддддддддддддддд╢
+     Ё  Fundo da tela        Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Menu                 Ё     G/N  Ё  Verde / Preto                 Ё
+     Ё  Destaque do menu     Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Janela de dialogo    Ё     R/W  Ё  Vermelho / Branco             Ё
+     Ё  Box janela de dialogoЁ    R+/B  Ё  Vermelho Brilhante / Azul     Ё
+     Ё  Botoes               Ё     W/R  Ё  Branco / Vermelho             Ё
+     Ё  Botao em destaque    Ё   GR+/R  Ё  Amarelo / Vermelho            Ё
+     Ё  Gets                 Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Get em destaque      Ё   GR+/G  Ё  Amarelo / Verde               Ё
+     Ё  Tela de apresenta┤└o Ё    G+/N  Ё  Verde Brilhante / Preto       Ё
+     Ё  Caracteres avulsos   Ё    B+/W  Ё  Azul Brilhante / Branco       Ё
+     Ё  Cercaduras           Ё     R/W  Ё  Vermelho / Branco             Ё
+     Ё  T║tulo               Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     юдддддддддддддддддддддддаддддддддддадддддддддддддддддддддддддддддддды
+ 
+ 
+* Final CHQ.DOC

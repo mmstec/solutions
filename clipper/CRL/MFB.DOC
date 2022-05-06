@@ -1,0 +1,367 @@
+
+ 
+     MIRO 2.2 - DOCUMENTA─▌O DO SISTEMA
+     дддддддддддддддддддддддддддддддддд
+ 
+     SISTEMA : MFB
+     TITULO  : *** Barreto Constru┤└o ***                                                      
+ 
+ 
+     ARQUIVOS
+     мммммммм
+ 
+     AREA      : 1
+     ARQUIVO   : AVISTACM.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     DATA         DATA             8          0
+     NOMECLIENT   CARACTER        30          0
+     NATADUPLIC   CARACTER        13          0
+     QUANTSACOS   NUMERICO        10          2
+     VALORUNITA   NUMERICO        10          2
+     VALORVENDA   NUMERICO        10          2
+     VENDEDOR     CARACTER         1          0
+     OBSERVACAO   CARACTER        30          0
+ 
+     INDICE    : AVIST001.NTX
+     EXPRESSAO : NATADUPLIC
+     ORDEM     : 1
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 2
+     ARQUIVO   : AVISTALJ.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     DATA         DATA             8          0
+     FORMAVENDA   CARACTER         1          0
+     NOMECLIENT   CARACTER        30          0
+     NATADUPLIC   CARACTER        13          0
+     VALORVENDA   NUMERICO        10          2
+     VENDEDOR     CARACTER         1          0
+     OBSNUMERO    CARACTER        13          0
+     OBSERVACAO   CARACTER        30          0
+ 
+     INDICE    : AVIST002.NTX
+     EXPRESSAO : DTOS(DATA)
+     ORDEM     : 1
+ 
+     INDICE    : AVIST003.NTX
+     EXPRESSAO : FORMAVENDA+OBSNUMERO
+     ORDEM     : 2
+ 
+     INDICE    : AVIST004.NTX
+     EXPRESSAO : NATADUPLIC
+     ORDEM     : 3
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 3
+     ARQUIVO   : APRAZOCM.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     DATAVENDA    DATA             8          0
+     DATAVENCI    DATA             8          0
+     DATAPAGAM    DATA             8          0
+     REFERENCIA   CARACTER        14          0
+     NOMECLIENT   CARACTER        30          0
+     NATADUPLIC   CARACTER        13          0
+     QUANTSACOS   NUMERICO        10          2
+     VALORUNITA   NUMERICO        10          2
+     VALORVENDA   NUMERICO        10          2
+     VENDEDOR     CARACTER         1          0
+     OBSERVACAO   CARACTER        30          0
+     DIGITADOR    CARACTER        20          0
+ 
+     INDICE    : APRAZ005.NTX
+     EXPRESSAO : NATADUPLIC
+     ORDEM     : 1
+ 
+     INDICE    : APRAZ006.NTX
+     EXPRESSAO : REFERENCIA+NOMECLIENT+DTOS(DATAVENDA)+DTOS(DATAVENCI)+DTOS(DATAPAGAM)
+     ORDEM     : 2
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 4
+     ARQUIVO   : APRAZOLJ.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     DATAVENDA    DATA             8          0
+     DATAVENCI    DATA             8          0
+     DATAPAGAM    DATA             8          0
+     REFERENCIA   CARACTER        14          0
+     NOMECLIENT   CARACTER        30          0
+     NATADUPLIC   CARACTER        13          0
+     VALORVENDA   NUMERICO        10          2
+     VENDEDOR     CARACTER         1          0
+     OBSERVACAO   CARACTER        30          0
+     DIGITADOR    CARACTER        20          0
+ 
+     INDICE    : APRAZ007.NTX
+     EXPRESSAO : NATADUPLIC
+     ORDEM     : 1
+ 
+     INDICE    : APRAZ008.NTX
+     EXPRESSAO : REFERENCIA+NOMECLIENT+DTOS(DATAVENDA)+DTOS(DATAVENCI)+DTOS(DATAPAGAM)
+     ORDEM     : 2
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 5
+     ARQUIVO   : UNITARIO.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     RS_FIXO      NUMERICO        10          2
+     DATA         DATA             8          0
+ 
+     INDICE    : UNITA009.NTX
+     EXPRESSAO : STR(RS_FIXO,10,2)
+     ORDEM     : 1
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 6
+     ARQUIVO   : FICHACLI.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     CODICPFCGC   CARACTER        14          0
+     ________RG   CARACTER        14          0
+     INSCRICAOE   CARACTER        14          0
+     NOMECPFCGC   CARACTER        30          0
+     NOMEFANTAS   CARACTER        30          0
+     ENDERECO     CARACTER        30          0
+     BAIRRO       CARACTER        30          0
+     CIDADE       CARACTER        18          0
+     CEP          CARACTER        10          0
+     ESTADO       CARACTER         2          0
+     TELEFONE01   CARACTER        13          0
+     TELEFONE02   CARACTER        13          0
+     TELEFONE03   CARACTER        13          0
+     AVAL_NOME    CARACTER        30          0
+     AVAL_CPF     CARACTER        14          0
+     REFCOM_001   CARACTER        30          0
+     REFCOM_002   CARACTER        30          0
+     REFCOM_003   CARACTER        30          0
+     REFCOMFON1   CARACTER        13          0
+     REFCOMFON2   CARACTER        13          0
+     REFCOMFON3   CARACTER        13          0
+     OBSERVACAO   MEMO            10          0
+     QUALIFICAC   CARACTER         1          0
+     DATAINCLUS   DATA             8          0
+     DIGITADOR    CARACTER        20          0
+ 
+     INDICE    : FICHA010.NTX
+     EXPRESSAO : CODICPFCGC
+     ORDEM     : 1
+ 
+     INDICE    : FICHA011.NTX
+     EXPRESSAO : NOMECPFCGC
+     ORDEM     : 2
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+ 
+     SISTEMA MFB - MODULOS (PRG)
+     ммммммммммммммммммммммммммм
+ 
+     зддддддддддддддддбддддддддддддддддддддддддддддддд©
+     Ё     Modulo     Ё           Descricao           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFB.PRG        Ё Modulo principal              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBfun.PRG     Ё Modulo de funcoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBarq.PRG     Ё Rotina de criacao de arquivos Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBsos.PRG     Ё Rotinas de help               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBInc.PRG     Ё Menu de inclusoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 1.Cadastro de Clientes        Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI02.PRG     Ё Pessoa Fisica                 Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI03.PRG     Ё Pessoa Juridica               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 2.Vendas                      Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI05.PRG     Ё Vendas da loja a vista        Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI06.PRG     Ё Vendas de cimento a vista     Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI07.PRG     Ё Vendas da Loja a prazo        Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI08.PRG     Ё Vendas de cimento a prazo     Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё      -=-       Ё .                       .     Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё      -=-       Ё .                       .     Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 3.Recebimento                 Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI12.PRG     Ё Loja.                         Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI13.PRG     Ё Cimento.                      Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBCon.PRG     Ё Menu de consultas             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 1.Ficha de Clientes           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC02.PRG     Ё Pessoa Fisica por NOME        Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC03.PRG     Ё Pessoa Fisica por C.P.F.      Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC04.PRG     Ё Pessoa Juridica por NOME      Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC05.PRG     Ё Pessoa Juridica por C.G.C.    Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё      -=-       Ё .                             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё      -=-       Ё .                             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 2.Vendas a vista              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC09.PRG     Ё Venda/vista loja DOCUMENTO    Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC10.PRG     Ё Venda/vista loja CHEQ/CARTAO  Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC11.PRG     Ё Venda/vista Cimento           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё      -=-       Ё .                             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 3.Vendas a prazo              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC14.PRG     Ё Venda/prazo Loja              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC15.PRG     Ё Venda/prazo Cimento           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBRel.PRG     Ё Menu de relatorios            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 1.Relacao de Clientes         Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR02.PRG     Ё Todos os Clientes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё      -=-       Ё .                             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё      -=-       Ё .                             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 2.Relatorio de V/vista        Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR06.PRG     Ё V vista loja                  Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR07.PRG     Ё V vista cimento               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 3.Relatorio de V/prazo        Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR09.PRG     Ё V prazo loja                  Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR10.PRG     Ё V prazo cimento               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё 4.Movimentacao de capital     Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR12.PRG     Ё Por cliente Loja              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR13.PRG     Ё Por cliente Cimento           Ё
+     юддддддддддддддддаддддддддддддддддддддддддддддддды
+ 
+ 
+ 
+     CONFIGURACAO DO SISTEMA
+     ммммммммммммммммммммммм
+ 
+   - Linguagem
+ 
+     здддбддддддддд©  здддбдддддддд©
+     Ё Ш Ё Clipper Ё  Ё   Ё Joiner Ё
+     юдддаддддддддды  юдддадддддддды
+ 
+ 
+   - Tratamento de arquivos
+ 
+     здддбддддддддддддд©  здддбдддддддддддддд©
+     Ё   Ё Monousuario Ё  Ё Ш Ё Multiusuario Ё
+     юдддаддддддддддддды  юдддадддддддддддддды
+ 
+ 
+   - Endentacao 
+ 
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё   Ё 00 Coluna  Ё   Ё   Ё 01 Coluna  Ё   Ё   Ё 02 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё   Ё 03 Coluna  Ё   Ё   Ё 04 Coluna  Ё   Ё Ш Ё 05 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+ 
+ 
+   - Visualizar blocos
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Comentarios
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Rotinas
+ 
+     здддбддддддддддддддддддддддддддддддд©
+     Ё Ш Ё Calendario                    Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Calculadora                   Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Senhas de acesso              Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Help                          Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Back-up                       Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Dos shell                     Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Atualizacao de data           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Criacao de arquivos           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Sombras                       Ё
+     юдддаддддддддддддддддддддддддддддддды
+ 
+ 
+   - Cores do sistema
+ 
+     здддддддддддддддддддддддбддддддддддбдддддддддддддддддддддддддддддддд©
+     Ё     Especificacao     Ё Setcolor Ё      Descricao das cores       Ё
+     цдддддддддддддддддддддддеддддддддддедддддддддддддддддддддддддддддддд╢
+     Ё  Fundo da tela        Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Menu                 Ё    N/BG  Ё  Preto / Cyan                  Ё
+     Ё  Destaque do menu     Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Janela de dialogo    Ё    B+/W  Ё  Azul Brilhante / Branco       Ё
+     Ё  Box janela de dialogoЁ   GR+/B  Ё  Amarelo / Azul                Ё
+     Ё  Botoes               Ё     W/R  Ё  Branco / Vermelho             Ё
+     Ё  Botao em destaque    Ё    W+/R  Ё  Branco Brilhante / Vermelho   Ё
+     Ё  Gets                 Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Get em destaque      Ё    G+/N  Ё  Verde Brilhante / Preto       Ё
+     Ё  Tela de apresenta┤└o Ё    G+/N  Ё  Verde Brilhante / Preto       Ё
+     Ё  Caracteres avulsos   Ё    B+/W  Ё  Azul Brilhante / Branco       Ё
+     Ё  Cercaduras           Ё    R+/W  Ё  Vermelho Brilhante / Branco   Ё
+     Ё  T║tulo               Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     юдддддддддддддддддддддддаддддддддддадддддддддддддддддддддддддддддддды
+ 
+ 
+* Final MFB.DOC

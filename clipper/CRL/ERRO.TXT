@@ -1,0 +1,7 @@
+ARJ 2.30 Copyright (c) 1990-92 Robert K Jung. Jan 19 1992
+NOT REGISTERED for business, commercial, or government use.
+
+Updating archive  : MFB.PRG
+MFB.PRG is not an ARJ archive
+OK to process next volume/diskette (1)? [YNAQ] Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? Yes, No, Always, or Quit? 
+Break signaled!

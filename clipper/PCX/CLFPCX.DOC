@@ -1,0 +1,91 @@
+
+                                 Software from:
+
+                       ÞÛÞÛÞÛÞÛ Û  ÕÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¸ 
+                       ÞÛÞÛÞÛ Û Þ  ³     Clipper     ³Û
+                       ÞÛÞÛ Û Þ ³  ³    Developers   ³Û
+                       ÞÛ Û Þ ³ ³  ³      Group      ³Û
+                        Û Þ ³ ³ ³  ³   Netherlands   ³Û
+                        Þ ³ ³ ³ ³  ÔÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¾Û
+                                     ßßßßßßßßßßßßßßßßßß
+
+                ® Clipper "Fast" EGA/VGA PCX Display Library ¯
+                           For Clipper Summer '87 &
+                                Clipper 5.0x
+
+
+This is the documentation for two libraries: CLFPCX87.LIB and CLFPCX50.LIB.
+The first for Clipper Summer '87, the latter for Clipper 5.0x (5.0 and 5.01).
+
+These libraries provides a function that display's some PCX files, in an
+efficient, fast and easy manner. The memory overhead by CLFPCX is very
+little, as the core has been programmed directly in Assembly, and there
+are also very few options for extra displays etc... CLFPCX is ideal
+for your application just to display the Logo of your Company/Organisation. 
+I suggest to use other complete libraries for more elaborate graph functions.
+
+The display of the PCX is quite fast, as the decoding and writing of the
+actual picture is completely handled by Assembly routines.
+
+For each library, the source code to the FastPCX() function has been supplied,
+would you want to add some more robust error checking, or display more
+pictures in a row, or whatever..
+
+Syntax:		FastPCX(cFileName) --> nCode
+
+cFileName	Name of PCX file, complete (you must include .PCX!).
+
+nCode:		Meaning:
+----------------------------------------------------------
+0		PCX displayed OK, still in graphmode.
+		Do whatever you want, (inkey()?), and return to
+		normal mode with the txtMode() function, also in CLFPCX??.LIB.
+1		file not Found. You must include .PCX!
+2		Not a PCX file!
+3		Not a proper Format. The PCX file has an unknown Format.
+
+Currently, The CLFPCX?? libraries support only these formats:
+
+Adaptor:	Video Mode:	Resolution (WxHxColors):
+--------------------------------------------------------
+VGA 		13h 		320x200x256
+VGA		12h		640x480x16
+EGA/VGA		10h		640x350x16
+
+As those are the ones generally used to make acceptable pictures, it is
+probably enough.
+
+FastPCX() does not do much checking, and also only allows relatively Small
+PCX files to be displayed (<64Kb), This because it reads the whole
+picture at once. You may want to add code to check for the PCX file's size,
+you could also check if there is enough memory to load the File..?
+But, assuming it is used to display the logo, There probably is enough
+memory.
+
+Files:		Comment:
+--------------------------------------------------------
+CLFPCX87.LIB	The library for Clipper Summer '87
+CLFPCX50.LIB	The library for Clipper 5.0 or 5.01
+CLFPCX87.PRG	Clipper '87 code to FastPCX(), also in .LIB
+CLFPCX87.PRG	Clipper 5.0[1] code to FastPCX(), also in .LIB
+PCX87.PRG	Simple Clipper '87 demo of the FastPCX() function.
+PCX50.PRG	Simple Clipper 5.0[1] demo of the FastPCX() function.
+BART.PCX	EGA 640x350x16 picture: Bart Simpson
+MJTITLE.PCX	VGA 640x480x16 picture: Title screen of Mah-Jonng VGA.
+MINDSCAP.PCX	VGA 320x200x256 picture: Mindscape (?) Logo.
+
+The libraries are Public Domain, meaning that you may use them in your
+application without restrictions. You may not change anything when
+you distribute the libraries, without mentionning exactly what you changed.
+You may also not Charge anything for the libraries. I decline all
+responsability when using this library; you're free to use them, but you're
+on your own.
+
+I hope you will enjoy and appreciate using this (or these) library(ies)..
+
+Regards,
+
+Pepijn Smits, May 1991.
+Helene SwarthStraat 1b
+3061 cj Rotterdam
+Phone: 010-4135422 (Voice!)

@@ -1,0 +1,391 @@
+ESTACAO SUPERVISOR ATIVO POR 00:00:22
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 10:05:34
+TERMINO: 10:05:56
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:28
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 10:20:22
+TERMINO: 10:20:50
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:47
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 10:22:39
+TERMINO: 10:23:26
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:01:11
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 10:30:23
+TERMINO: 10:31:34
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:06
+USUARIO: Usuario
+DATA   : 27/04/1998
+INICIO : 11:38:49
+TERMINO: 11:38:55
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:19
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:41:17
+TERMINO: 11:41:36
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:10
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:42:08
+TERMINO: 11:42:18
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:11
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:42:22
+TERMINO: 11:42:33
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:03
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:43:09
+TERMINO: 11:43:12
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:03
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:44:24
+TERMINO: 11:44:27
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:01
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:44:41
+TERMINO: 11:44:42
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:12
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:46:52
+TERMINO: 11:47:04
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:20
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:47:41
+TERMINO: 11:48:01
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:11
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:50:27
+TERMINO: 11:50:38
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:10
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:51:35
+TERMINO: 11:51:45
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:10
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:52:40
+TERMINO: 11:52:50
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:24
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:53:58
+TERMINO: 11:54:22
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:10
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:54:53
+TERMINO: 11:55:03
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:07
+USUARIO: MARCOS              
+DATA   : 27/04/1998
+INICIO : 11:55:23
+TERMINO: 11:55:30
+==================================================
+ESTACAO BALCAO2 ATIVO POR 00:00:42
+USUARIO: MARCOS              
+DATA   : 29/04/1998
+INICIO : 09:54:40
+TERMINO: 09:55:22
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:03:35
+USUARIO: MARLI               
+DATA   : 29/04/1998
+INICIO : 17:23:33
+TERMINO: 17:27:08
+==================================================
+ESTACAO BALCAO2 ATIVO POR 00:00:02
+USUARIO: MARCOS              
+DATA   : 30/04/1998
+INICIO : 08:29:42
+TERMINO: 08:29:44
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:54
+USUARIO: MARCOS              
+DATA   : 02/05/1998
+INICIO : 10:42:29
+TERMINO: 10:43:23
+==================================================
+ESTACAO BALCAO2 ATIVO POR 00:00:11
+USUARIO: MARCOS              
+DATA   : 07/05/1998
+INICIO : 08:47:36
+TERMINO: 08:47:47
+==================================================
+ESTACAO CAIXA ATIVO POR 00:00:31
+USUARIO: NAY                 
+DATA   : 08/05/1998
+INICIO : 15:21:11
+TERMINO: 15:21:42
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:04
+USUARIO: MARLI               
+DATA   : 11/05/1998
+INICIO : 13:45:18
+TERMINO: 13:45:22
+==================================================
+ESTACAO BALCAO2 ATIVO POR 00:01:40
+USUARIO: MARCOS              
+DATA   : 12/05/1998
+INICIO : 09:37:30
+TERMINO: 09:39:10
+==================================================
+ESTACAO CAIXA ATIVO POR 00:01:51
+USUARIO: NAY                 
+DATA   : 13/05/1998
+INICIO : 11:36:04
+TERMINO: 11:37:55
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:04
+USUARIO: Usuario
+DATA   : 14/05/1998
+INICIO : 14:29:53
+TERMINO: 14:29:57
+==================================================
+ESTACAO BALCAO2 ATIVO POR 00:02:39
+USUARIO: MARCOS              
+DATA   : 14/05/1998
+INICIO : 17:12:19
+TERMINO: 17:14:58
+==================================================
+ESTACAO CAIXA ATIVO POR 00:01:47
+USUARIO: MARLI               
+DATA   : 03/06/1998
+INICIO : 11:02:34
+TERMINO: 11:04:21
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:30
+USUARIO: MARCOS              
+DATA   : 01/07/1998
+INICIO : 08:37:41
+TERMINO: 08:38:11
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:05
+USUARIO: MARCOS              
+DATA   : 18/11/1998
+INICIO : 13:52:37
+TERMINO: 13:52:42
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:04
+USUARIO: FLAVIA              
+DATA   : 18/11/1998
+INICIO : 13:55:10
+TERMINO: 13:55:14
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:01:19
+USUARIO: MARCOS              
+DATA   : 19/11/1998
+INICIO : 10:27:04
+TERMINO: 10:28:23
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:54
+USUARIO: FLVAIA              
+DATA   : 19/11/1998
+INICIO : 17:18:39
+TERMINO: 17:19:33
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:11
+USUARIO: MARLI               
+DATA   : 26/11/1998
+INICIO : 10:04:42
+TERMINO: 10:04:53
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:01
+USUARIO: Usuario
+DATA   : 26/11/1998
+INICIO : 10:26:45
+TERMINO: 10:26:46
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:47
+USUARIO: FLAVIA              
+DATA   : 07/12/1998
+INICIO : 10:30:37
+TERMINO: 10:31:24
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:02
+USUARIO: Usuario
+DATA   : 09/12/1998
+INICIO : 11:53:30
+TERMINO: 11:53:32
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:01:38
+USUARIO: MARLI               
+DATA   : 15/12/1998
+INICIO : 16:13:27
+TERMINO: 16:15:05
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:52
+USUARIO: FLAVIA              
+DATA   : 19/12/1998
+INICIO : 12:15:40
+TERMINO: 12:16:32
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:02
+USUARIO: Usuario
+DATA   : 21/12/1998
+INICIO : 12:09:35
+TERMINO: 12:09:37
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:11
+USUARIO: 593210              
+DATA   : 23/12/1998
+INICIO : 17:00:31
+TERMINO: 17:00:42
+==================================================
+ESTACAO SUPERVISOR ATIVO POR 00:00:23
+USUARIO: MARCOS              
+DATA   : 02/01/1999
+INICIO : 10:02:16
+TERMINO: 10:02:39
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:07
+USUARIO: MARCOS              
+DATA   : 21/01/1999
+INICIO : 10:08:50
+TERMINO: 10:08:57
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:05
+USUARIO: MARLI               
+DATA   : 22/01/1999
+INICIO : 09:14:16
+TERMINO: 09:14:21
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:01
+USUARIO: ,ARLI               
+DATA   : 10/02/1999
+INICIO : 08:03:44
+TERMINO: 08:03:45
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:17
+USUARIO: FLAVIA              
+DATA   : 12/02/1999
+INICIO : 16:41:10
+TERMINO: 16:41:27
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:02:07
+USUARIO: FLAVIA              
+DATA   : 04/03/1999
+INICIO : 11:30:26
+TERMINO: 11:32:33
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:01:14
+USUARIO: FLAVIA              
+DATA   : 15/03/1999
+INICIO : 09:24:13
+TERMINO: 09:25:27
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:00:37
+USUARIO: FLAVIA              
+DATA   : 30/03/1999
+INICIO : 09:29:51
+TERMINO: 09:30:28
+==================================================
+ESTACAO ADMINISTRADOR ATIVO POR 00:00:10
+USUARIO: MARCOS              
+DATA   : 30/03/1999
+INICIO : 15:14:46
+TERMINO: 15:14:56
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:03:01
+USUARIO: MARLI               
+DATA   : 10/05/1999
+INICIO : 15:52:28
+TERMINO: 15:55:29
+==================================================
+ESTACAO CREDIARIO3 ATIVO POR 00:03:56
+USUARIO: MARLI               
+DATA   : 11/05/1999
+INICIO : 16:11:28
+TERMINO: 16:15:24
+==================================================
+ESTACAO CREDIARIO3 ATIVO POR 00:00:15
+USUARIO: KARLA               
+DATA   : 13/05/1999
+INICIO : 15:37:59
+TERMINO: 15:38:14
+==================================================
+ESTACAO ADMINISTRADOR ATIVO POR 00:00:23
+USUARIO: MARCOS              
+DATA   : 14/05/1999
+INICIO : 09:35:20
+TERMINO: 09:35:43
+==================================================
+ESTACAO CREDIARIO3 ATIVO POR 00:00:20
+USUARIO: MARLI               
+DATA   : 14/05/1999
+INICIO : 16:09:40
+TERMINO: 16:10:00
+==================================================
+ESTACAO CREDIARIO3 ATIVO POR 00:00:13
+USUARIO: KARLA               
+DATA   : 22/05/1999
+INICIO : 11:45:19
+TERMINO: 11:45:32
+==================================================
+ESTACAO CREDIARIO2 ATIVO POR 00:03:52
+USUARIO: FLAVIA              
+DATA   : 07/06/1999
+INICIO : 17:55:51
+TERMINO: 17:59:43
+==================================================
+ESTACAO ADMINISTRADOR ATIVO POR 00:00:07
+USUARIO: MARCOS              
+DATA   : 15/06/1999
+INICIO : 15:09:53
+TERMINO: 15:10:00
+==================================================
+ESTACAO BMC-03 ATIVO POR 00:00:47
+USUARIO: Usuario
+DATA   : 30/03/2001
+INICIO : 10:20:11
+TERMINO: 10:20:58
+==================================================
+ESTACAO BMC-02 ATIVO POR 00:00:44
+USUARIO: MARCOS              
+DATA   : 10/12/2004
+INICIO : 14:36:25
+TERMINO: 14:37:09
+==================================================
+ESTACAO BMC-02 ATIVO POR 00:00:21
+USUARIO: MARCOS              
+DATA   : 05/02/2009
+INICIO : 10:35:39
+TERMINO: 10:36:00
+==================================================
+ESTACAO DISCOVERY ATIVO POR 00:00:15
+USUARIO: ARCOS               
+DATA   : 05/02/2009
+INICIO : 20:53:42
+TERMINO: 20:53:57
+==================================================
+

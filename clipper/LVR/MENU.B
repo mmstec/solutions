@@ -1,0 +1,97 @@
+FUNCTION MENU
+*
+* -> Funcao que monta menu
+PARA N_TELA
+IF PCOUNT()=0
+   N_TELA=0
+   SET KEY  4 TO T_DIR
+   SET KEY 19 TO T_ESQ
+ENDIF
+M->M_POS=MENU_POS[M->MENU_P]
+M->LIN_INIC=LIN_MENU+2
+IF N_TELA=1 .OR. N_TELA=2
+   M->M_POS=M->M_POS+10
+   IF N_TELA=1
+      M->LIN_INIC=LIN_MENU+MENU_S+2
+   ELSE
+      M->LIN_INIC=LIN_MENU+2
+   ENDIF
+ENDIF
+M->LAR_G=0
+M->AL_TU=LEN(ME_NU)
+DECLARE MEN_U[M->AL_TU] , MAR_C[M->AL_TU]
+AFILL(MAR_C,.T.)
+FOR M->X_X=1 TO M->AL_TU
+   MEN_U[M->X_X]=" "+TRIM(ME_NU[M->X_X])+" "
+   IF LEN(MEN_U[M->X_X]) > M->LAR_G
+      M->LAR_G=LEN(MEN_U[M->X_X])
+      IF SUBS(MEN_U[M->X_X],2,1)=">"
+         M->LAR_G=M->LAR_G+1
+      ENDIF
+   ENDIF
+NEXT
+IF M->LAR_G < 18
+   M->LAR_G=18
+ENDIF
+FOR M->X_X=1 TO M->AL_TU
+   IF MEN_U[M->X_X]=" - "
+      MAR_C[M->X_X]=.F.
+      MEN_U[M->X_X]=REPL("ù",M->LAR_G)
+   ENDIF                   
+   IF SUBS(MEN_U[M->X_X],2,1)=">"
+      MEN_U[M->X_X]=" "+SUBS(MEN_U[M->X_X],3)+SPACE((M->LAR_G-LEN(ALLTRIM(MEN_U[M->X_X])))-3)+CHR(16)+" "
+   ENDIF
+NEXT                                                                                            
+M->AL_TU=M->AL_TU+2
+IF M->AL_TU>15
+   M->AL_TU=15
+ENDIF
+M->ULT_OPC=M->AL_TU
+IF M->M_POS + M->LAR_G + 3 > 79
+   IF M->N_TELA=0
+      M->M_POS = M->M_POS - ((M->LAR_G+2) - LEN(MENU_PRI[M->MENU_P]))
+   ELSE
+      M->M_POS = M->M_POS - ((M->M_POS+M->LAR_G+3)-79)
+   ENDIF
+ENDIF
+M->X_X=M->M_POS+M->LAR_G+2
+SOMBRA(M->LIN_INIC,M->M_POS,M->AL_TU+M->LIN_INIC-1,M->M_POS+M->LAR_G+3)
+COR("MENU")
+@ M->LIN_INIC,M->M_POS CLEAR TO M->AL_TU+M->LIN_INIC-1,M->M_POS+M->LAR_G+3
+@ M->LIN_INIC,M->M_POS+1 TO M->AL_TU+M->LIN_INIC-1,M->M_POS+M->LAR_G+2 DOUBLE
+IF M->AL_TU<15
+   FOR M->X_X=1 TO M->AL_TU-2
+      IF SUBS(MEN_U[M->X_X],1,1)="Ä"
+         @ M->X_X+M->LIN_INIC,M->M_POS+1 SAY "Ç"     
+         @ M->X_X+M->LIN_INIC,M->M_POS+M->LAR_G+2 SAY "¶"
+      ENDIF
+   NEXT
+ENDIF
+IF LEN(MEN_U) > M->AL_TU-2
+   @ M->LIN_INIC+1,M->M_POS+M->LAR_G+3 SAY CHR(24)
+   @ M->LIN_INIC+M->AL_TU-2,M->M_POS+M->LAR_G+3 SAY CHR(25)
+ENDIF
+M->OPC_ACHO=0
+M->MENU_OPC=ACHOICE(M->LIN_INIC+1,M->M_POS+2,M->LIN_INIC+M->AL_TU-2,M->M_POS+M->LAR_G+1,MEN_U,MAR_C,"FUN_ACHO")
+IF M->MENU_OPC=0
+   M->MENU_OPC = M->OPC_ACHO
+   IF N_TELA=0 .AND. BUFFER=CHR(13) .AND. M->MENU_OPC=0
+      BUFFER="S"+CHR(13)
+   ENDIF
+ENDIF
+IF MENU_OPC<>0
+   IF .NOT.(N_TELA=0 .AND. SUBS(MEN_U[MENU_OPC],LEN(MEN_U[MENU_OPC])-1,1)=CHR(16))
+      RESTSCREEN(LIN_MENU+1,00,23,79,TELA_PRI)
+   ELSE
+      SOMBRA(L_SOM,C_SOM,.T.)
+      IF LEN(MEN_U) <= M->AL_TU
+         COR("DESTAQUE DO MENU")
+         @ LIN_MENU+MENU_OPC+2,COL() SAY MEN_U[MENU_OPC]
+      ENDIF
+   ENDIF
+ELSE
+   RESTSCREEN(LIN_MENU+1,00,23,79,TELA_PRI)
+ENDIF
+SET KEY  4 TO
+SET KEY 19 TO
+RETURN M->MENU_OPC

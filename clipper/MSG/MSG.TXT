@@ -1,0 +1,28 @@
+  07:30 - Manutencao do Servidor Principal - SERVIDOR
+          Manutencao do Servidor Auxiliar  - SUPERVISOR
+          Envio de arquivo REMESSA contendo as duplicatas emitidas
+          Recepcao de arquivo RETORNO contendo as duplicatas pagas
+
+  08:00 - Libera‡Æo dos terminais
+          Atualizacao do arquivo RETORNO
+          Baixa dos Duplicatas pagas em banco
+
+  10:00 - Liberada a baixa do caderno
+
+  11:55 - Desligar todos os terminais
+          Desligar Servidor Auxiliar  - SUPERVISOR
+          Desligar Servidor Principal - SERVIDOR
+
+  13:30 - Ligar Servidor Principal - SERVIDOR
+          Ligar Servidor Auxiliar  - SUPERVISOR
+          Libera‡Æo dos terminais
+
+  17:30 - Desligar Servidor Auxiliar - SUPERVISOR
+
+  17:45 - Gerar arquivo REMESSA contendo as duplicatas emitidas
+          Fechamento de caixa.
+          Obs.: O que entrar fica para o dia seguinte
+
+  18:00 - Desligar todos os terminais
+          Desligar Servidor Principal - SERVIDOR
+          

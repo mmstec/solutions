@@ -1,0 +1,233 @@
+
+ 
+     MIRO 2.2 - DOCUMENTA─▌O DO SISTEMA
+     дддддддддддддддддддддддддддддддддд
+ 
+     SISTEMA : MFB
+     TITULO  : MFB - CONTROLE DE VENDAS                                                        
+ 
+ 
+     ARQUIVOS
+     мммммммм
+ 
+     AREA      : 1
+     ARQUIVO   : CIMENTO.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     CLIENTE      CARACTER        30          0
+     DOCUMENT     CARACTER        10          0
+     RS_FIXO      NUMERICO        10          2
+     QUANT_SACO   NUMERICO        10          2
+     TOTAL        NUMERICO        10          2
+     VENDA        DATA             8          0
+     VENCIMENTO   DATA             8          0
+     PAGAMENTO    DATA             8          0
+     OBSERVACAO   CARACTER        30          0
+ 
+     INDICE    : CIMEN001.NTX
+     EXPRESSAO : CLIENTE+DTOS(PAGAMENTO)+DTOS(PAGAMENTO)+DOCUMENT
+     ORDEM     : 1
+ 
+     INDICE    : CIMEN002.NTX
+     EXPRESSAO : CLIENTE+DTOS(VENCIMENTO)+DTOS(VENCIMENTO)+DOCUMENT
+     ORDEM     : 2
+ 
+     INDICE    : CIMEN003.NTX
+     EXPRESSAO : DOCUMENT
+     ORDEM     : 3
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 2
+     ARQUIVO   : MANUTENC.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     RS_FIXO      NUMERICO        10          2
+     DATA         DATA             8          0
+ 
+     INDICE    : MANUT004.NTX
+     EXPRESSAO : DTOS(DATA)
+     ORDEM     : 1
+ 
+     INDICE    : MANUT005.NTX
+     EXPRESSAO : STR(RS_FIXO,10,2)
+     ORDEM     : 2
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+     AREA      : 3
+     ARQUIVO   : PAGOFP.DBF
+ 
+     CAMPO        TIPO       TAMANHO   DECIMAIS
+     дддддддддд   дддддддд   ддддддд   дддддддд
+     CLIENTE      CARACTER        30          0
+     DOCUMENT     CARACTER        10          0
+     RS_UNITARI   NUMERICO        10          2
+     QUANT_SACO   NUMERICO        10          2
+     TOTAL        NUMERICO        10          2
+     VENDA        DATA             8          0
+     PAGAMENTO    DATA             8          0
+     ENTREGA      DATA             8          0
+     OBSERVACAO   CARACTER        30          0
+ 
+     INDICE    : PAGOF006.NTX
+     EXPRESSAO : DOCUMENT
+     ORDEM     : 1
+ 
+     INDICE    : PAGOF007.NTX
+     EXPRESSAO : DTOS(ENTREGA)+DTOS(ENTREGA)+CLIENTE+DOCUMENT+STR(TOTAL,10,2)
+     ORDEM     : 2
+ 
+     INDICE    : PAGOF008.NTX
+     EXPRESSAO : DTOS(PAGAMENTO)+DTOS(PAGAMENTO)+CLIENTE+DOCUMENT+STR(TOTAL,10,2)
+     ORDEM     : 3
+     дддддддддддддддддддддддддддддддддддддддддд
+ 
+ 
+ 
+ 
+     SISTEMA MFB - MODULOS (PRG)
+     ммммммммммммммммммммммммммм
+ 
+     зддддддддддддддддбддддддддддддддддддддддддддддддд©
+     Ё     Modulo     Ё           Descricao           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFB.PRG        Ё Modulo principal              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBfun.PRG     Ё Modulo de funcoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBarq.PRG     Ё Rotina de criacao de arquivos Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBsos.PRG     Ё Rotinas de help               Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBInc.PRG     Ё Menu de inclusoes             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё A - Movimento do Cimento      Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI02.PRG     Ё 1.Vendas de Cimento           Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI03.PRG     Ё 2.Quita┤└o de Cimento         Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI04.PRG     Ё 3.Manuten┤└o                  Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё B - PFP                       Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI06.PRG     Ё 1. PFP a entregar             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBI07.PRG     Ё 2. PFP entregues              Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBCon.PRG     Ё Menu de consultas             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC01.PRG     Ё A - Movimento de Cimento      Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC02.PRG     Ё B - Manuten┤└o                Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBC03.PRG     Ё C - PFP                       Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBRel.PRG     Ё Menu de relatorios            Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё A - Movimento de Cimento      Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR02.PRG     Ё 1. Devedores                  Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR03.PRG     Ё 2. Quitados                   Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё (Submenu)      Ё B - PFP                       Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR05.PRG     Ё 1. PFP a entregar             Ё
+     цддддддддддддддддеддддддддддддддддддддддддддддддд╢
+     Ё MFBR06.PRG     Ё 2. PFG entregues              Ё
+     юддддддддддддддддаддддддддддддддддддддддддддддддды
+ 
+ 
+ 
+     CONFIGURACAO DO SISTEMA
+     ммммммммммммммммммммммм
+ 
+   - Linguagem
+ 
+     здддбддддддддд©  здддбдддддддд©
+     Ё Ш Ё Clipper Ё  Ё   Ё Joiner Ё
+     юдддаддддддддды  юдддадддддддды
+ 
+ 
+   - Tratamento de arquivos
+ 
+     здддбддддддддддддд©  здддбдддддддддддддд©
+     Ё   Ё Monousuario Ё  Ё Ш Ё Multiusuario Ё
+     юдддаддддддддддддды  юдддадддддддддддддды
+ 
+ 
+   - Endentacao 
+ 
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё   Ё 00 Coluna  Ё   Ё   Ё 01 Coluna  Ё   Ё   Ё 02 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+     здддбдддддддддддд©   здддбдддддддддддд©   здддбдддддддддддд©
+     Ё Ш Ё 03 Coluna  Ё   Ё   Ё 04 Coluna  Ё   Ё   Ё 05 Colunas Ё
+     юдддадддддддддддды   юдддадддддддддддды   юдддадддддддддддды
+ 
+ 
+   - Visualizar blocos
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Comentarios
+ 
+     здддбддддд©  здддбддддд©
+     Ё Ш Ё Sim Ё  Ё   Ё N└o Ё
+     юдддаддддды  юдддаддддды
+ 
+ 
+   - Rotinas
+ 
+     здддбддддддддддддддддддддддддддддддд©
+     Ё Ш Ё Calendario                    Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Calculadora                   Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Senhas de acesso              Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Help                          Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Back-up                       Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Dos shell                     Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё   Ё Atualizacao de data           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Criacao de arquivos           Ё
+     цдддеддддддддддддддддддддддддддддддд╢
+     Ё Ш Ё Sombras                       Ё
+     юдддаддддддддддддддддддддддддддддддды
+ 
+ 
+   - Cores do sistema
+ 
+     здддддддддддддддддддддддбддддддддддбдддддддддддддддддддддддддддддддд©
+     Ё     Especificacao     Ё Setcolor Ё      Descricao das cores       Ё
+     цдддддддддддддддддддддддеддддддддддедддддддддддддддддддддддддддддддд╢
+     Ё  Fundo da tela        Ё    B+/B  Ё  Azul Brilhante / Azul         Ё
+     Ё  Menu                 Ё     G/N  Ё  Verde / Preto                 Ё
+     Ё  Destaque do menu     Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Janela de dialogo    Ё     R/W  Ё  Vermelho / Branco             Ё
+     Ё  Box janela de dialogoЁ    R+/B  Ё  Vermelho Brilhante / Azul     Ё
+     Ё  Botoes               Ё     W/R  Ё  Branco / Vermelho             Ё
+     Ё  Botao em destaque    Ё   GR+/R  Ё  Amarelo / Vermelho            Ё
+     Ё  Gets                 Ё   W+/BG  Ё  Branco Brilhante / Cyan       Ё
+     Ё  Get em destaque      Ё   GR+/G  Ё  Amarelo / Verde               Ё
+     Ё  Tela de apresenta┤└o Ё    G+/N  Ё  Verde Brilhante / Preto       Ё
+     Ё  Caracteres avulsos   Ё    B+/W  Ё  Azul Brilhante / Branco       Ё
+     Ё  Cercaduras           Ё     R/W  Ё  Vermelho / Branco             Ё
+     Ё  T║tulo               Ё    W+/B  Ё  Branco Brilhante / Azul       Ё
+     юдддддддддддддддддддддддаддддддддддадддддддддддддддддддддддддддддддды
+ 
+ 
+* Final MFB.DOC

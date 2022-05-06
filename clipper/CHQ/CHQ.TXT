@@ -1,0 +1,288 @@
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 16:59:03
+Termino: 16:59:13
+Total  : 00:00:10
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:28:17
+Termino: 17:28:22
+Total  : 00:00:05
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:28:58
+Termino: 17:29:18
+Total  : 00:00:20
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:30:02
+Termino: 17:31:33
+Total  : 00:01:31
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:32:31
+Termino: 17:32:36
+Total  : 00:00:05
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:34:20
+Termino: 17:34:48
+Total  : 00:00:28
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:39:12
+Termino: 17:40:01
+Total  : 00:00:49
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:41:34
+Termino: 17:41:50
+Total  : 00:00:16
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:42:45
+Termino: 17:43:50
+Total  : 00:01:05
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:46:55
+Termino: 17:47:28
+Total  : 00:00:33
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 17:53:22
+Termino: 17:54:00
+Total  : 00:00:38
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 18:07:53
+Termino: 18:08:16
+Total  : 00:00:23
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 18:10:06
+Termino: 18:10:31
+Total  : 00:00:25
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 18:11:21
+Termino: 18:11:36
+Total  : 00:00:15
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 09/02/1999
+Inicio : 18:14:08
+Termino: 18:14:55
+Total  : 00:00:47
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 07:43:31
+Termino: 07:44:25
+Total  : 00:00:54
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 07:45:25
+Termino: 07:47:40
+Total  : 00:02:15
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 07:50:36
+Termino: 07:51:58
+Total  : 00:01:22
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 07:54:27
+Termino: 07:55:07
+Total  : 00:00:40
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 08:00:40
+Termino: 08:02:45
+Total  : 00:02:05
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 08:06:19
+Termino: 08:06:34
+Total  : 00:00:15
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 08:07:31
+Termino: 08:08:18
+Total  : 00:00:47
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 08:09:39
+Termino: 08:10:28
+Total  : 00:00:49
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCPS
+Data   : 10/02/1999
+Inicio : 08:11:04
+Termino: 08:11:32
+Total  : 00:00:28
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 08:12:00
+Termino: 08:13:09
+Total  : 00:01:09
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 08:13:43
+Termino: 08:14:42
+Total  : 00:00:59
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 08:16:15
+Termino: 08:17:18
+Total  : 00:01:03
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 08:17:40
+Termino: 08:17:43
+Total  : 00:00:03
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 08:45:08
+Termino: 08:45:11
+Total  : 00:00:03
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 10/02/1999
+Inicio : 09:13:05
+Termino: 09:13:14
+Total  : 00:00:09
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 10/02/1999
+Inicio : 15:37:55
+Termino: 15:38:42
+Total  : 00:00:47
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 12/02/1999
+Inicio : 14:37:33
+Termino: 14:37:39
+Total  : 00:00:06
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 12/02/1999
+Inicio : 14:37:42
+Termino: 14:37:53
+Total  : 00:00:11
+==================================================
+Estacao: SUPERVISOR
+Usuario: MARCOS
+Data   : 12/02/1999
+Inicio : 14:45:14
+Termino: 14:45:38
+Total  : 00:00:24
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 20/02/1999
+Inicio : 08:35:27
+Termino: 08:52:20
+Total  : 00:16:53
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 20/02/1999
+Inicio : 08:56:36
+Termino: 09:05:24
+Total  : 00:08:48
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 20/02/1999
+Inicio : 09:11:47
+Termino: 10:19:49
+Total  : 01:08:02
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 17/03/1999
+Inicio : 17:03:19
+Termino: 17:04:26
+Total  : 00:01:07
+==================================================
+Estacao: ADMINISTRADOR
+Usuario: MARCOS
+Data   : 29/03/1999
+Inicio : 10:10:37
+Termino: 10:10:48
+Total  : 00:00:11
+==================================================
+Estacao: CREDIARIO2
+Usuario: FLAVIA
+Data   : 03/04/1999
+Inicio : 11:26:22
+Termino: 11:29:50
+Total  : 00:03:28
+==================================================
+Estacao: PESSOAL
+Usuario: FGFGFG
+Data   : 18/03/2000
+Inicio : 09:03:32
+Termino: 09:03:37
+Total  : 00:00:05
+==================================================
+

@@ -1,0 +1,896 @@
+FUNCTION RELATORIO
+DO WHILE.T.
+   SETCOLOR("N+/B,BG+/B,,,BG+/B")
+   ENTRADA("MENU DE RELATORIOS")
+   relevo(06, 56, 08, 73, .T.) // BOTOES
+   relevo(09, 56, 11, 73, .T.) // BOTOES
+   relevo(12, 56, 14, 73, .T.) // BOTOES
+   relevo(18, 56, 20, 73, .T.) // BOTOES
+   @ 07,58 PROMPT padR("1.Valores "  ,15)
+   @ 10,58 PROMPT padR("2.Contas  "  ,15)
+   @ 13,58 PROMPT padR("3.Caixas  "  ,15)
+   @ 19,58 PROMPT padR("5.Principal" ,15)
+   RELMENU=1
+   MENU TO RELMENU
+   DO CASE
+   CASE RELMENU=1 
+        RELVALORES()
+   CASE RELMENU=2
+        *RELCONTAS()
+        ALERT("Opera‡Æo n„o disponivel")
+   CASE RELMENU=3
+        *RELCAIXAS()
+        ALERT("Opera‡Æo n„o disponivel")
+   CASE RELMENU=4 .OR. LASTKEY()=27
+        PRINCIPAL()
+   ENDCASE
+ENDDO
+RETURN.T.
+
+FUNCTION RELVALORES
+DO WHILE.T.
+   SETCOLOR("N+/B,BG+/B,,,BG+/B")
+   ENTRADA("RELATORIO DE VALORES")
+   relevo(06, 56, 08, 73, .T.) // BOTOES
+   relevo(09, 56, 11, 73, .T.) // BOTOES
+   relevo(18, 56, 20, 73, .T.) // BOTOES
+   @ 07,58 PROMPT padR("1.Monitor   "  ,15) MESSAGE PADC('P/ RELATORIO NO MONITOR APERTE "1"',67)
+   @ 10,58 PROMPT padR("2.Impressora"  ,15) MESSAGE PADC('P/ RELATORIO NA IMPRESSORA APERTE "2"',67)
+   @ 19,58 PROMPT padR("5.Retorna   "  ,15) MESSAGE PADC('P/ RETORNAR AO MENU PRINCIPAL APERTE "5" OU "ESC"',67)      
+   RELESCOLHA=5
+   MENU TO RELESCOLHA
+   DO CASE
+   CASE RELESCOLHA=1             
+        RV_TELA()
+   CASE RELESCOLHA=2
+        RV_IMPRESSORA()
+   CASE RELESCOLHA=3 .OR. LASTKEY()=27
+        RELATORIO()
+   ENDCASE
+ENDDO
+RETURN.T.
+
+FUNCTION RV_TELA
+DO WHILE.T.
+   SETCOLOR("N+/B,BG+/B,,,BG+/B")
+   ENTRADA("RELATORIO NO MONITOR")
+   relevo(06, 56, 08, 73, .T.) // BOTOES
+   relevo(09, 56, 11, 73, .T.) // BOTOES
+   relevo(12, 56, 14, 73, .T.) // BOTOES
+   relevo(18, 56, 20, 73, .T.) // BOTOES
+   @ 07,58 PROMPT padR("1.RMF-T1   "  ,15) MESSAGE PADC('P/ RELATORIO GERAL DO MÒS ATUAL APERTE "1"',67)
+   @ 10,58 PROMPT padR("2.RMF-T2   "  ,15) MESSAGE PADC('P/ RELATORIO GERAL DO MÒS SELECIONADO APERTE "2"',67)
+   @ 13,58 PROMPT padR("2.RMF-T3   "  ,15) MESSAGE PADC('P/ RELATORIO DE CONTA POR PERIODO APERTE "3"',67)
+   @ 19,58 PROMPT padR("5.RETORNA  "  ,15) MESSAGE PADC('P/ RETORNAR AO MENU PRINCIPAL APERTE "5" OU "ESC"',67)      
+   RVT_MENU=1
+   MENU TO RVT_MENU
+   DO CASE
+   CASE RVT_MENU=1             
+        RvT1()
+   CASE RVT_MENU=2
+        RvT2()
+   CASE RVT_MENU=3
+        RvT3()
+   CASE RVT_MENU=4 .OR. LASTKEY()=27
+        RELVALORES()
+   ENDCASE
+ENDDO
+RETURN.T.
+
+
+FUNCTION RV_IMPRESSORA
+DO WHILE.T.
+   SETCOLOR("N+/B,BG+/B,,,BG+/B")
+   ENTRADA("RELATORIO NA IMPRESSORA")
+   relevo(06, 56, 08, 73, .T.) // BOTOES
+   relevo(09, 56, 11, 73, .T.) // BOTOES
+   relevo(12, 56, 14, 73, .T.) // BOTOES
+   relevo(18, 56, 20, 73, .T.) // BOTOES     
+   @ 07,58 PROMPT padR("1.RMV-3  "  ,15) MESSAGE PADC('P/ RELATORIO POR CAIXA NUM PERIODO APERTE "1"',67)
+   @ 10,58 PROMPT padR("2.RMV-4  "  ,15) MESSAGE PADC('P/ EXTRATO-RECIBO POR CONTA EM UM PERIODO APERTE "2"',67)      
+   @ 13,58 PROMPT padR("3.RMV-5  "  ,15) MESSAGE PADC('P/ RELATORIO POR CONTA NUM PERIODO DETALHADO APERTE "3"',67)
+   @ 19,58 PROMPT padR("5.RETORNA"  ,15) MESSAGE PADC('P/ RETORNAR AO MENU PRINCIPAL APERTE "5" OU "ESC"',67)      
+   RVI_MENU=1
+   MENU TO RVI_MENU
+   DO CASE
+   CASE RVI_MENU=1             
+        Rv3()
+   CASE RVI_MENU=2
+        Rv4()
+   CASE RVI_MENU=3
+        Rv5()
+   CASE RVI_MENU=4 .OR. LASTKEY()=27
+        RELVALORES()
+   ENDCASE
+ENDDO
+RETURN.T.
+
+
+//*************************************************************************
+//FUN€åES PARA IMPRESSÇO DE RELATORIOS
+//*************************************************************************
+//************* RELATORIO 01 - NA TELA ************************************
+FUNCTION RvT1
+SAVE SCREEN TO M->T_ELA
+CORATUAL=SETCOLOR()
+SETCOLOR("Bg+/b,W+/R,,,B/W")
+SELE 3
+USE DBvalor INDEX iDvalor1,iDvalor2,iDvalor3,iDvalor4
+SELE 3
+* SET ORDER TO 1 // ORDEM DE DATA  - CONTA - CAIXA
+* SET ORDER TO 2 // ORDEM DE DATA  - CAIXA - CONTA
+* SET ORDER TO 3 // ORDEM DE CAIXA - CONTA - DATA
+  SET ORDER TO 4 // ORDEM DE CAIXA - CONTA - DATA
+GOTO TOP
+M->FILTRO_1=DATE()
+M->FILTRO_2=DATE()
+M->FILTRO_3=SPACE(2)
+M->FILTRO_4=SPACE(2)
+RELEVO(11, 22, 13, 44, .T.,"R+/R")
+@ 12,23 SAY PADC("AGUARDE",21) COLOR "W*+/R"
+SET FILTER TO MES_ANO(DATA)=MES_ANO(M->FILTRO_1)
+IF .NOT.(MES_ANO(DATA)=MES_ANO(M->FILTRO_1))
+   SKIP
+ENDIF
+M->QUEBRA_1 :=DATA
+M->QUEBRA_2 :=DATA
+M->QUEBRA_3 :=LKCONTA
+M->QUEBRA_4 :=LKCAIXA
+M->LI_NHA   :=1
+M->PAG      :=1
+M->TOT_0001 :=0
+M->TOT_0002 :=0
+M->TO4_0001 :=0
+M->TO4_0002 :=0
+M->SOMACONTA:=0
+DO WHILE .NOT. EOF()
+   IF INKEY()=27
+      EXIT
+   ELSE
+      DATAOK=DATA
+   ENDIF
+      @ 22,06 SAY padc("éltimo lan‡amento:"+DBDATA(DATAOK),69) COLOR "w+/r"
+   IF M->LI_NHA=1
+      RELEVO(05, 05, 21, 54,.F.,,2) // tela EQUERDA
+      @ 06,008 SAY "VALORES: TODAS AS CONTAS"                        COLOR "W+*/b"
+      @ 07,008 SAY "EM     : "+DbMES(M->FILTRO_1)                    COLOR "N /b"
+      @ 07,030 SAY "    VALOR"                                       COLOR "N /b"
+      @ 07,039 SAY " COMISSAO"                                       COLOR "N /b"
+      @ 08,008 SAY REPL("=",40)                                      COLOR "N /b"
+      M->LI_NHA=09
+   ENDIF
+   M->QUEBRA_1=MES_ANO(DATA)
+   M->QUEBRA_2=DATA
+   M->QUEBRA_3=LKCONTA
+   M->QUEBRA_4=LKCAIXA
+   M->SUM_0001=0
+   M->SUM_0002=0
+   DO WHILE M->QUEBRA_4=LKCAIXA
+      IF LKCONTA="00"
+         M->SOMACONTA=M->SOMACONTA+VALOR
+      ENDIF
+      M->SUM_0001=M->SUM_0001+VALOR
+      M->SUM_0002=M->SUM_0002+COMISSAO
+      SKIP
+   ENDDO
+   SKIP -1
+   M->TOT_0001=M->TOT_0001+M->SUM_0001
+   M->TOT_0002=M->TOT_0002+M->SUM_0002
+   M->TO4_0001=M->TO4_0001+M->SUM_0001
+   M->TO4_0002=M->TO4_0002+M->SUM_0002
+   SKIP
+   IF M->QUEBRA_4<>LKCAIXA
+      @ M->LI_NHA+0,008 SAY NCAIXA(M->QUEBRA_4)     
+      @ M->LI_NHA+0,029 SAY M->TO4_0001 PICTURE "@E 999,999.99"
+      @ M->LI_NHA+0,040 SAY M->TO4_0002 PICTURE "@E 9,999.99"
+      M->TO4_0001=0
+      M->TO4_0002=0
+      M->QUEBRA_4=LKCAIXA
+      M->LI_NHA=M->LI_NHA+1
+   ENDIF
+   IF M->QUEBRA_4<>LKCAIXA
+      @ M->LI_NHA+0,008 SAY NCAIXA(M->QUEBRA_4)     
+      @ M->LI_NHA+0,029 SAY M->TOt_0001 PICTURE "@E 999,999.99"
+      @ M->LI_NHA+0,040 SAY M->TOt_0002 PICTURE "@E 9,999.99"
+      M->TO4_0001=0
+      M->TO4_0002=0
+      M->QUEBRA_4=LKCAIXA
+      M->LI_NHA=M->LI_NHA+1
+   ENDIF
+   IF M->LI_NHA>18 .OR. EOF()
+      IF EOF()
+         TOT_Rv1(2)
+         inkey(0)
+      ELSE
+         TOT_Rv1(1)
+      ENDIF
+      M->LI_NHA=1
+   ENDIF
+ENDDO
+SET FILTER TO
+SETCOLOR(CORATUAL)
+RESTORE SCREEN FROM M->T_ELA
+ 
+FUNCTION TOT_Rv1
+PARA PAR1
+IF PAR1=2
+   @ M->LI_NHA+0,008 SAY REPL("=",40)                        COLOR "N /b"
+   @ M->LI_NHA+1,008 SAY "SUBTOTAL (1)"                      COLOR "G+/b"
+   @ M->LI_NHA+1,029 SAY M->TOT_0001 PICTURE "@E 999,999.99" COLOR "G+/b"
+   @ M->LI_NHA+1,040 SAY M->TOT_0002 PICTURE "@E 9,999.99"   COLOR "G+/b"
+   M->LI_NHA=18
+ENDIF
+IF PAR1=2
+   @ M->LI_NHA+0,008 SAY "TOTAL CIMENTO"   COLOR "R+/b"
+   @ M->LI_NHA+1,008 SAY "TOTAL LOJA"      COLOR "B+/b"
+   @ M->LI_NHA+2,008 SAY "TOTAL GERAL"     COLOR "R /b"
+ELSE
+   @ M->LI_NHA+1,008 SAY "SUBTOTAL (2)" COLOR "R+/b"
+ENDIF
+   @ M->LI_NHA+0,029 SAY M->SOMACONTA PICTURE "@E 999,999.99" COLOR "R+/b"
+   @ M->LI_NHA+1,029 SAY M->TOT_0001-M->SOMACONTA PICTURE "@E 999,999.99" COLOR "B+/b"
+   @ M->LI_NHA+1,040 SAY M->TOT_0002  PICTURE "@E 9,999.99"   COLOR "B+/b"
+   @ M->LI_NHA+2,029 SAY M->TOT_0001  PICTURE "@E 999,999.99" COLOR "R/b"
+   @ M->LI_NHA+2,040 SAY M->TOT_0002  PICTURE "@E 9,999.99"   COLOR "R/b"
+
+************* RELATORIO 02 - NA TELA
+FUNCTION RvT2
+SAVE SCREEN TO M->T_ELA
+CORATUAL=SETCOLOR()
+SETCOLOR("Bg+/b,W+/R,,,B/W")
+SELE 3
+USE DBvalor INDEX iDvalor1,iDvalor2,iDvalor3,iDvalor4,iDvalor5
+SELE 3
+* SET ORDER TO 1 // ORDEM DE DATA  - CONTA - CAIXA
+* SET ORDER TO 2 // ORDEM DE DATA  - CAIXA - CONTA
+* SET ORDER TO 3 // ORDEM DE CAIXA - CONTA - DATA
+  SET ORDER TO 4 // ORDEM DE CAIXA - CONTA - DATA
+GOTO TOP
+M->FILTRO_1=CTOD("  /  /  ")
+M->FILTRO_2=CTOD("  /  /  ")
+M->FILTRO_3=SPACE(2)
+M->FILTRO_4=SPACE(2)
+RELEVO(05, 05, 21, 54,.F.,,2) // tela EQUERDA
+RELEVO(06, 06, 08, 53,.T.,,2) // BARRA DE TITULO
+RELEVO(09, 18, 20, 53,.F.,,2) // tela EQUERDA
+@ 07,07 SAY PADC("Relatorio RVT2(monitor)",45)  color "W+/R"
+@ 11,08 SAY padl("PERIODO ",10) GET M->FILTRO_1 PICTURE "99/99/9999"
+SET CURSOR ON
+READ
+SET CURSOR OFF
+RELEVO(11, 22, 13, 44, .T.,"R+/R")
+@ 12,23 SAY PADC("AGUARDE",21) COLOR "W*+/R"
+SET FILTER TO MES_ANO(DATA)=MES_ANO(M->FILTRO_1)
+IF .NOT.(MES_ANO(DATA)=MES_ANO(M->FILTRO_1))
+   SKIP
+ENDIF
+M->QUEBRA_1 :=DATA
+M->QUEBRA_2 :=DATA
+M->QUEBRA_3 :=LKCONTA
+M->QUEBRA_4 :=LKCAIXA
+M->LI_NHA   :=1
+M->PAG      :=1
+M->TOT_0001 :=0
+M->TOT_0002 :=0
+M->TO4_0001 :=0
+M->TO4_0002 :=0
+M->SOMACONTA:=0
+DO WHILE .NOT. EOF()
+   IF INKEY()=27
+      EXIT
+   ELSE
+      DATAOK=DATA
+   ENDIF
+      @ 22,06 SAY padc("éltimo lan‡amento:"+DBDATA(DATAOK),69) COLOR "w+/r"
+   IF M->LI_NHA=1
+      RELEVO(05, 05, 21, 54,.F.,,2) // tela EQUERDA
+      @ 06,008 SAY "VALORES: TODAS AS CONTAS"                        COLOR "W+*/b"
+      @ 07,008 SAY "EM     : "+DbMES(M->FILTRO_1)                    COLOR "N /b"
+      @ 07,030 SAY "    VALOR"                                       COLOR "N /b"
+      @ 07,039 SAY " COMISSAO"                                       COLOR "N /b"
+      @ 08,008 SAY REPL("=",40)                                      COLOR "N /b"
+      M->LI_NHA=09
+   ENDIF
+   M->QUEBRA_1=MES_ANO(DATA)
+   M->QUEBRA_2=DATA
+   M->QUEBRA_3=LKCONTA
+   M->QUEBRA_4=LKCAIXA
+   M->SUM_0001=0
+   M->SUM_0002=0
+   DO WHILE M->QUEBRA_4=LKCAIXA
+      IF LKCONTA="00"
+         M->SOMACONTA=M->SOMACONTA+VALOR
+      ENDIF
+      M->SUM_0001=M->SUM_0001+VALOR
+      M->SUM_0002=M->SUM_0002+COMISSAO
+      SKIP
+   ENDDO
+   SKIP -1
+   M->TOT_0001=M->TOT_0001+M->SUM_0001
+   M->TOT_0002=M->TOT_0002+M->SUM_0002
+   M->TO4_0001=M->TO4_0001+M->SUM_0001
+   M->TO4_0002=M->TO4_0002+M->SUM_0002
+   SKIP
+   IF M->QUEBRA_4<>LKCAIXA
+      @ M->LI_NHA+0,008 SAY NCAIXA(M->QUEBRA_4)     
+      @ M->LI_NHA+0,029 SAY M->TO4_0001 PICTURE "@E 999,999.99"
+      @ M->LI_NHA+0,040 SAY M->TO4_0002 PICTURE "@E 9,999.99"
+      M->TO4_0001=0
+      M->TO4_0002=0
+      M->QUEBRA_4=LKCAIXA
+      M->LI_NHA=M->LI_NHA+1
+   ENDIF
+   IF M->QUEBRA_4<>LKCAIXA
+      @ M->LI_NHA+0,008 SAY NCAIXA(M->QUEBRA_4)     
+      @ M->LI_NHA+0,029 SAY M->TOt_0001 PICTURE "@E 999,999.99"
+      @ M->LI_NHA+0,040 SAY M->TOt_0002 PICTURE "@E 9,999.99"
+      M->TO4_0001=0
+      M->TO4_0002=0
+      M->QUEBRA_4=LKCAIXA
+      M->LI_NHA=M->LI_NHA+1
+   ENDIF
+   IF M->LI_NHA>18 .OR. EOF()
+      IF EOF()
+         TOT_Rv1(2)
+         inkey(0)
+      ELSE
+         TOT_Rv1(1)
+      ENDIF
+      M->LI_NHA=1
+   ENDIF
+ENDDO
+SET FILTER TO
+SETCOLOR(CORATUAL)
+RESTORE SCREEN FROM M->T_ELA
+ 
+FUNCTION TOT_RvT2
+PARA PAR1
+IF PAR1=2
+   @ M->LI_NHA+0,008 SAY REPL("=",40)                        COLOR "N /b"
+   @ M->LI_NHA+1,008 SAY "SUBTOTAL (1)"                      COLOR "G+/b"
+   @ M->LI_NHA+1,029 SAY M->TOT_0001 PICTURE "@E 999,999.99" COLOR "G+/b"
+   @ M->LI_NHA+1,040 SAY M->TOT_0002 PICTURE "@E 9,999.99"   COLOR "G+/b"
+   M->LI_NHA=18
+ENDIF
+IF PAR1=2
+   @ M->LI_NHA+0,008 SAY "TOTAL CIMENTO"   COLOR "R+/b"
+   @ M->LI_NHA+1,008 SAY "TOTAL LOJA"      COLOR "B+/b"
+   @ M->LI_NHA+2,008 SAY "TOTAL GERAL"     COLOR "R /b"
+ELSE
+   @ M->LI_NHA+1,008 SAY "SUBTOTAL (2)" COLOR "R+/b"
+ENDIF
+   @ M->LI_NHA+0,029 SAY M->SOMACONTA PICTURE "@E 999,999.99" COLOR "R+/b"
+   @ M->LI_NHA+1,029 SAY M->TOT_0001-M->SOMACONTA PICTURE "@E 999,999.99" COLOR "B+/b"
+   @ M->LI_NHA+1,040 SAY M->TOT_0002  PICTURE "@E 9,999.99"   COLOR "B+/b"
+   @ M->LI_NHA+2,029 SAY M->TOT_0001  PICTURE "@E 999,999.99" COLOR "R/b"
+   @ M->LI_NHA+2,040 SAY M->TOT_0002  PICTURE "@E 9,999.99"   COLOR "R/b"
+
+************* RELATORIO 03 - NA TELA
+FUNCTION RvT3
+SAVE SCREEN TO M->T_ELA
+SETCOLOR("BG+/B,W+/R,,,rg+/b")
+SELE 3
+USE dBvalor INDEX idvalor1,iDvalor2,iDvalor3,iDvalor4
+SELE 3
+
+* SET ORDER TO 1 // ORDEM DE DATA  - CONTA - CAIXA
+* SET ORDER TO 2 // ORDEM DE DATA  - CAIXA - CONTA
+* SET ORDER TO 3 // ORDEM DE CAIXA - CONTA - DATA
+  SET ORDER TO 4 // ORDEM DE CAIXA - CONTA - DATA
+
+GOTO TOP
+M->FILTRO_1=CTOD("  /  /  ")
+M->FILTRO_2=CTOD("  /  /  ")
+M->FILTRO_3=SPACE(2)
+M->FILTRO_4=SPACE(2)
+RELEVO(05, 05, 21, 54,.F.,,2) // tela EQUERDA
+RELEVO(06, 06, 08, 53,.T.,,2) // BARRA DE TITULO
+RELEVO(09, 18, 20, 53,.F.,,2) // tela EQUERDA
+@ 07,07 SAY PADC("Relatorio RVT3(monitor)",45)  color "W+/R"
+@ 11,08 SAY padl("PERIODO ",10) GET M->FILTRO_1 PICTURE "99/99/99"
+@ 12,08 SAY padl("        ",10) GET M->FILTRO_2 PICTURE "99/99/99"
+@ 13,08 SAY padl("CONTA   ",10) GET M->FILTRO_3
+SET CURSOR ON
+READ
+SET CURSOR OFF
+IF LASTKEY()=27
+   RESTORE SCREEN FROM M->T_ELA
+   RETURN
+ENDIF
+RELEVO(11, 22, 13, 44, .T.,"R+/R")
+@ 12,23 SAY PADC("AGUARDE",21) COLOR "W*+/R"
+SET FILTER TO DATA>=M->FILTRO_1 .AND. DATA<=M->FILTRO_2 .AND. LKCONTA=M->FILTRO_3
+IF .NOT.(DATA>=M->FILTRO_1 .AND. DATA<=M->FILTRO_2 .AND. LKCONTA=M->FILTRO_3)
+   SKIP
+ENDIF
+M->QUEBRA_1 :=DATA
+M->QUEBRA_2 :=DATA
+M->QUEBRA_3 :=LKCONTA
+M->QUEBRA_4 :=LKCAIXA
+M->LI_NHA   :=1
+M->PAG      :=1
+M->TOT_0001 :=0
+M->TOT_0002 :=0
+M->TO4_0001 :=0
+M->TO4_0002 :=0
+M->SOMACONTA:=0
+DO WHILE .NOT. EOF()
+   IF INKEY()=27
+      EXIT
+   ELSE
+      DATAOK=DATA
+   ENDIF
+      @ 22,06 SAY padc("éLTIMO LAN€AMENTO:"+DBDATA(DATAOK),69) COLOR "w+/r"
+   IF M->LI_NHA=1
+      RELEVO(05, 05, 21, 54,.F.,,2) // tela EQUERDA
+      @ 06,008 SAY "VALORES: "+NCONTA(M->FILTRO_3)                   COLOR "W+*/b"
+      @ 07,008 SAY DTOC(M->FILTRO_1)+" A "+DTOC(M->FILTRO_2)         COLOR "N /b"
+      @ 07,030 SAY "    VALOR"                                       COLOR "N /b"
+      @ 07,039 SAY " COMISSAO"                                       COLOR "N /b"
+      @ 08,008 SAY REPL("=",40)                                      COLOR "N /b"
+      M->LI_NHA=09
+   ENDIF
+   M->QUEBRA_1=MES_ANO(DATA)
+   M->QUEBRA_2=DATA
+   M->QUEBRA_3=LKCONTA
+   M->QUEBRA_4=LKCAIXA
+   M->SUM_0001=0
+   M->SUM_0002=0
+   DO WHILE M->QUEBRA_4=LKCAIXA
+      M->SUM_0001=M->SUM_0001+VALOR
+      M->SUM_0002=M->SUM_0002+COMISSAO
+      SKIP
+   ENDDO
+   SKIP -1
+   M->TOT_0001=M->TOT_0001+M->SUM_0001
+   M->TOT_0002=M->TOT_0002+M->SUM_0002
+   M->TO4_0001=M->TO4_0001+M->SUM_0001
+   M->TO4_0002=M->TO4_0002+M->SUM_0002
+   SKIP
+   IF M->QUEBRA_4<>LKCAIXA
+      @ M->LI_NHA+0,008 SAY NCAIXA(M->QUEBRA_4)     
+      @ M->LI_NHA+0,029 SAY M->TO4_0001 PICTURE "@E 999,999.99"
+      @ M->LI_NHA+0,040 SAY M->TO4_0002 PICTURE "@E 9,999.99"
+      M->TO4_0001=0
+      M->TO4_0002=0
+      M->QUEBRA_4=LKCAIXA
+      M->LI_NHA=M->LI_NHA+1
+   ENDIF
+   IF M->LI_NHA>18 .OR. EOF()
+      IF EOF()
+         TOT_RvT3(2)
+         INKEY(0)
+      ELSE
+         TOT_RvT3(1)
+      ENDIF
+      M->LI_NHA=1
+   ENDIF
+ENDDO
+SET FILTER TO
+RESTORE SCREEN FROM M->T_ELA
+ 
+FUNCTION TOT_RvT3
+PARA PAR1
+IF PAR1=2
+   @ M->LI_NHA+0,008 SAY REPL("=",40)                        COLOR "N /b"
+   @ M->LI_NHA+1,008 SAY "SUBTOTAL (1)"                      COLOR "G+/b"
+   @ M->LI_NHA+1,029 SAY M->TOT_0001 PICTURE "@E 999,999.99" COLOR "G+/b"
+   @ M->LI_NHA+1,040 SAY M->TOT_0002 PICTURE "@E 9,999.99"   COLOR "G+/b"
+   M->LI_NHA=18
+ENDIF
+IF PAR1=2
+   @ M->LI_NHA+2,008 SAY "TOTAL       " COLOR "R/b"
+ELSE
+   @ M->LI_NHA+1,008 SAY "SUBTOTAL (2)" COLOR "R/b"
+ENDIF
+   @ M->LI_NHA+2,029 SAY M->TOT_0001  PICTURE "@E 999,999.99" COLOR "R/b"
+   @ M->LI_NHA+2,040 SAY M->TOT_0002  PICTURE "@E 9,999.99"   COLOR "R/b"
+
+************* RELATORIO 03 - NA IMPRESSORA
+FUNCTION Rv3
+IF (!isprinter())
+    ALERT("* IMPRESSORA ESTA DESLIGADA *")
+    RELVALORES()
+ENDIF
+
+SAVE SCREEN TO M->T_ELA
+SETCOLOR("BG+/B,W+/R,,,rg+/b")
+SELE 3
+USE dBValor INDEX iDvalor1,iDvalor2,iDValor3,iDValor4
+SELE 3
+SET ORDER TO 3
+GOTO TOP
+M->FILTRO_1=CTOD("  /  /  ")
+M->FILTRO_2=CTOD("  /  /  ")
+M->FILTRO_3=SPACE(2)
+M->FILTRO_4=SPACE(2)
+M->CODCONTA=SPACE(2)
+M->CODCAIXA=SPACE(2)
+RELEVO(05, 05, 21, 54,.F.,,2) // tela EQUERDA
+RELEVO(06, 06, 08, 53,.T.,,2) // BARRA DE TITULO
+@ 07,07 SAY PADC("Relatorio RV3(impressora)",45)  color "W+/R"
+RELEVO(09, 18, 20, 53,.F.,,2) // tela EQUERDA
+@ 11,08 SAY padl("PERIODO ",10) GET M->FILTRO_1 PICTURE "99/99/99"
+@ 12,08 SAY padl("        ",10) GET M->FILTRO_2 PICTURE "99/99/99"
+@ 13,08 SAY padl("CAIXA   ",10) GET M->CODCAIXA VALID VRFCAIXA(13,21)
+
+SET CURSOR ON
+READ
+M->FILTRO_3=M->CODCONTA
+M->FILTRO_4=M->CODCAIXA
+SET CURSOR OFF
+IF LASTKEY()=27
+   RESTORE SCREEN FROM M->T_ELA
+   RETURN
+ENDIF
+RELEVO(11, 22, 13, 44, .T.,"R+/R")
+@ 12,23 SAY PADC("AGUARDE",21) COLOR "W*+/R"
+SET FILTER TO DATA>=M->FILTRO_1 .AND. DATA<=M->FILTRO_2 .AND. LKCAIXA=M->FILTRO_4
+IF .NOT.(DATA>=M->FILTRO_1 .AND. DATA<=M->FILTRO_2 .AND. LKCAIXA=M->FILTRO_4)
+   SKIP
+ENDIF
+M->QUEBRA_1 :=DATA
+M->QUEBRA_2 :=DATA
+M->QUEBRA_3 :=LKCONTA
+M->QUEBRA_4 :=LKCAIXA
+M->LI_NHA   :=1
+M->PAG      :=1
+M->TOT_0001 :=0
+M->TOT_0002 :=0
+M->TO4_0001 :=0
+M->TO4_0002 :=0
+M->SOMACONTA:=0
+SET DEVI TO PRINT
+DO WHILE .NOT. EOF()
+   IF INKEY()=27
+      EXIT
+   ELSE
+      DATAOK=DATA
+   ENDIF
+   IF M->LI_NHA=1
+      @ 00,001 SAY CHR(18)
+      @ 01,01 SAY PADC("MFB Material de Constru‡Æo LTDA",80)
+      @ 01,01 SAY "Pagina: "+SUBS(STR(M->PAG+10000,5),2) ; M->PAG=M->PAG+1
+      @ 01,68 SAY DATE()
+      @ 03,001 SAY "RELATORIO :"+"MOVIMENTO FINANCEIRO N§ 3"
+      @ 04,001 SAY "CAIXA     :"+M->FILTRO_4+" "+NCAIXA(M->FILTRO_4)
+      @ 05,001 SAY "PERIODO   :"+DTOC(M->FILTRO_1)+" a "+DTOC(M->FILTRO_2)
+      @ 07,001 SAY REPL("=",78)
+      @ 08,001 SAY "CT"                                      
+      @ 08,004 SAY "DESCRI€ÇO DE CONTA"                                      
+      @ 08,040 SAY PADL("VALOR",18)
+      @ 08,060 SAY PADL("COMISSAO",18)
+      @ 09,001 SAY REPL("=",78)
+      M->LI_NHA=10
+   ENDIF
+   M->QUEBRA_1=MES_ANO(DATA)
+   M->QUEBRA_2=DATA
+   M->QUEBRA_3=LKCONTA
+   M->QUEBRA_4=LKCAIXA
+   M->SUM_0001=0
+   M->SUM_0002=0
+   DO WHILE M->QUEBRA_3=LKCONTA
+      M->SUM_0001=M->SUM_0001+VALOR
+      M->SUM_0002=M->SUM_0002+COMISSAO
+      SKIP
+   ENDDO
+   SKIP -1
+   M->TOT_0001=M->TOT_0001+M->SUM_0001
+   M->TOT_0002=M->TOT_0002+M->SUM_0002
+   M->TO4_0001=M->TO4_0001+M->SUM_0001
+   M->TO4_0002=M->TO4_0002+M->SUM_0002
+   SKIP
+   IF M->QUEBRA_3<>LKCONTA
+      @ M->LI_NHA+0,001 SAY M->QUEBRA_3+" "+NCONTA(M->QUEBRA_3)     
+      @ M->LI_NHA+0,040 SAY M->TO4_0001 PICTURE "@E 999,999,999,999.99"
+      @ M->LI_NHA+0,060 SAY M->TO4_0002 PICTURE "@E 999,999,999,999.99"
+      M->TO4_0001=0
+      M->TO4_0002=0
+      M->QUEBRA_3=LKCONTA
+      M->LI_NHA=M->LI_NHA+1
+   ENDIF
+   IF M->LI_NHA>30 .OR. EOF()
+      IF EOF()
+         TOT_Rv3(2)
+      ELSE
+         TOT_Rv3(1)
+      ENDIF
+      M->LI_NHA=1
+   ENDIF
+ENDDO
+EJECT
+SET DEVI TO SCREEN
+SET FILTER TO
+RESTORE SCREEN FROM M->T_ELA
+ 
+FUNCTION TOT_Rv3
+PARA PAR1
+IF PAR1=2
+   @ M->LI_NHA+0,001 SAY REPL("-",78)                        
+   @ M->LI_NHA+1,001 SAY "SUBTOTAL (1)"                      
+   @ M->LI_NHA+1,040 SAY M->TOT_0001 PICTURE "@E 999,999,999,999.99" 
+   @ M->LI_NHA+1,060 SAY M->TOT_0002 PICTURE "@E 999,999,999,999.99"   
+   M->LI_NHA=30
+   @ M->LI_NHA+1,001 SAY REPL("=",78)
+ENDIF
+IF PAR1=2
+   @ M->LI_NHA+2,001 SAY "TOTAL "+NCAIXA(M->FILTRO_4)
+ELSE
+   @ M->LI_NHA+2,001 SAY "SUBTOTAL (2)" 
+ENDIF
+   @ M->LI_NHA+02,040 SAY M->TOT_0001  PICTURE "@E 999,999,999,999.99"
+   @ M->LI_NHA+02,060 SAY M->TOT_0002  PICTURE "@E 999,999,999,999.99"   
+   @ M->LI_NHA+03,001 SAY REPL("=",78)
+
+************  RELATORIO 4 - NA IMPRESSORA
+FUNCTION rv4
+IF (!isprinter())
+    ALERT("* IMPRESSORA ESTA DESLIGADA *")
+    RELVALORES()
+ENDIF
+SAVE SCREEN TO M->T_ELA
+SETCOLOR("BG+/B,W+/R,,,rg+/b")
+SELE 3
+USE dBValor INDEX iDvalor1,iDvalor2,iDValor3,iDValor4
+SELE 3
+SET ORDER TO 4
+GOTO TOP
+M->FILTRO_1=CTOD("  /  /  ")
+M->FILTRO_2=CTOD("  /  /  ")
+M->FILTRO_3=SPACE(2)
+M->FILTRO_4=SPACE(2)
+M->CODCONTA=SPACE(2)
+RELEVO(05, 05, 21, 54,.F.,,2) // tela EQUERDA
+RELEVO(06, 06, 08, 53,.T.,,2) // BARRA DE TITULO
+@ 07,07 SAY PADC("Relatorio RV4(impressora)",45)  color "W+/R"
+RELEVO(09, 18, 20, 53,.F.,,2) // tela EQUERDA
+@ 11,08 SAY padl("PERIODO ",10) GET M->FILTRO_1 PICTURE "99/99/99"
+@ 12,08 SAY padl("        ",10) GET M->FILTRO_2 PICTURE "99/99/99"
+@ 13,08 SAY padl("CONTA   ",10) GET M->CODCONTA VALID VRFCONTA(13,21)
+SET CURSOR ON
+READ
+M->FILTRO_3=M->CODCONTA
+SET CURSOR OFF
+IF LASTKEY()=27
+   RESTORE SCREEN FROM M->T_ELA
+   RETURN
+ENDIF
+RELEVO(11, 22, 13, 44, .T.,"R+/R")
+@ 12,23 SAY PADC("AGUARDE",21) COLOR "W*+/R"
+SET FILTER TO DATA>=M->FILTRO_1 .AND. DATA<=M->FILTRO_2 .AND. LKCONTA=M->FILTRO_3
+IF .NOT.(DATA>=M->FILTRO_1 .AND. DATA<=M->FILTRO_2 .AND. LKCONTA=M->FILTRO_3)
+   SKIP
+ENDIF
+M->QUEBRA_1 :=DATA
+M->QUEBRA_2 :=DATA
+M->QUEBRA_3 :=LKCONTA
+M->QUEBRA_4 :=LKCAIXA
+M->LI_NHA   :=1
+M->PAG      :=1
+M->TOT_0001 :=0
+M->TOT_0002 :=0
+M->TO4_0001 :=0
+M->TO4_0002 :=0
+M->SOMACONTA:=0
+M->TOT_SCOM :=0
+SET DEVI TO PRINT
+DO WHILE .NOT. EOF()
+   IF INKEY()=27
+      EXIT
+   ELSE
+      DATAOK=DATA
+   ENDIF
+   IF M->LI_NHA=1
+      @ 00,001 SAY CHR(18)
+      @ 01,001 SAY PADC("B A R R E T O   M A T E R I A L   D E   C O N S T R U € Ç O   L T D A",80)
+      @ 03,001 SAY PADC("* Telefone: (073) 525-2344 *",80)
+      @ 04,001 SAY PADC("MFB Material de Constru‡Æo LTDA",80)
+      @ 05,001 SAY PADC("CGC 34.196.147/0001-10 IE 28.956.505-NO",80)
+      @ 06,001 SAY PADC("Av. Franz Gedeon, 297 Centro",80)
+      @ 07,001 SAY PADC("CEP 45.200-000 Jequie-Ba.",80)
+
+      @ 09,001 SAY PADr("E X T R A T O / R E C I B O",78)
+      @ 09,001 SAY PADr("E X T R A T O / R E C I B O",78)
+      @ 09,001 SAY PADl(dToc(Date())+" Pag."+ALLTRIM(STR(M->PAG)),78) ; M->PAG=M->PAG+1
+
+      @ 11,001 say "A quem possa interessar"
+      @ 12,001 say "Declaro para os devidos fins que reconehco a movimentacao financeira abaixo,"
+      @ 13,001 say "realizada em meu nome no periodo de "+DTOC(M->FILTRO_1)+" a "+DTOC(M->FILTRO_2)+":"
+      @ 15,001 SAY "Conta:  "+M->FILTRO_3+" "+NCONTA(M->FILTRO_3)
+      @ 16,001 SAY "Periodo:"+DTOC(M->FILTRO_1)+" a "+DTOC(M->FILTRO_2)
+      @ 18,001 SAY padR("N§ Historico",25)+":"
+      @ 18,030 SAY padL("Valor"       ,15)+":"
+      @ 18,045 SAY padL("% pago"      ,10)+":"
+      @ 18,063 SAY padL("Comiss„o"    ,15)+":"
+      @ 19,001 SAY REPL("=",78)
+      M->LI_NHA=20
+   ENDIF
+   M->QUEBRA_1=MES_ANO(DATA)
+   M->QUEBRA_2=DATA
+   M->QUEBRA_3=LKCONTA
+   M->QUEBRA_4=LKCAIXA
+   M->SUM_0001=0
+   M->SUM_0002=0
+   DO WHILE M->QUEBRA_4=LKCAIXA
+      M->SUM_0001=M->SUM_0001+VALOR
+      M->SUM_0002=M->SUM_0002+COMISSAO
+      SKIP
+   ENDDO
+   SKIP -1
+   M->TOT_0001=M->TOT_0001+M->SUM_0001
+   M->TOT_0002=M->TOT_0002+M->SUM_0002
+   M->TO4_0001=M->TO4_0001+M->SUM_0001
+   M->TO4_0002=M->TO4_0002+M->SUM_0002
+   SKIP
+   IF M->QUEBRA_4<>LKCAIXA
+      PERCENTUAL:= (M->TO4_0002/M->TO4_0001)*100// acha o percentual para o c lculo
+      @ M->LI_NHA+0,001 SAY padR(M->QUEBRA_4+" "+NCAIXA(M->QUEBRA_4),25)+":"
+      @ M->LI_NHA+0,030 SAY padL(STR(M->TO4_0001)        ,15)+":" 
+      @ M->LI_NHA+0,045 SAY padL(STR(PERCENTUAL,5,2)+"% ",10)+":"
+      @ M->LI_NHA+0,063 SAY padL(STR(M->TO4_0002)        ,15)+":" 
+      IF M->TO4_0002>0
+         M->TOT_SCOM=M->TOT_SCOM+VALOR
+      ENDIF
+      M->TO4_0001=0
+      M->TO4_0002=0
+      M->QUEBRA_4=LKCAIXA
+      M->LI_NHA=M->LI_NHA+1
+   ENDIF
+   IF M->LI_NHA>40 .OR. EOF()
+      IF EOF()
+         TOT_Rv4(2)
+      ELSE
+         TOT_Rv4(1)
+      ENDIF
+      M->LI_NHA=1
+   ENDIF
+ENDDO
+EJECT
+SET DEVI TO SCREEN
+SET FILTER TO
+RESTORE SCREEN FROM M->T_ELA
+ 
+FUNCTION TOT_Rv4(par1) // RESUMO RECIBO
+   @ M->LI_NHA+00,001 SAY REPL("=",78)
+   *IF PAR1=2
+   *   @ M->LI_NHA+01,001 SAY PADL("Total Final"  ,25)+":"
+   *   ELSE
+   *   @ M->LI_NHA+01,001 SAY PADL("Total Parcial",25)+":"
+   *ENDIF
+   *@ M->LI_NHA+01,030 SAY padl(M->TOT_0001,15)+":"
+   *@ M->LI_NHA+01,063 SAY padl(M->TOT_0002,15)+":"
+   *@ M->LI_NHA+02,001 SAY REPL("Ä",78)
+   *M->LI_NHA=M->LI_NHA+03
+   M->LI_NHA=M->LI_NHA
+   @ M->LI_NHA+02,001 SAY PADR("T. Geral:"               ,30)+PADl(transf(M->TOT_0001,"@E 999,999,999.99"),15)
+   @ M->LI_NHA+03,001 SAY PADR("T. Comissionado:"        ,30)+PADl(transf(M->TOT_0001-M->TOT_SCOM,"@E 999,999,999.99"),15)
+   @ M->LI_NHA+04,001 SAY PADR("T. NAO comissionado:"    ,30)+PADl(transf(M->TOT_SCOM,"@E 999,999,999.99"),15)
+   @ M->LI_NHA+05,001 SAY PADR("T. A pagar:"             ,30)+PADl(transf(M->TOT_0002,"@E 999,999,999.99"),15)
+   @ M->LI_NHA+07,001 SAY "Declaro ainda que pela movimentacao financeira acima, recebi da MFB Material de" 
+   @ M->LI_NHA+08,001 SAY "Constru‡Æo LTDA. a quantia de R$"+alltrim(transf(M->TOT_0002,"@E 999,999,999.99"))+"."
+   @ M->LI_NHA+11,000 SAY PADC(REPL("_",35),40)
+   @ M->LI_NHA+11,040 SAY PADC(REPL("_",35),40)
+   @ M->LI_NHA+12,000 SAY PADC(M->FILTRO_3+" "+NCONTA(M->FILTRO_3),40)
+   @ M->LI_NHA+12,000 SAY PADC(M->FILTRO_3+" "+NCONTA(M->FILTRO_3),40)
+   @ M->LI_NHA+12,040 SAY PADC("MFB MATERIAL DE CONSTRU€ÇO LTDA",40)
+   @ M->LI_NHA+13,040 SAY PADC("Dpto Pessoal",40)
+********************************************************************
+
+************  RELATORIO 5 - NA IMPRESSORA
+FUNCTION rv5
+IF (!isprinter())
+    ALERT("* IMPRESSORA ESTA DESLIGADA *")
+    RELVALORES()
+ENDIF
+SAVE SCREEN TO M->T_ELA
+SETCOLOR("BG+/B,W+/R,,,rg+/b")
+SELE 3
+USE dBValor INDEX iDvalor1,iDvalor2,iDValor3,iDValor4
+SELE 3
+* SET ORDER TO 1 // ORDEM DE DATA  - CONTA - CAIXA
+  SET ORDER TO 2 // ORDEM DE DATA  - CAIXA - CONTA
+* SET ORDER TO 3 // ORDEM DE CAIXA - CONTA - DATA
+* SET ORDER TO 4 // ORDEM DE CAIXA - CONTA - DATA
+GOTO TOP
+M->FILTRO_1=CTOD("  /  /  ")
+M->FILTRO_2=CTOD("  /  /  ")
+M->FILTRO_3=SPACE(2)
+M->FILTRO_4=SPACE(2)
+M->CODCONTA=SPACE(2)
+RELEVO(05, 05, 21, 54,.F.,,2) // tela EQUERDA
+RELEVO(06, 06, 08, 53,.T.,,2) // BARRA DE TITULO
+@ 07,07 SAY PADC("Relatorio RV5(impressora)",45)  color "W+/R"
+RELEVO(09, 18, 20, 53,.F.,,2) // tela EQUERDA
+@ 11,08 SAY padl("PERIODO ",10) GET M->FILTRO_1 PICTURE "99/99/99"
+@ 12,08 SAY padl("        ",10) GET M->FILTRO_2 PICTURE "99/99/99"
+@ 13,08 SAY padl("CONTA   ",10) GET M->CODCONTA VALID VRFCONTA(13,21)
+SET CURSOR ON
+READ
+M->FILTRO_3=M->CODCONTA
+SET CURSOR OFF
+IF LASTKEY()=27
+   RESTORE SCREEN FROM M->T_ELA
+   RETURN
+ENDIF
+RELEVO(11, 22, 13, 44, .T.,"R+/R")
+@ 12,23 SAY PADC("AGUARDE",21) COLOR "W*+/R"
+SET FILTER TO DATA>=M->FILTRO_1 .AND. DATA<=M->FILTRO_2 .AND. LKCONTA=M->FILTRO_3
+IF .NOT.(DATA>=M->FILTRO_1 .AND. DATA<=M->FILTRO_2 .AND. LKCONTA=M->FILTRO_3)
+   SKIP
+ENDIF
+M->QUEBRA_1 :=DATA
+M->QUEBRA_2 :=DATA
+M->QUEBRA_3 :=LKCONTA
+M->QUEBRA_4 :=LKCAIXA
+M->LI_NHA   :=1
+M->PAG      :=1
+M->TOT_0001 :=0
+M->TOT_0002 :=0
+M->TO4_0001 :=0
+M->TO4_0002 :=0
+M->SOMACONTA:=0
+SET DEVI TO PRINT
+DO WHILE .NOT. EOF()
+   IF INKEY()=27
+      EXIT
+   ELSE
+      DATAOK=DATA
+   ENDIF
+   IF M->LI_NHA=1
+      @ 00,001 SAY CHR(18)
+      @ 01,01 SAY PADC("MFB Material de Constru‡Æo LTDA",80)
+      @ 01,01 SAY "Pagina: "+SUBS(STR(M->PAG+10000,5),2) ; M->PAG=M->PAG+1
+      @ 01,68 SAY DATE()
+      @ 03,001 SAY "RELATORIO :"+"MOVIMENTO FINANCEIRO N§ 5"
+      @ 04,001 SAY "CONTA     :"+M->FILTRO_3+" "+NCONTA(M->FILTRO_3)
+      @ 05,001 SAY "PERIODO   :"+DTOC(M->FILTRO_1)+" a "+DTOC(M->FILTRO_2)
+      @ 07,001 SAY REPL("=",78)
+      @ 08,001 SAY "DIA  DATA"                                      
+      @ 08,017 SAY "CX  DESCRI€ÇO DE CAIXA"                                      
+      @ 08,040 SAY PADL("VALOR",18)
+      @ 08,060 SAY PADL("COMISSAO",18)
+      @ 09,001 SAY REPL("=",78)
+      M->LI_NHA=10
+   ENDIF               
+   @ M->LI_NHA+0,001 SAY dbdata(data)
+   @ M->LI_NHA+0,017 SAY lkcaixa+" "+NCAIXA(lkcaixa)
+   @ M->LI_NHA+0,040 SAY valor    PICTURE "@E 999,999,999,999.99"
+   @ M->LI_NHA+0,060 SAY comissao PICTURE "@E 999,999,999,999.99"
+   M->TOT_0001=M->TOT_0001+valor
+   M->TOT_0002=M->TOT_0002+comissao
+   SKIP
+   M->LI_NHA=M->LI_NHA+1
+   IF M->LI_NHA>40 .OR. EOF()
+      IF EOF()
+         TOT_Rv5(2)
+      ELSE
+         TOT_Rv5(1)
+      ENDIF
+      M->LI_NHA=1
+   ENDIF
+ENDDO
+EJECT
+SET DEVI TO SCREEN
+SET FILTER TO
+RESTORE SCREEN FROM M->T_ELA
+ 
+FUNCTION TOT_Rv5
+PARA PAR1
+IF PAR1=2
+   @ M->LI_NHA+0,001 SAY REPL("-",78)                        
+   @ M->LI_NHA+1,001 SAY "SUBTOTAL (1)"                      
+   @ M->LI_NHA+1,040 SAY M->TOT_0001 PICTURE "@E 999,999,999,999.99" 
+   @ M->LI_NHA+1,060 SAY M->TOT_0002 PICTURE "@E 999,999,999,999.99"   
+   M->LI_NHA=40
+   @ M->LI_NHA+1,001 SAY REPL("=",78)
+ENDIF
+IF PAR1=2
+   @ M->LI_NHA+2,001 SAY "TOTAL "+NCONTA(M->FILTRO_3)
+ELSE
+   @ M->LI_NHA+2,001 SAY "SUBTOTAL (2)" 
+ENDIF
+   @ M->LI_NHA+02,040 SAY M->TOT_0001  PICTURE "@E 999,999,999,999.99"
+   @ M->LI_NHA+02,060 SAY M->TOT_0002  PICTURE "@E 999,999,999,999.99"   
+   @ M->LI_NHA+03,001 SAY REPL("=",78)
+******************************************
+

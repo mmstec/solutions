@@ -1,0 +1,14 @@
+C:
+CD C:\
+CLS
+A:
+COMMAND /P
+
+
+
+
+
+F:
+CD \MFB
+MENU
+

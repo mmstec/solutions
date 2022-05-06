@@ -1,0 +1,218 @@
+
+* TITULO     :  MFB Materiais de Construcao Ltda ( MMStec - Orcamento )
+* DATA       : 06/03/97
+* PROGRAMA   : UTILI02.PRG
+* COMENTARIO : INCLUSAO (2 - Orcamento)
+ 
+**
+** Bloco de inser‡„o I02.B01
+**
+MENSAGEM("Aguarde abertura de arquivos")
+SELE 2
+IF .NOT. USEREDE("PRECO",.F.,10)
+   BEEP()
+   MENSAGEM("O arquivo PRECO n„o est  dispon¡vel",3)
+   RETURN
+ELSE
+   SET INDEX TO PRECO001
+ENDIF
+SELE 2
+**
+** Bloco de inser‡„o I02.B02
+**
+***
+*** Inicio do bloco de substitui‡„o I02.B
+COR("MENU")
+@ LIN_MENU,00
+@ LIN_MENU,01 SAY "Inclus„o ³ 2 - Orcamento"
+M->P_VERI = .T.
+M->X_VERI = .F.
+DO WHILE .T.
+   **
+   ** Bloco de inser‡„o I02.B03
+   **
+   MENSAGEM("Tecle <ESC> para retornar")
+   IF M->P_VERI
+      **
+      ** Bloco de inser‡„o I02.B04
+      **
+      CARREG02(1)
+   ELSE
+      M->X_VERI = .T.
+      **
+      ** Bloco de inser‡„o I02.B05
+      **
+   ENDIF
+   IF CARGET02(1)=.F.
+      EXIT
+   ENDIF
+   **
+   ** Bloco de inser‡„o I02.B10
+   **
+   IF PERG("Confirma as informa‡”es ?")="N"
+      M->P_VERI = .F.
+      **
+      ** Bloco de inser‡„o I02.B11
+      **
+      LOOP
+   ENDIF
+   M->P_VERI = .T.
+   M->X_VERI = .F.
+   **
+   ** Bloco de inser‡„o I02.B12
+   **
+   IF .NOT. ADIREG(0)
+      M->P_VERI=.F.
+      MENSAGEM("Inclus„o n„o foi bem sucedida",3)
+      MENSAGEM("Tecle <ESC> para retornar")
+      LOOP
+   ENDIF
+   SALVAR02()
+   COMMIT
+   UNLOCK
+ENDDO
+RESTSCREEN(LIN_MENU+1,00,23,79,TELA_PRI)
+**
+** Bloco de inser‡„o I02.B13
+**
+*** Final do bloco de substitui‡„o I02.B
+***
+ 
+FUNCTION IFU02001
+IF .NOT.(.NOT.EMPTY(M->IDENTIFIC)) .AND. LASTKEY()<>5
+   BEEP()
+   MENSAGEM(" NAO VAZIO",3)
+   MENSAGEM("Tecle <ESC> para retornar")
+   RETURN .F.
+ENDIF
+RETURN .T.
+ 
+FUNCTION IFU02009
+IF .NOT.(.NOT.EMPTY(M->UNIDADE)) .AND. LASTKEY()<>5
+   BEEP()
+   MENSAGEM("Entre com uma Uniadde (Sc=Saco, Mt=Metro, kg=Kilo,...etc.)",3)
+   MENSAGEM("Tecle <ESC> para retornar")
+   RETURN .F.
+ENDIF
+RETURN .T.
+ 
+FUNCTION IFU02011
+M->VALOR_TOTA = M->QUANTID*M->VALOR_UNIT
+COR("GETS")
+RETURN .T.
+ 
+FUNCTION CARREG02
+PARA R_CAR
+**
+** Bloco de inser‡„o I02.B14
+**
+PUBLIC IDENTIFIC,CODIGO01,CODIGO02,CODIGO03,CODIGO04,DESTINATAR,DESCRICAO,QUANTID,UNIDADE,VALOR_UNIT
+PUBLIC VALOR_TOTA,OBSERVACAO
+IF M->R_CAR=1
+   M->IDENTIFIC=SPACE( 30)
+   M->CODIGO01=SPACE( 30)
+   M->CODIGO02=SPACE( 30)
+   M->CODIGO03=SPACE( 30)
+   M->CODIGO04=SPACE( 30)
+   M->DESTINATAR=SPACE( 30)
+   M->DESCRICAO=SPACE( 30)
+   M->QUANTID=0
+   M->UNIDADE=SPACE(  2)
+   M->VALOR_UNIT=0
+   M->VALOR_TOTA=0
+   M->OBSERVACAO=SPACE( 30)
+   **
+   ** Bloco de inser‡„o I02.B15
+   **
+ELSE
+   M->IDENTIFIC=IDENTIFIC
+   M->CODIGO01=CODIGO01
+   M->CODIGO02=CODIGO02
+   M->CODIGO03=CODIGO03
+   M->CODIGO04=CODIGO04
+   M->DESTINATAR=DESTINATAR
+   M->DESCRICAO=DESCRICAO
+   M->QUANTID=QUANTID
+   M->UNIDADE=UNIDADE
+   M->VALOR_UNIT=VALOR_UNIT
+   M->VALOR_TOTA=VALOR_TOTA
+   M->OBSERVACAO=OBSERVACAO
+   **
+   ** Bloco de inser‡„o I02.B16
+   **
+ENDIF
+ 
+FUNCTION CARGET02
+PARA R_CAR
+**
+** Bloco de inser‡„o I02.B17
+**
+JANELA( 3, 7,19,63,"2 - Orcamento")
+COR("CERCADURAS")
+@  5, 9 TO 18,61
+**
+** Bloco de inser‡„o I02.B18
+**
+COR("GETS")
+**
+** Bloco de inser‡„o I02.B21
+**
+IF M->X_VERI
+   IFU02011()
+ENDIF
+@  6,12 SAY "IDENTIFICACAO :" GET M->IDENTIFIC PICTURE "@!" VALID IFU02001()
+@  7,12 SAY "DESTINATARIO  :" GET M->DESTINATAR PICTURE "@!"
+@  8,12 SAY "CODIGO      01:" GET M->CODIGO01 PICTURE "@!"
+@  9,12 SAY "CODIGO      02:" GET M->CODIGO02 PICTURE "@!"
+@ 10,12 SAY "CODIGO      03:" GET M->CODIGO03 PICTURE "@!"
+@ 11,12 SAY "CODIGO      04:" GET M->CODIGO04 PICTURE "@!"
+@ 12,12 SAY "Descricao     :" GET M->DESCRICAO PICTURE "@!"
+@ 13,12 SAY "Quantidade    :" GET M->QUANTID PICTURE "@Z 999999999.99"
+@ 14,12 SAY "Unidade       :" GET M->UNIDADE PICTURE "@!" VALID IFU02009()
+@ 15,12 SAY "Valor Unitario:" GET M->VALOR_UNIT PICTURE "@Z 9,999,999.99"
+@ 16,12 SAY "Valor total   :" GET M->VALOR_TOTA PICTURE "@Z 9,999,999.99" VALID IFU02011()
+@ 17,12 SAY "Observacoes   :" GET M->OBSERVACAO PICTURE "@!"
+**
+** Bloco de inser‡„o I02.B24
+**
+IF M->R_CAR=3 .OR. M->R_CAR=0
+   CLEAR GETS
+   IF M->R_CAR=0
+      RETURN .T.
+   ENDIF
+   MENSAGEM("Tecle algo para continuar")
+   M->R_X=INKEY(0)
+   IF M->R_X=27
+      RETURN .F.
+   ENDIF
+ELSE
+   SET CURSOR ON
+   READ
+   SET CURSOR OFF
+   IF LASTKEY()=27
+      RETURN .F.
+   ENDIF
+ENDIF
+RETURN .T.
+ 
+FUNCTION SALVAR02
+**
+** Bloco de inser‡„o I02.B27
+**
+REPLACE IDENTIFIC WITH M->IDENTIFIC
+REPLACE CODIGO01 WITH M->CODIGO01
+REPLACE CODIGO02 WITH M->CODIGO02
+REPLACE CODIGO03 WITH M->CODIGO03
+REPLACE CODIGO04 WITH M->CODIGO04
+REPLACE DESTINATAR WITH M->DESTINATAR
+REPLACE DESCRICAO WITH M->DESCRICAO
+REPLACE QUANTID WITH M->QUANTID
+REPLACE UNIDADE WITH M->UNIDADE
+REPLACE VALOR_UNIT WITH M->VALOR_UNIT
+REPLACE VALOR_TOTA WITH M->VALOR_TOTA
+REPLACE OBSERVACAO WITH M->OBSERVACAO
+**
+** Bloco de inser‡„o I02.B28
+**
+ 
+* Final do programa UTILI02.PRG
