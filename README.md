@@ -1,4 +1,4 @@
-# Solutions Eventos
+# Solutions Clipper
 Este repositório agrega soluções diversas para atendimento de demandas específicas.
 
 ## 📄 Licença
