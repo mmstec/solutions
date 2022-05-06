@@ -1,0 +1,166 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using System.IO;
+using System.Drawing.Text;
+
+namespace Exemplos
+{
+    public partial class frmCodBarras : Form
+    {
+        public frmCodBarras()
+        {
+            InitializeComponent();
+        }        
+
+        private Font _Fonte;
+        private string CAMINHO_FONTES;
+        
+        private void carregaListaFonte()
+        {
+            /*
+            Try
+            Dim dir As DirectoryInfo = New DirectoryInfo(CAMINHO_FONTES)
+            If dir.Exists Then
+                Dim file As FileInfo() = dir.GetFiles
+                For Each fonts As FileInfo In file
+                    If fonts.Extension = ".TTF" Then
+                        cboFonteTP.Items.Add(fonts.Name)
+                    End If
+                Next
+                cboFonteTP.SelectedIndex = 0
+            End If
+            Catch ex As Exception
+            MessageBox.Show(ex.Message)
+            End Try
+            */
+
+            try
+            {
+                DirectoryInfo dir = new DirectoryInfo(CAMINHO_FONTES);
+
+                if (dir.Exists)
+                {
+                    FileInfo[] file = dir.GetFiles();
+
+                    foreach (FileInfo fonts in file)
+                    {
+                        if (fonts.Extension == ".TTF")
+                        {
+                            cboFonteTP.Items.Add(fonts.Name);
+                        }
+                    }
+
+                    cboFonteTP.SelectedIndex = 0;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void carregaFonte(string fonte)
+        {
+            /*
+            Dim pfc As PrivateFontCollection = New PrivateFontCollection
+            pfc.AddFontFile(CAMINHO_FONTES + "\" + fonte)
+            Dim fontFamily As FontFamily = pfc.Families(0)
+            _Fonte = New Font(fontFamily, 30)
+            */
+
+            PrivateFontCollection pfc = new PrivateFontCollection();
+            pfc.AddFontFile(CAMINHO_FONTES + @"\" + fonte);
+
+            FontFamily fontFamily = pfc.Families[0];
+            _Fonte = new Font(fontFamily, 30);
+        }
+
+        private string formataCodigoBarras(string codigo)
+        {
+            /*
+            Dim codigoBarras As String = String.Empty
+            codigoBarras = String.Format("*{0}*", codigo)
+            Return codigoBarras
+            */
+
+            string codigoBarras = "";
+            codigoBarras = string.Format("*{0}*", codigo);
+            return codigoBarras;
+        }
+
+        private void frmCodBarras_Load(object sender, EventArgs e)
+        {
+            CAMINHO_FONTES = @"D:\vbnet\codbarras\Barcode\Fonts";
+            carregaListaFonte();
+        }
+        /// <summary>
+        /// evento "SelectedIndexChanged"  da "ComboBox" com o nome "cboFonteTP" existente no seu form.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void cboFonteTP_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            /*
+            Try
+                carregaFonte(cboFonteTP.SelectedItem.ToString)
+            Catch ex As Exception
+                MessageBox.Show(ex.Message)
+            End Try 
+            */
+
+            try
+            {
+                carregaFonte(cboFonteTP.SelectedItem.ToString());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void btnGeraBarras_Click(object sender, EventArgs e)
+        {
+            /*
+            Try
+            If txtNumero.Text = String.Empty Then
+                lblNumero.Text = "Informe o número para gerar o código de barras."
+            Else
+                If Not (_Fonte Is Nothing) Then
+                    lblNumero.Font = _Fonte
+                    lblCodBarra.Text = formataCodigoBarras(txtNumero.Text)
+                    lblNumero.Text = formataCodigoBarras(txtNumero.Text)
+                End If
+            End If
+            Catch ex As Exception
+                MessageBox.Show(ex.Message)
+            End Try 
+            */
+
+            try
+            {
+                if (txtNumero.Text == "")
+                {
+                    lblNumero.Text = "Informe o número para gerar o código de barras.";
+                }
+                else
+                {
+                    if (_Fonte != null)
+                    {
+                        lblNumero.Font = _Fonte;
+                        lblCodBarra.Text = formataCodigoBarras(txtNumero.Text);
+                        lblNumero.Text = formataCodigoBarras(txtNumero.Text);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.BLL\bin\Debug\CONVITES.BLL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.BLL\bin\Debug\CONVITES.BLL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.BLL\bin\Debug\CONVITES.DAL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.BLL\bin\Debug\CONVITES.DAL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.BLL\obj\Debug\CONVITES.BLL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.BLL\obj\Debug\CONVITES.BLL.pdb
+C:\MMSTEC\PROJETOS\Solution Eventos\SIC.BLL\bin\Debug\CONVITES.BLL.dll
+C:\MMSTEC\PROJETOS\Solution Eventos\SIC.BLL\bin\Debug\CONVITES.BLL.pdb
+C:\MMSTEC\PROJETOS\Solution Eventos\SIC.BLL\bin\Debug\CONVITES.DAL.dll
+C:\MMSTEC\PROJETOS\Solution Eventos\SIC.BLL\bin\Debug\CONVITES.DAL.pdb
+C:\MMSTEC\PROJETOS\Solution Eventos\SIC.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\MMSTEC\PROJETOS\Solution Eventos\SIC.BLL\obj\Debug\CONVITES.BLL.dll
+C:\MMSTEC\PROJETOS\Solution Eventos\SIC.BLL\obj\Debug\CONVITES.BLL.pdb

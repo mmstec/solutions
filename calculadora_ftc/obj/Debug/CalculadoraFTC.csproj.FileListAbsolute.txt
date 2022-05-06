@@ -1,0 +1,9 @@
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\bin\Debug\CalculadoraFTC.exe
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\bin\Debug\CalculadoraFTC.pdb
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\CalculadoraFTC.csprojResolveAssemblyReference.cache
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\CalculadoraFTC.AboutBox1.resources
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\CalculadoraFTC.Form1.resources
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\CalculadoraFTC.Properties.Resources.resources
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\CalculadoraFTC.csproj.GenerateResource.Cache
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\CalculadoraFTC.exe
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\CalculadoraFTC.pdb

@@ -1,0 +1,14 @@
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\CalcFTC.csproj.GenerateResource.Cache
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\bin\Debug\mmstec.ico
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\bin\Debug\001.wav
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\bin\Debug\002.wav
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\bin\Debug\003.wav
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\CalcFTC.csprojResolveAssemblyReference.cache
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\bin\Debug\COMUNICADO CRITÉRIOS DE AVALIAÇÃO 2014.pdf
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\SimuladorDeNotasFTC.Properties.Resources.resources
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\bin\Debug\SimuladorDeNotasFTC.exe
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\bin\Debug\SimuladorDeNotasFTC.pdb
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\SimuladorDeNotasFTC.AboutBox1.resources
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\SimuladorDeNotasFTC.Form1.resources
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\SimuladorDeNotasFTC.exe
+C:\MMSTEC\DESENVOLVEDOR\Solution Calc\CalculadoraFTC\obj\Debug\SimuladorDeNotasFTC.pdb
