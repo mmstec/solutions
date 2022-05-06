@@ -4,7 +4,7 @@ Este repositório agrega soluções diversas para atendimento de demandas espec�
 ## 📄 Licença
 
 Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/mmstec/mmstec/blob/main/LICENSE) para detalhes. <br />
-Desde que o autor seja citado, pode o conteudo deste repositorio ara seus estudos ou experimentos.
+Desde que o autor seja citado, o conteúdo deste repositorio pode ser usado para seus estudos ou experimentos.
 
 ## 🚀 Citação
 ```
