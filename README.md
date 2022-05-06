@@ -1,4 +1,4 @@
-# Solutions VisuAlg
+# Solutions Eventos
 Este repositório agrega soluções diversas para atendimento de demandas específicas.
 
 ## 📄 Licença
