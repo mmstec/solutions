@@ -17,9 +17,7 @@ O portal corporativo é uma página voltada para os funcionários e que fornece 
 * Quanto ao armazenamento de dados, foi escolhido o Microsoft SQL Server.
 
 ```
-Nota: A escolha dessas tecnologias está baseada pela facilidade de utilização e obtenção 
-de documentação, conhecimento do desenvolvedor e também por todas essas 
-tecnologias terem versões gratuitas
+Nota: A escolha dessas tecnologias está baseada pela facilidade de utilização e obtenção de documentação, conhecimento do desenvolvedor e também por todas essas tecnologias terem versões gratuitas
 ```
 
 ## 📄 Licença
