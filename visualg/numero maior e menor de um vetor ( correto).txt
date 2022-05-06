@@ -1,0 +1,91 @@
+maior e menor (VETOR)
+
+//faz um for para pecorrer um vetor de 5 posiçoes
+for ( int i = 0; i < 5; i ++)
+{
+   Console.WriteLine(vetor[i]);
+}
+//para verificar se eh maior, atribuo a variavel maior a posicao 0 como maios
+Maior = vetor[0];
+Quantidade = 1;
+Posição = 0;
+
+//fazer um for para pecorrer o vetor e encontrar o maior numero,começa de 1 por que a posição 0 ja foi
+for ( int i = 1; i < 5; i ++)
+{
+   //se o vetor na posicao i for maior que a variavel maior,incrementa as variaveis
+   if ( vetor[i] > maior )
+  {
+      Maior = vetor[i];
+      Posicao = i;
+      Quantidade = 1;
+  }else if ( vetor[i] == maior){
+       Quantidade ++;
+       // faz isso por quer o numero podem ser iguais
+  }
+   Console.WriteLine("o maior valor eh", Maior);
+   Console.WriteLine("a quantidade de vezes eh", Quantidade);
+   Console.WriteLine("a posicao que se encontra eh", Posicao);
+
+}
+
+-------------------------------------
+pedir par ao usuario informar o valor do vetor
+
+//vou criar primeiro o vetor
+int [] Vetor = new int [10];
+//pedir para ele informar o valor da primeira posição no for
+ for ( int i = 0; i < 10; i++)
+  {
+    Console.WriteLine("informe o vamor");
+    Console.Write("%d", &Vator[i]);
+  }
+//agora imprimindo os valor digitados
+ for ( int i = 0; i < 6; i++)
+  {
+    Console.WriteLine("%d\n", Vetor[i]);
+    // se se quisar imprimir com a posicao faz assim
+    Console.WriteLine("Posicao %d: %d\n", Vetor[i]);
+  }
+    Console.ReadKey();
+------------------------------------------------
+(MATRIZ)    
+    //vou criar primeiro uma matriz
+int Matriz [2] [2];
+
+//pedir para ele informar o valor da primeira posição no for
+ for ( int i = 0; i < 2; i++)
+  {
+      for ( int j = 0; j < 2; j++)
+    {
+         Console.WriteLine("informe o vamor");
+         Console.Write("%d", &Matriz[i] [j]);
+    }
+        Console.WriteLine();
+  }
+//agora imprimindo os valor digitados
+ for ( int i = 0; i < 2; i++)
+  { 
+      for ( int j = 0; j < 2; j++)
+     {
+        Console.WriteLine("%d\n", Matriz[i] [j]);
+        // se se quisar imprimir com a posicao faz assim
+        Console.WriteLine("Posicao %d: %d\n", Matriz[i] [j]);
+     } 
+       Console.WriteLine();
+ }
+    Console.ReadKey();
+-----------------------------------------------
+for ( int i = 0; i < 2; i++)
+  {
+      for ( int j = 0; j < 2; j++)
+    {
+         Console.WriteLine("informe o valor da linha", i);
+         leia
+         Console.WriteLine("informe o valor da coluna", j);
+         leia
+         Console.WriteLine(Matriz[i,j]);
+    }
+        Console.WriteLine();
+  }
+
