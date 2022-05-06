@@ -1,4 +1,4 @@
-# Solutions
+# Solutions Fibonacci
 Esta solução atende a uma demanda específica de uma disciplina.
 
 ## 📄 Licença
