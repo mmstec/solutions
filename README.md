@@ -1,5 +1,5 @@
 # Solutions
-Este repositório agrega soluções diversas para atendimento de demandas específicas.
+Neste repositório encontra-se algumas soluções apara atender a diferentes demandas.
 
 ## 📄 Licença
 
