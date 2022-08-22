@@ -1,0 +1,5 @@
+Android Studio | Rename Android Project | Rename Package in Android Studio | Rename Android App
+https://www.youtube.com/watch?v=IG-MgnO4e4s&t=2s
+
+Android Studio | Como transformar um site em aplicativo com o componente WebView do sistema Android
+https://youtu.be/Rjo36GGCAOc
