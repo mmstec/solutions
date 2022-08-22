@@ -1,0 +1,23 @@
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\bin\Debug\EVENTOS.exe.manifest
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\bin\Debug\EVENTOS.application
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\bin\Debug\EVENTOS.exe
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\bin\Debug\EVENTOS.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\bin\Debug\CONVITES.BLL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\bin\Debug\CONVITES.DAL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\bin\Debug\CONVITES.DAL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\bin\Debug\CONVITES.BLL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\ResolveAssemblyReference.cache
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\UIWindows.FormAviso.resources
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\EVENTOS.UIWindows.FormPrincipal.resources
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\EVENTOS.UIWindows.FormConsultar.resources
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\EVENTOS.UIWindows.Properties.Resources.resources
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\EVENTOS.UIWindows.csproj.GenerateResource.Cache
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\EVENTOS.exe.manifest
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\EVENTOS.application
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\EVENTOS.exe
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\EVENTOS.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWindows\obj\Debug\EVENTOS.UIWindows.FormPrintOptions.resources
+C:\mmstec\My Dropbox\PROJETOS\Solution Eventos\SIC.UIWindows\obj\Debug\EVENTOS.exe
+C:\mmstec\My Dropbox\PROJETOS\Solution Eventos\SIC.UIWindows\obj\Debug\EVENTOS.pdb
+L:\mmstec\PROJETOS\Solution Convidados\SIC.UIWindows\obj\Debug\EVENTOS.exe
+L:\mmstec\PROJETOS\Solution Convidados\SIC.UIWindows\obj\Debug\EVENTOS.pdb

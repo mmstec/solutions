@@ -1,0 +1,38 @@
+<publishData>
+  <publishTarget publishUrl="\\192.168.10.1\mmstec$\sic\">
+    <file relUrl="css/img/bg_alert.gif" publishTime="11/25/2009 16:29:23" />
+    <file relUrl="consulta/clientes.aspx" publishTime="01/22/2010 17:16:10" />
+    <file relUrl="css/img/checkmark.jpg" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="MasterPage.Master" publishTime="01/22/2010 11:05:42" />
+    <file relUrl="img/logotipo.png" publishTime="11/25/2009 16:13:35" />
+    <file relUrl="css/img/bg_subnavli_on.jpg" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/bg_bordr.png" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="bin/SIC.UIWeb.pdb" publishTime="01/22/2010 17:35:27" />
+    <file relUrl="css/img/btn_plus.jpg" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="bin/SIC.DAL.dll" publishTime="01/22/2010 17:25:14" />
+    <file relUrl="css/img/bg_nav.gif" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/roundedcornr_544508_bl.png" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/bg_subnav.gif" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="bin/SIC.BLL.pdb" publishTime="01/22/2010 17:25:14" />
+    <file relUrl="CrystalReports/relClientes.aspx" publishTime="11/24/2009 15:25:25" />
+    <file relUrl="img/logotip.bmp" publishTime="11/25/2009 16:13:35" />
+    <file relUrl="bin/SIC.BLL.dll" publishTime="01/22/2010 17:25:14" />
+    <file relUrl="css/img/btn_minus.jpg" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="bin/SIC.DAL.pdb" publishTime="01/22/2010 17:25:13" />
+    <file relUrl="Web.config" publishTime="01/22/2010 11:24:25" />
+    <file relUrl="css/img/bg_main.gif" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/estilo.css" publishTime="01/22/2010 11:02:45" />
+    <file relUrl="css/img/roundedcornr_544508_tl.png" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/bg_cont.jpg" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/roundedcornr_544508_tr.png" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/input_shadow.gif" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/roundedcornr_544508_br.png" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/bg_nav_on.gif" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/bg_bordl.png" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="css/img/bg_nav_off.gif" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="bin/SIC.UIWeb.dll" publishTime="01/22/2010 17:35:27" />
+    <file relUrl="css/img/bg_subnavli_over.gif" publishTime="11/25/2009 16:29:24" />
+    <file relUrl="ReportViewer/relClientes.aspx" publishTime="01/22/2010 14:20:18" />
+    <file relUrl="default.aspx" publishTime="01/22/2010 09:53:09" />
+  </publishTarget>
+</publishData>

@@ -1,0 +1,163 @@
+﻿@charset "utf-8";
+
+/* CSS Document */
+
+/* uso de uma pequena equação do primeiro grau para se obter as dimensões ideais:
+LARGURA IDEAL = VD – ( (BD + BE) + (PD + PE) + (MD + ME) )
+Sendo que: VD é igual ao valor desejado da largura; BD e BE são respectivamente a largura da borda esquerda e direita; PD e PE são respectivamente o valor da margem interna esquerda e direita; e MD e ME são respectivamente os valores da margem externa direita e esquerda.
+*/
+
+/* importante 
+tabela de cores
+http://www.ufpa.br/dicas/htm/htm-cor2.htm
+
+*/
+/*Resetando*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, 
+del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, 
+li, fieldset, form , label, legend, table, caption, tbody, tfoot, thead, tr, th, td, a
+{
+	margin:0; padding:0; border:0; outline:0; vertical-align:baseline;background:transparent;
+}
+
+/*Padrões gerais*/
+body			{width:100%; background:url("img/bg_main.gif") repeat-x; font-size:12px; font-family:verdana, helvetica, arial;}
+a				{text-decoration:none; color:#1297d7;}
+a:hover			{text-decoration:underline;}
+h1			        {font-size: 12px; font-family: Verdana; border: 1px solid #333333; background-color: #FFF2BF; padding: 4px; -moz-border-radius: 4px; color: #333333; margin-top: 20px; margin-right: 10px; }
+h2				{margin-bottom:9px; color:#fe6000; font-size:16px;}
+h3				{margin-bottom:11px; color:#fe6000; font-size:12px;}
+h4				{margin-bottom:12px; color:#fe873f; font-size:16px; font-family:Arial;}
+h5				{font-family:Arial; color:#000; font-size:12px; margin-bottom:0px;}
+h5 a, h5 a:hover    {color:#000; text-decoration:none; font-size:16px;}
+h6				{font-size:12px; font-family: verdana, helvetica, arial;color:red; }
+p				{margin-bottom:23px;}
+ul				{}
+li				{margin-left:15px;}
+
+.shadyinput 		{ background-image: url("img/input_shadow.gif")}
+.escondido  		{ width:0px; height:0px; }
+.btAzul   		{ width:130px; height:25px; line-height:10px; background-color:#1E90FF; font-family:tahoma; font-size:11px; color:#FFFFFF; border-color:#6495ED; font-weight:bold; cursor:hand;}
+.btVerde		{ width:130px; height:25px; line-height:10px; background-color:#009900; font-family:tahoma; font-size:11px; color:#FFFFFF; border-color:#00CC00; font-weight:bold; cursor:hand;}
+.btLaranja		{ width:130px; height:25px; line-height:10px; background-color:#FF8C00; font-family:tahoma; font-size:11px; color:#FFFFFF; border-color:#FFA500; font-weight:bold; cursor:hand;}
+.btCinza		{ width:130px; height:25px; line-height:10px; background-color:#CDCDB4; font-family:tahoma; font-size:11px; color:#FFFFFF; border-color:#EEEED1; font-weight:bold; cursor:hand;}
+.btPadrao 		{ font-size:11px; width:130px; height:25px; line-height:10px; cursor:hand; }
+.btMedio  		{ font-size:11px; width:150px; height:25px; line-height:10px; cursor:hand; }
+.btGrande 		{ font-size:11px; width:190px; height:25px; line-height:10px; cursor:hand; }
+.btFino   		{ font-size:9pt;  width:120px; height:20px; line-height:10px; cursor:hand; }
+.btPeq    		{ font-size:9pt;  width:80px;  height:20px; line-height:10px; cursor:hand; }
+.submitLink 		{ font-family:Verdana; font-size:12px; height:14px; width:100%; text-align:left; color:#00f; background-color:transparent; text-decoration:none; border:none; cursor:hand; }
+.submitLinkPadrao { color:#00f; background-color:transparent; text-decoration:underline; border:none; cursor:hand; }
+.submitLinkLinha { width:100%; color:#00f; background-color:transparent; text-decoration:underline; border:none; cursor:hand; }
+.trPadrao 		{ height:25px }
+.bordaPainelL		{width:10px; background:url("img/painelBoxBgL.gif") no-repeat left top; position:absolute; top:0; left:0;}
+.bordaPainelC		{background:url("img/painelBoxBgC.png") repeat right top; position:absolute; top:0; right:0;}
+.bordaPainelD		{width:10px; background:url("img/painelBoxBgR.png") no-repeat right top; position:absolute; top:0; right:0;}
+	
+/*Padrões específicos*/
+.tudo			{margin:0 auto; position:relative; width:975px; min-height:950px; _height:950px; background:#fff; clear:both;}
+.bordaE			{width:5px; height:1180px; background:url("img/bg_bordl.png") no-repeat left top; position:absolute; top:0; left:0;}
+.bordaD			{width:5px; height:1180px; background:url("img/bg_bordr.png") no-repeat right top; position:absolute; top:0; right:0;}
+.conteudo		{padding:15px;}
+
+/*Topo*/
+.topo			{margin:0 auto;width:963px; border-bottom:solid 1px #ebebeb; position:relative; z-index:100;}
+.topoMarket		{margin:0 auto;width:963px; height:200px; position:relative;}
+.topoLinks		{position:absolute; right:10px; top:8px; font-size:11px; height:42px;}
+.topoLinks 	a	{color:#000;}
+.topoTitulo		{margin:0 auto;width:963px; height:95px; border-bottom:solid 1px #ebebeb; position:relative; z-index:100;}
+.empresa		{margin:0 0 0 10px;font-size:26px; font-family:Arial; }
+.titulo			{width:470px; height:28px; position:relative; top:27px; left:34px; font-size:26px; font-family:Arial; }
+.texto			{width:470px; height:28px; position:absolute; top:56px; left:34px; font-size:26px; font-family:Arial; }
+.cta			{width:320px; position:absolute; top:235px; left:33px; font-size:12px; line-height:19px;}
+.cta	 p		{color:#474640; font-size:11px; margin-bottom:12px;}
+.ctaBtns		{display:block; margin-top:15px;}
+.ctaBtns a, h5	{color:#blue;font-family:Arial; color:#000; font-size:16px; margin-bottom:0px;}
+.ctaBtns a, h6	{color:#red; font-family:Arial; color:#000; font-size:12px; margin-bottom:0px;}
+.ctaBtns a:hover {color:#000000; text-decoration:underline;}
+.ctaBtns img	{float:left; margin-right:14px;}
+
+/*Rodape*/
+.rodape			{
+	border-top:solid 1px #e5e5e5; 
+	width:925px; 
+	height:30px; 
+	position:relative; 
+	top:40px; 
+	margin:0 auto; 
+	padding:19px 17px 0px 0; 
+	text-align:right; 
+	display:block; 
+	clear:both;
+	}
+.rodape a		{color:#000; font-size:11px;}
+.rodape img		{margin-left:15px;}
+
+/*Caixas* 975/3 = 325*/
+	
+.coluna1 		
+	{ /*esquerda*/
+	background:#FFF;width:306px;padding:1px;float:left;height:450px;
+	border-right:dotted 1px #CCCCCC;margin-left:17px;
+	margin-bottom:12px; margin-top:12px;
+	font-size:12px; font-family: verdana, helvetica, arial; 
+	}
+.coluna2		
+	{ /*direita*/
+	background:#FFF;width:306px;padding:1px;float:right;height:450px;
+	border-left:dotted 0px #CCCCCC; margin-right:17px;
+	margin-bottom:12px; margin-top:12px;
+	font-size:12px; font-family: verdana, helvetica, arial; 
+	}
+.coluna3		
+	{ /*centro*/
+	background:#FFF;width:300px;padding:1px;float:left;height:450px;
+	border-right:dotted 1px #CCCCCC; margin-left:10px;margin-right:10px;
+	margin-bottom:12px; margin-top:12px;
+	font-size:12px; font-family: verdana, helvetica, arial; 
+	}
+
+/*Outros */
+.formata { /* esta classe é somente para formatar a fonte */
+  font: 12px arial, verdana, helvetica, sans-serif; 
+  }
+a.tootip{
+  position:relative; 
+  font:12px arial, verdana, helvetica, sans-serif; 
+  padding:0;
+  color:#039;
+  text-decoration:none;
+  border-bottom:2px dotted #039;
+  cursor:help; 
+  z-index:24;
+  }
+a.tootip:hover{
+  background:transparent;
+  z-index:25; 
+  }
+a.tootip span{display: none}
+a.tootip:hover span{ 
+  display:block;
+  position:absolute;
+  width:230px; 
+  top:3em;
+  text-align:justify;
+  left:0;
+  font: 12px arial, verdana, helvetica, sans-serif; 
+  padding:5px 10px;
+  border:1px solid #999;
+  background:#e0ffff; 
+  color:#000;
+}
+
+.moduleRow 				{background-color:antiquewhite; }
+.moduleRowSelected 		{color:#FFFFFF; background-color:#633031; }
+.moduleRowOver 			{background-color:#E5E5CB; }
+caption					{padding:.5em;letter-spacing:.2em;}
+table.estilo			{border:1px solid #FFFFFF;}
+th						{background:url("img/fundo.gif") #0066CC; color:#FFFFFF;padding:1em .7em 1em .7em;font-weight:bold;}
+tbody td, tbody th		{padding:.5em;}
+td.estilo				{padding:0 10px; border-left: 1pt solid white; border-right: 1pt solid #ababab; border-top: 1pt solid white; border-bottom: 1pt solid #ababab}
+tbody tr				{background:#EFEFEF;}
+tbody tr:hover			{background:#60A7FD;color:#000000;}
+tbody tr:hover a, tbody tr:hover a:visited{color:#FFFFFF;}

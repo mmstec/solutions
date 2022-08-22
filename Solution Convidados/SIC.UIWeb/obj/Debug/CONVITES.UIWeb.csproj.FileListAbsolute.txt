@@ -1,0 +1,11 @@
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\obj\Debug\RdlCompile.cache
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\obj\Debug\RdlCompile.compiled
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\bin\CONVITES.UIWeb.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\bin\CONVITES.UIWeb.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\bin\CONVITES.BLL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\bin\CONVITES.DAL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\bin\CONVITES.DAL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\bin\CONVITES.BLL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\obj\Debug\CONVITES.UIWeb.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution Convites\SIC.UIWeb\obj\Debug\CONVITES.UIWeb.pdb

@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="SIC.UIWeb.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<head runat="server">
+    <title>BARRETO MAT. CONSTRUÇÃO | MMSTEC</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    <style type="text/css" media="screen">@import url("css/estilo.css");</style> 
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body ">
+
+    <form id="form1" runat="server">
+    <div class="tudo">
+    
+        <!--INICIO bordars--> 
+        <div class="bordaE"><!--x--></div> 
+        <div class="bordaD"><!--x--></div> 
+        <!--FIM bordars--> 
+    
+        <!-- CABEÇALHO /-->
+           
+        <div class="conteudo">
+            <img alt="BARRETO MAT. CONSTRUCAO" src="img/logotipo.png" />
+            <font face="verdana" size="1">&nbsp&nbsp&nbsp&nbsp&nbsp Versão em desenvolvimento - Usuário: ADMIN</font>
+            <hr />
+            <div class="empresa">BARRETO MAT. CONSTRUCAO - Menu principal</div> 
+            <div class="bordaPainelL"><!--x--></div> 
+            <div class="bordaPainelD"><!--x--></div> 
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        
+        </div>
+        
+    </div>
+    </form>
+</body>
+</html>

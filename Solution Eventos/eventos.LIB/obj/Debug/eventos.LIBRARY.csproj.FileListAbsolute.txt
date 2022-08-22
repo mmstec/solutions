@@ -1,0 +1,5 @@
+K:\MMSTEC\PROJETOS\Solution Eventos\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+K:\MMSTEC\PROJETOS\Solution Eventos\ClassLibrary\bin\Debug\LIBRARY.dll
+K:\MMSTEC\PROJETOS\Solution Eventos\ClassLibrary\bin\Debug\LIBRARY.pdb
+K:\MMSTEC\PROJETOS\Solution Eventos\ClassLibrary\obj\Debug\LIBRARY.dll
+K:\MMSTEC\PROJETOS\Solution Eventos\ClassLibrary\obj\Debug\LIBRARY.pdb

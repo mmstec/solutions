@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EDB6A467-B1ED-4FC3-9AA9-AA4DE8EBC170}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EVENTOS.UIWindows</RootNamespace>
+    <AssemblyName>EVENTOS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ManifestCertificateThumbprint>13A974F56BA4A594DD27D09FE5C3958E42E15B21</ManifestCertificateThumbprint>
+    <ManifestKeyFile>SIC.UIWindows_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\192.168.10.1\mmstec%24\sic\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassComandos.cs" />
+    <Compile Include="ClassPrintDGV.cs" />
+    <Compile Include="FormAviso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAviso.designer.cs">
+      <DependentUpon>FormAviso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConsultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConsultar.Designer.cs">
+      <DependentUpon>FormConsultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrintOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrintOptions.designer.cs">
+      <DependentUpon>FormPrintOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAviso.resx">
+      <DependentUpon>FormAviso.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConsultar.resx">
+      <DependentUpon>FormConsultar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrintOptions.resx">
+      <DependentUpon>FormPrintOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SIC.BLL\EVENTOS.BLL.csproj">
+      <Project>{48F6C34D-E857-4A68-B9B9-936A7A6AC8FF}</Project>
+      <Name>EVENTOS.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIC.DAL\EVENTOS.DAL.csproj">
+      <Project>{BB2DB6AE-2973-4743-99EB-5763D3B2CF0F}</Project>
+      <Name>EVENTOS.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\misc-green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\misc-red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\misc-yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-first.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-forward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-options.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-rec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-repeat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preferences.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\public.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload-alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove-window.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveas-alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-copy-alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-web.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop-alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-withe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundMMSTEC.png" />
+    <None Include="CONVITES.UIWindows_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\misc-branco.png" />
+    <None Include="Resources\misc-branco1.png" />
+    <None Include="Resources\misc.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

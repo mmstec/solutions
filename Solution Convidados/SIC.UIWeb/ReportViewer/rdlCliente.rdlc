@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="DummyDataSource">
+      <rd:DataSourceID>c3c22a90-73a4-4e22-ac9a-cac2fd125427</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>29.7cm</InteractiveHeight>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>21cm</InteractiveWidth>
+  <rd:GridSpacing>0.25cm</rd:GridSpacing>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>2.5cm</RightMargin>
+  <LeftMargin>2.5cm</LeftMargin>
+  <PageHeader>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <Height>2.25cm</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+  </PageHeader>
+  <BottomMargin>2.5cm</BottomMargin>
+  <rd:ReportID>fb58620c-234d-4a15-a64c-345af9487691</rd:ReportID>
+  <PageWidth>21cm</PageWidth>
+  <DataSets>
+    <DataSet Name="dsCliente">
+      <Fields>
+        <Field Name="Controle">
+          <DataField>Controle</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Codigo">
+          <DataField>Codigo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Nome">
+          <DataField>Nome</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Endereco">
+          <DataField>Endereco</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Bairro">
+          <DataField>Bairro</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Cidade">
+          <DataField>Cidade</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Estado">
+          <DataField>Estado</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Cep">
+          <DataField>Cep</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Telefone">
+          <DataField>Telefone</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="RefBan">
+          <DataField>RefBan</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Data">
+          <DataField>Data</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="lkTipo">
+          <DataField>lkTipo</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="lkVendedor">
+          <DataField>lkVendedor</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Obs">
+          <DataField>Obs</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="eMail">
+          <DataField>eMail</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="web">
+          <DataField>web</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NumCartao">
+          <DataField>NumCartao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Validade">
+          <DataField>Validade</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="NomeImp">
+          <DataField>NomeImp</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="LkCartao">
+          <DataField>LkCartao</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="CodSeg">
+          <DataField>CodSeg</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="CGC">
+          <DataField>CGC</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="LimiteCred">
+          <DataField>LimiteCred</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="AtendBloq">
+          <DataField>AtendBloq</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="Contato">
+          <DataField>Contato</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Insc">
+          <DataField>Insc</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Atividade">
+          <DataField>Atividade</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Fax">
+          <DataField>Fax</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="TagFisica">
+          <DataField>TagFisica</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="RefCom">
+          <DataField>RefCom</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Identidade">
+          <DataField>Identidade</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Nascimento">
+          <DataField>Nascimento</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="Filiacao">
+          <DataField>Filiacao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Profissao">
+          <DataField>Profissao</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Foto">
+          <DataField>Foto</DataField>
+          <rd:TypeName>System.Byte[]</rd:TypeName>
+        </Field>
+        <Field Name="Senha">
+          <DataField>Senha</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="RetTrib">
+          <DataField>RetTrib</DataField>
+          <rd:TypeName>System.Int16</rd:TypeName>
+        </Field>
+        <Field Name="CGI">
+          <DataField>CGI</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+        <Field Name="LkCliM">
+          <DataField>LkCliM</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="BloqVendaCR">
+          <DataField>BloqVendaCR</DataField>
+          <rd:TypeName>System.Boolean</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DummyDataSource</DataSourceName>
+        <CommandText />
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>dsCliente</rd:DataSetName>
+        <rd:TableName>Cliente</rd:TableName>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Width>16cm</Width>
+  <Body>
+    <ColumnSpacing>1cm</ColumnSpacing>
+    <ReportItems>
+      <Table Name="table1">
+        <DataSetName>dsCliente</DataSetName>
+        <Details>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="Codigo">
+                      <rd:DefaultName>Codigo</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>=iif(RowNumber(Nothing) mod 2 = 0, "White","#ECE9D8")</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>2</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!Codigo.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="Nome">
+                      <rd:DefaultName>Nome</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>=iif(RowNumber(Nothing) mod 2 = 0, "White","#ECE9D8")</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>1</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!Nome.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="Endereco">
+                      <rd:DefaultName>Endereco</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>=iif(RowNumber(Nothing) mod 2 = 0, "White","#ECE9D8")</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!Endereco.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.63492cm</Height>
+            </TableRow>
+          </TableRows>
+        </Details>
+        <Header>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox1">
+                      <rd:DefaultName>textbox1</rd:DefaultName>
+                      <Style>
+                        <FontSize>9pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>5</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Codigo</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox2">
+                      <rd:DefaultName>textbox2</rd:DefaultName>
+                      <Style>
+                        <FontSize>9pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>4</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Nome</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox3">
+                      <rd:DefaultName>textbox3</rd:DefaultName>
+                      <Style>
+                        <FontSize>9pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>3</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Endereco</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.63492cm</Height>
+            </TableRow>
+          </TableRows>
+        </Header>
+        <TableColumns>
+          <TableColumn>
+            <Width>5.33333cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>5.33333cm</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>5.33333cm</Width>
+          </TableColumn>
+        </TableColumns>
+      </Table>
+    </ReportItems>
+    <Height>1.26984cm</Height>
+  </Body>
+  <Language>en-US</Language>
+  <PageFooter>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <Height>0.75cm</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+  </PageFooter>
+  <TopMargin>2.5cm</TopMargin>
+  <PageHeight>29.7cm</PageHeight>
+</Report>

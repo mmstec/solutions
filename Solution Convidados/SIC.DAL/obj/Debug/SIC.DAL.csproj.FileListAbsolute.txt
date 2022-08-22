@@ -1,0 +1,7 @@
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.DAL\bin\Debug\SIC.DAL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.DAL\bin\Debug\SIC.DAL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.DAL\obj\Debug\SIC.DAL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.DAL\obj\Debug\SIC.DAL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.DAL\bin\Debug\SIC.MODELOS.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.DAL\bin\Debug\SIC.MODELOS.pdb

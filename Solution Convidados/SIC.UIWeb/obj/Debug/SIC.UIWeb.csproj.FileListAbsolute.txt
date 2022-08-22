@@ -1,0 +1,11 @@
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\bin\SIC.UIWeb.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\bin\SIC.UIWeb.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\obj\Debug\SIC.UIWeb.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\obj\Debug\SIC.UIWeb.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\bin\SIC.BLL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\bin\SIC.DAL.dll
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\bin\SIC.BLL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\bin\SIC.DAL.pdb
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\obj\Debug\RdlCompile.cache
+C:\mmstec\My Dropbox\PROJETOS\Solution SIC\SIC.UIWeb\obj\Debug\RdlCompile.compiled
