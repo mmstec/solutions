@@ -30,4 +30,4 @@ Desde que o autor seja citado, o conteúdo deste repositorio pode ser usado para
 ___
 Desenvolvedor,
 Marcos Morais
-Visite https://linktr.ee/marcosmoraisjr
+Visite [https://linktr.ee/marcosmoraisjr](https://www.linkedin.com/in/marcosmoraisjr/)
