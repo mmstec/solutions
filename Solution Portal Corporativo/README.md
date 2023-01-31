@@ -4,9 +4,9 @@
 O portal corporativo é uma página voltada para os funcionários e que fornece informações importantes sobre a própria empresa. Um Portal Corporativo pode proporcionar, de forma transparente para o usuário, diversas vantagens como a interligação entre departamentos ou filiais, ainda que separados fisicamente, melhoria da comunicação diminuindo os custos de telefonia, facilidades para imprimir documentos, aumento da produtividade dos funcionários, melhoria da eficiência administrativa, diminuindo as tarefas e erros operacionais. 
 
 ## 📄 Considerações
-* A linguagem de programação utilizada neste projeto foi Microsoft Visual C#.  
-* Entre inúmeras ferramentas RAD, a ferramenta Microsoft Visual Studio 2008.
-* Quanto ao armazenamento de dados, foi escolhido o Microsoft SQL Server.
+* A linguagem de programação: Microsoft Visual C# (WebForms), HTML, CSS, JavaScript.  
+* Ferramenta RAD:  Microsoft Visual Studio 2008.
+* Quanto ao armazenamento de dados: Microsoft SQL Server.
 
 ```
 Nota: A escolha dessas tecnologias está baseada pela facilidade de utilização e obtenção de documentação, 
