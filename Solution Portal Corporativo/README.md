@@ -1,7 +1,7 @@
 # 🚀 Portal Corporativo
 
 ## 📄 Definição
-O portal corporativo é sistema voltado para colaboradores da empresa. Um Portal Corporativo pode proporcionar, de forma transparente para o usuário, diversas vantagens como a interligação entre departamentos ou filiais, ainda que separados fisicamente, melhoria da comunicação diminuindo os custos de telefonia, facilidades para imprimir documentos, aumento da produtividade dos funcionários, melhoria da eficiência administrativa, diminuindo as tarefas e erros operacionais. 
+O portal corporativo é sistema voltado para colaboradores da empresa. Um Portal Corporativo pode proporcionar, de forma transparente para o usuário, diversas vantagens como a interligação entre departamentos ou filiais, ainda que separados fisicamente, melhoria da comunicação diminuindo os custos de telefonia, facilidades para imprimir documentos, aumento da produtividade dos funcionários, melhoria da eficiência administrativa, diminuindo as tarefas e erros operacionais.
 
 ## 📄 Considerações
 * A linguagem de programação: Microsoft Visual C# (WebForms), HTML, CSS, JavaScript.  
