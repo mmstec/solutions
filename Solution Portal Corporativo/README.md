@@ -1,13 +1,5 @@
 # 🚀 Portal Corporativo
 
-Este projeto atende a uma necessidade especifica relacionada ao Trabalho Monográfico de Conclusão de Curso do
-discente Marcos Morais de Sousa apresentada como parte dos requisitos para obtenção do título de Bacharel em Sistemas de Informação, pela 
-Faculdade de Tecnologia e Ciências de Jequié – UniFTC.
-
-* Orientadora: Profª. Esp. Liana Rita Ferreira
-* Co-orientador: Prof.º Esp. Antônio Luis Neves
-* Co-orientador: Prof.º Esp. Saulo Correa Peixoto
-
 ## 📄 Definição
 O portal corporativo é uma página voltada para os funcionários e que fornece informações importantes sobre a própria empresa. Um Portal Corporativo pode proporcionar, de forma transparente para o usuário, diversas vantagens como a interligação entre departamentos ou filiais, ainda que separados fisicamente, melhoria da comunicação diminuindo os custos de telefonia, facilidades para imprimir documentos, aumento da produtividade dos funcionários, melhoria da eficiência administrativa, diminuindo as tarefas e erros operacionais. 
 
